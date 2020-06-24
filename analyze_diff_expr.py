@@ -1,6 +1,9 @@
 import pandas as pd
 import numpy as np
 
+import seaborn as sns
+import matplotlib.pyplot as plt
+
 import random
 from scipy.stats import hypergeom
 
@@ -32,13 +35,53 @@ df.to_csv("tables/mouse_lung_DE_miRNAs.tsv", sep="\t")
 
 # Compute p-value using Monte-Carlo simulation
 box = list(range(2302))  # There are 2303 miRNAs in total
-N, counter = 10**2, 0  # FIXME
+N, counter = 10**2, 0  # N should be 10**7 (would take several minutes to run)
 for i in range(N):
     set1 = set(random.sample(box, len(df1)))
     set2 = set(random.sample(box, len(df2)))
     if len(set.intersection(set1, set2)) >= len(df):
         counter += 1
 print("p-value on two sets intersection: {}".format(counter / N))
+
+#################
+# Make miRNA expression plots
+#################
+
+groups = {
+    "GSE36971": lambda s: "Infected" if int(s.replace("SRR", "")) % 2 == 0 else "Healthy",
+    "GSE90624": lambda s: "Infected" if s in ["SRR5059365", "SRR5059366", "SRR5059367"] else "Healthy"
+}
+
+for gse in ["GSE36971", "GSE90624"]:
+    #df = pd.read_csv("input_data/{}/expression_raw_counts.tsv".format(gse), sep="\t", index_col=0)
+    #print(np.sum(df.loc["mmu-mir-21a.mmu-miR-21a-5p"].to_numpy()) / np.sum(df.to_numpy()))
+    ##print(np.sum(df.loc["mmu-mir-21a.mmu-miR-21a-5p"]) / np.sum(df))
+    
+    df = pd.read_csv("input_data/{}/expression_normalized_counts.csv".format(gse), index_col=0)
+    df = np.log2(df + 1)
+    
+    # Calculate stats about miR-21a-5p
+    m = df.mean(axis=1).sort_values(ascending=False)
+    print("mmu-miR-21a-5p is {} out of {} in {}".format(m.index.get_loc("mmu-mir-21a.mmu-miR-21a-5p"), len(df), gse))
+
+    df.index.name = "miRNA"
+    df = df.loc[common_miRNAs].reset_index()
+    df["miRNA"] = [miRNA.split(".")[1] for miRNA in df["miRNA"]]
+    df = df.loc[df.mean(axis=1).sort_values(ascending=False).index]
+    df = pd.melt(df, id_vars="miRNA", var_name="Sample", value_name="Expression, log(normalized counts)")
+    df["Group"] = [groups[gse](s) for s in df["Sample"]]
+
+    sns.barplot(
+        x="miRNA", y="Expression, log(normalized counts)", hue="Group", data=df,
+        hue_order=["Healthy", "Infected"],
+        palette={"Healthy": sns.color_palette("Blues")[2], "Infected": sns.color_palette("Blues")[5]}, saturation=1
+    )
+
+    plt.xticks(rotation="45")
+    plt.xlabel("")
+    plt.tight_layout()
+    plt.savefig("figures/miRNA_{}.pdf".format(gse))
+    plt.close()
 
 #################
 # Now analyze DE mRNA targets of miRNAs found
