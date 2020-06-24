@@ -11,15 +11,22 @@ import matplotlib.pyplot as plt
 # Intersect TargetScan and miRDB predictions and take miRNAs having miRDB Target score >= 75
 #################
 
-# Get list of all viruses
-viruses = sorted(os.listdir("input_data/miRDB"))
+viruses = [
+    "SARS-CoV-2",
+    "SARS-CoV",
+    "MERS-CoV",
+    "HCoV-229E",
+    "HCoV-NL63",
+    "HCoV-OC43",
+    "HCoV-HKU1"
+]
 
 # Intersect TargetScan and miRDB predictions
 predicted_miRNA_dfs = []
 num_summary = []  # Number of miRNAs predicted by each of tools
 for virus in viruses:
-    df_TargetScan = pd.read_csv("input_data/TargetScan/{}".format(virus), sep="\t")
-    df_miRDB = pd.read_csv("input_data/miRDB/{}".format(virus), sep="\t")
+    df_TargetScan = pd.read_csv("input_data/TargetScan/{}.tsv".format(virus), sep="\t")
+    df_miRDB = pd.read_csv("input_data/miRDB/{}.tsv".format(virus), sep="\t")
     target_scores = {miRNA: score for miRNA, score in zip(df_miRDB["miRNA Name"], df_miRDB["Target Score"])}
     
     result_list = []
@@ -37,16 +44,16 @@ for virus in viruses:
                 continue
 
             target_score = target_scores[new_name]
-            result_list.append([new_name, virus.rstrip(".txt"), row["MSA_start"], row["MSA_end"], row["Site_type"], target_score])
+            result_list.append([new_name, virus, row["MSA_start"], row["MSA_end"], row["Site_type"], target_score])
     
     # Resuling df
     df = pd.DataFrame(result_list, columns = ["miRNA", "Virus", "Start", "End", "Site type", "Target Score"])
-    df.to_csv("TargetScan_miRDB_intersection/{}.tsv".format(virus.rstrip(".txt")), sep="\t", index=None)
+    df.to_csv("TargetScan_miRDB_intersection/{}.tsv".format(virus), sep="\t", index=None)
     
     num_TargetScan = len(TargetScan_miRNAs)
     num_miRDB = len(df_miRDB)
     num_common = len(np.unique(df["miRNA"]))
-    num_summary.append([virus.rstrip(".txt"), num_miRDB, num_TargetScan, num_common])
+    num_summary.append([virus, num_miRDB, num_TargetScan, num_common])
 
     # Filter by Target score >= 75
     best_miRNAs = df.loc[df["Target Score"] >= 75, ["miRNA", "Virus", "Target Score"]].drop_duplicates()

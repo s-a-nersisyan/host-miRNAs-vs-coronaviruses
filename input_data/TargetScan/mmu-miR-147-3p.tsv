@@ -1,0 +1,21 @@
+Target gene	Representative transcript	Gene name	3P-seq tags + 5	Conserved sites total	Conserved 8mer sites	Conserved 7mer-m8 sites	Conserved 7mer-A1 sites	Poorly conserved sites total	Poorly conserved 8mer sites	Poorly conserved 7mer-m8 sites	Poorly conserved 7mer-A1 sites	6mer sites	Representative miRNA	Cumulative weighted context++ score	Total context++ score	Aggregate PCT	Previous TargetScan publication(s)
+Ndufa4	ENSMUST00000031637.5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4 	1662	1	1	0	0	0	0	0	0	0	mmu-miR-147-3p	-1.09	-1.10	0.14	2005, 2007, 2009, 2011
+Hoxa9	ENSMUST00000114425.2	homeobox A9 	245	1	1	0	0	0	0	0	0	0	mmu-miR-147-3p	-0.62	-0.62	0.14	2007, 2009, 2011
+AI593442	ENSMUST00000098768.2	expressed sequence AI593442 	6	1	1	0	0	0	0	0	0	0	mmu-miR-147-3p	-0.61	-0.61	0.14	2009, 2011
+Kif5a	ENSMUST00000099172.3	kinesin family member 5A 	12	1	1	0	0	0	0	0	0	2	mmu-miR-147-3p	-0.55	-0.55	0.14	2009, 2011
+Bola2	ENSMUST00000106369.1	bolA-like 2 (E. coli) 	2725	1	0	1	0	0	0	0	0	1	mmu-miR-147-3p	-0.47	-0.56	< 0.1	
+Bdnf	ENSMUST00000053317.6	brain derived neurotrophic factor 	576	1	0	0	1	0	0	0	0	0	mmu-miR-147-3p	-0.31	-0.32	0.14	2005, 2007, 2009, 2011
+B4galt5	ENSMUST00000109221.3	UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 5 	212	1	0	0	1	0	0	0	0	0	mmu-miR-147-3p	-0.28	-0.28	0.14	2005, 2007, 2009, 2011
+Pptc7	ENSMUST00000053426.9	PTC7 protein phosphatase homolog (S. cerevisiae) 	2044	1	0	0	1	0	0	0	0	0	mmu-miR-147-3p	-0.22	-0.24	0.14	2009, 2011
+Mef2a	ENSMUST00000156690.2	myocyte enhancer factor 2A 	2235	1	0	0	1	0	0	0	0	0	mmu-miR-147-3p	-0.20	-0.21	0.14	
+Kmt2a	ENSMUST00000114689.2	lysine (K)-specific methyltransferase 2A 	1581	1	1	0	0	0	0	0	0	0	mmu-miR-147-3p	-0.18	-0.19	0.14	2007, 2009, 2011
+Hipk2	ENSMUST00000161779.2	homeodomain interacting protein kinase 2 	4649	1	0	1	0	0	0	0	0	0	mmu-miR-147-3p	-0.18	-0.18	0.14	2007, 2009, 2011
+Cpeb2	ENSMUST00000169035.2	cytoplasmic polyadenylation element binding protein 2 	1473	1	0	0	1	0	0	0	0	0	mmu-miR-147-3p	-0.16	-0.17	0.14	2005, 2007, 2011
+Hif3a	ENSMUST00000108492.3	hypoxia inducible factor 3, alpha subunit 	15	1	0	1	0	0	0	0	0	1	mmu-miR-147-3p	-0.15	-0.18	0.14	2007, 2009, 2011
+Gm10545	ENSMUST00000097612.2	predicted gene 10545 	5	1	0	1	0	0	0	0	0	0	mmu-miR-147-3p	-0.14	-0.14	ORF	
+Arsi	ENSMUST00000040359.5	arylsulfatase i 	137	1	0	1	0	0	0	0	0	0	mmu-miR-147-3p	-0.12	-0.23	0.14	
+Asxl3	ENSMUST00000097655.3	additional sex combs like 3 (Drosophila) 	16	1	0	0	1	0	0	0	0	0	mmu-miR-147-3p	-0.11	-0.14	0.14	2011
+Agpat3	ENSMUST00000001240.6	1-acylglycerol-3-phosphate O-acyltransferase 3 	2432	1	1	0	0	0	0	0	0	0	mmu-miR-147-3p	-0.03	-0.32	0.14	2007
+Ctu2	ENSMUST00000116412.2	cytosolic thiouridylase subunit 2 homolog (S. pombe) 	168	1	1	0	0	0	0	0	0	1	mmu-miR-147-3p	-0.02	-0.51	ORF	
+Sertad1	ENSMUST00000008528.7	SERTA domain containing 1 	710	1	0	1	0	0	0	0	0	0	mmu-miR-147-3p	0	-0.14	0.14	
+Ccdc108	ENSMUST00000094844.3	coiled-coil domain containing 108 	77	1	0	0	1	0	0	0	0	0	mmu-miR-147-3p	0	-0.11	0.14	

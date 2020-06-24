@@ -1,0 +1,1400 @@
+Target gene	Representative transcript	Gene name	3P-seq tags + 5	Total sites	8mer sites	7mer-m8 sites	7mer-A1 sites	6mer sites	Representative miRNA	Cumulative weighted context++ score	Total context++ score	Aggregate PCT
+Tfap2e	ENSMUST00000048194.7	transcription factor AP-2, epsilon 	5	1	1	0	0	0	mmu-miR-5099	-0.77	-0.77	< 0.1
+Nmbr	ENSMUST00000190751.1	neuromedin B receptor 	27	1	1	0	0	0	mmu-miR-5099	-0.59	-0.59	< 0.1
+Nhlh1	ENSMUST00000059794.3	nescient helix loop helix 1 	5	2	0	1	1	0	mmu-miR-5099	-0.57	-0.57	< 0.1
+Gm5087	ENSMUST00000060526.5	predicted gene 5087 	5	1	1	0	0	0	mmu-miR-5099	-0.52	-0.52	< 0.1
+Toporsl	ENSMUST00000029995.5	topoisomerase I binding, arginine/serine-rich like 	5	2	0	0	2	0	mmu-miR-5099	-0.51	-0.51	< 0.1
+Npy5r	ENSMUST00000070810.7	neuropeptide Y receptor Y5 	5	1	1	0	0	0	mmu-miR-5099	-0.49	-0.49	< 0.1
+Sec22a	ENSMUST00000043521.4	SEC22 vesicle trafficking protein homolog A (S. cerevisiae) 	619	1	1	0	0	0	mmu-miR-5099	-0.49	-0.49	< 0.1
+Kremen2	ENSMUST00000046525.8	kringle containing transmembrane protein 2 	5	2	0	0	2	0	mmu-miR-5099	-0.49	-0.49	< 0.1
+Htr2c	ENSMUST00000156697.2	5-hydroxytryptamine (serotonin) receptor 2C 	11	2	0	2	0	0	mmu-miR-5099	-0.48	-0.48	< 0.1
+Ccdc178	ENSMUST00000025160.3	coiled coil domain containing 178 	7	1	1	0	0	0	mmu-miR-5099	-0.47	-0.47	< 0.1
+Tmem39a	ENSMUST00000171687.2	transmembrane protein 39a 	915	1	0	1	0	1	mmu-miR-5099	-0.46	-0.57	< 0.1
+Tmem263	ENSMUST00000095383.4	transmembrane protein 263 	1292	2	0	0	2	2	mmu-miR-5099	-0.46	-0.55	< 0.1
+Ifltd1	ENSMUST00000111706.2	intermediate filament tail domain containing 1 	32	2	0	0	2	0	mmu-miR-5099	-0.46	-0.46	< 0.1
+Hoxd9	ENSMUST00000059272.9	homeobox D9 	265	1	1	0	0	0	mmu-miR-5099	-0.45	-0.45	< 0.1
+Serp1	ENSMUST00000029385.7	stress-associated endoplasmic reticulum protein 1 	4897	1	1	0	0	0	mmu-miR-5099	-0.43	-0.49	< 0.1
+Gm9945	ENSMUST00000067523.1	predicted gene 9945 	5	1	0	1	0	0	mmu-miR-5099	-0.41	-0.41	< 0.1
+Phex	ENSMUST00000079945.5	phosphate regulating gene with homologies to endopeptidases on the X chromosome (hypophosphatemia, vitamin D resistant rickets) 	14	2	1	0	1	0	mmu-miR-5099	-0.41	-0.41	< 0.1
+Wbp5	ENSMUST00000048687.5	WW domain binding protein 5 	52	1	0	1	0	0	mmu-miR-5099	-0.41	-0.41	< 0.1
+BC016579	ENSMUST00000036732.7	cDNA sequence, BC016579 	6	1	0	1	0	0	mmu-miR-5099	-0.40	-0.40	< 0.1
+Rnd3	ENSMUST00000154545.1	Rho family GTPase 3 	111	1	1	0	0	2	mmu-miR-5099	-0.40	-0.42	< 0.1
+BC051076	ENSMUST00000069773.6	cDNA sequence BC051076 	5	1	0	1	0	3	mmu-miR-5099	-0.39	-0.39	< 0.1
+Ryr3	ENSMUST00000080673.6	ryanodine receptor 3 	39	1	1	0	0	0	mmu-miR-5099	-0.38	-0.38	< 0.1
+Pla2g5	ENSMUST00000102512.5	phospholipase A2, group V 	159	1	0	1	0	1	mmu-miR-5099	-0.38	-0.38	< 0.1
+4933400A11Rik	ENSMUST00000068894.1	RIKEN cDNA 4933400A11 gene 	5	1	0	1	0	0	mmu-miR-5099	-0.38	-0.38	< 0.1
+Cep19	ENSMUST00000115168.3	centrosomal protein 19 	195	1	0	1	0	0	mmu-miR-5099	-0.37	-0.37	< 0.1
+Gm20826	ENSMUST00000185348.1	predicted gene, 20826 	5	2	0	0	2	0	mmu-miR-5099	-0.37	-0.37	< 0.1
+Klf6	ENSMUST00000000080.6	Kruppel-like factor 6 	6715	2	0	0	2	1	mmu-miR-5099	-0.37	-0.37	< 0.1
+Ascl1	ENSMUST00000020243.7	achaete-scute complex homolog 1 (Drosophila) 	7	2	0	1	1	0	mmu-miR-5099	-0.36	-0.36	< 0.1
+Tmem158	ENSMUST00000068140.4	transmembrane protein 158 	5	1	0	1	0	0	mmu-miR-5099	-0.36	-0.36	< 0.1
+I830077J02Rik	ENSMUST00000098758.2	RIKEN cDNA I830077J02 gene 	55	2	0	0	2	0	mmu-miR-5099	-0.36	-0.42	< 0.1
+Tnfrsf13b	ENSMUST00000010286.2	tumor necrosis factor receptor superfamily, member 13b 	85	2	0	1	1	0	mmu-miR-5099	-0.36	-0.36	< 0.1
+Slc25a51	ENSMUST00000107796.2	solute carrier family 25, member 51 	225	1	1	0	0	0	mmu-miR-5099	-0.36	-0.37	< 0.1
+Prlr	ENSMUST00000124470.2	prolactin receptor 	195	2	1	0	1	0	mmu-miR-5099	-0.36	-0.37	< 0.1
+Rtbdn	ENSMUST00000067472.8	retbindin 	5	1	0	0	1	1	mmu-miR-5099	-0.36	-0.36	< 0.1
+Tank	ENSMUST00000112502.2	TRAF family member-associated Nf-kappa B activator 	2319	1	0	0	1	1	mmu-miR-5099	-0.35	-0.36	< 0.1
+Nxnl1	ENSMUST00000163659.1	nucleoredoxin-like 1 	24	1	1	0	0	0	mmu-miR-5099	-0.33	-0.33	< 0.1
+Smek2	ENSMUST00000020755.6	SMEK homolog 2, suppressor of mek1 (Dictyostelium) 	1618	2	0	0	2	1	mmu-miR-5099	-0.33	-0.36	< 0.1
+Zfp622	ENSMUST00000061875.6	zinc finger protein 622 	1891	1	0	0	1	0	mmu-miR-5099	-0.33	-0.33	< 0.1
+B230219D22Rik	ENSMUST00000057844.8	RIKEN cDNA B230219D22 gene 	3545	2	0	0	2	0	mmu-miR-5099	-0.32	-0.32	< 0.1
+Msh6	ENSMUST00000005503.3	mutS homolog 6 (E. coli) 	122	1	0	0	1	0	mmu-miR-5099	-0.32	-0.34	< 0.1
+Scgb2b11	ENSMUST00000188293.1	secretoglobin, family 2B, member 11 	5	1	0	0	1	0	mmu-miR-5099	-0.32	-0.32	< 0.1
+Scgb2b18	ENSMUST00000186529.1	secretoglobin, family 2B, member 18 	5	1	0	0	1	0	mmu-miR-5099	-0.31	-0.31	< 0.1
+Vamp2	ENSMUST00000117780.1	vesicle-associated membrane protein 2 	828	2	0	0	2	0	mmu-miR-5099	-0.31	-0.38	< 0.1
+Frrs1l	ENSMUST00000053681.5	ferric-chelate reductase 1 like 	11	2	0	1	1	0	mmu-miR-5099	-0.31	-0.31	< 0.1
+Cldn25	ENSMUST00000023426.6	claudin 25 	133	2	0	0	2	1	mmu-miR-5099	-0.31	-0.48	< 0.1
+Prr32	ENSMUST00000040002.3	proline rich 32 	103	1	0	0	1	0	mmu-miR-5099	-0.31	-0.31	< 0.1
+Wfdc5	ENSMUST00000045127.6	WAP four-disulfide core domain 5 	18	1	0	1	0	0	mmu-miR-5099	-0.31	-0.31	< 0.1
+Cat	ENSMUST00000028610.4	catalase 	36321	1	0	0	1	2	mmu-miR-5099	-0.31	-0.32	< 0.1
+Tbc1d30	ENSMUST00000064107.5	TBC1 domain family, member 30 	252	2	0	1	1	1	mmu-miR-5099	-0.30	-0.36	< 0.1
+Itih5	ENSMUST00000026886.7	inter-alpha (globulin) inhibitor H5 	2023	1	1	0	0	2	mmu-miR-5099	-0.30	-0.34	< 0.1
+Ppt1	ENSMUST00000030412.5	palmitoyl-protein thioesterase 1 	960	2	0	0	2	0	mmu-miR-5099	-0.30	-0.35	< 0.1
+Dhodh	ENSMUST00000143900.2	dihydroorotate dehydrogenase 	444	1	0	0	1	0	mmu-miR-5099	-0.30	-0.30	< 0.1
+Hist2h2bb	ENSMUST00000051089.3	histone cluster 2, H2bb 	14	1	1	0	0	0	mmu-miR-5099	-0.30	-0.49	< 0.1
+Nxt2	ENSMUST00000112916.3	nuclear transport factor 2-like export factor 2 	128	1	0	1	0	1	mmu-miR-5099	-0.30	-0.30	< 0.1
+Ccdc34	ENSMUST00000028580.6	coiled-coil domain containing 34 	1623	1	0	0	1	0	mmu-miR-5099	-0.30	-0.30	< 0.1
+Ubr1	ENSMUST00000028728.5	ubiquitin protein ligase E3 component n-recognin 1 	244	2	0	0	2	1	mmu-miR-5099	-0.29	-0.32	< 0.1
+Aplnr	ENSMUST00000057019.8	apelin receptor 	264	2	0	0	2	0	mmu-miR-5099	-0.29	-0.30	< 0.1
+Slc17a1	ENSMUST00000006785.7	solute carrier family 17 (sodium phosphate), member 1 	5603	1	0	0	1	0	mmu-miR-5099	-0.29	-0.29	< 0.1
+Cypt12	ENSMUST00000029080.3	cysteine-rich perinuclear theca 12 	5	1	0	0	1	0	mmu-miR-5099	-0.29	-0.29	< 0.1
+Lim2	ENSMUST00000004732.5	lens intrinsic membrane protein 2 	5	1	0	0	1	0	mmu-miR-5099	-0.29	-0.29	< 0.1
+Smim1	ENSMUST00000182191.2	small integral membrane protein 1 	940	1	0	1	0	0	mmu-miR-5099	-0.28	-0.28	< 0.1
+Vmn2r79	ENSMUST00000164462.1	vomeronasal 2, receptor 79 	2	1	0	0	1	0	mmu-miR-5099	-0.28	-0.28	< 0.1
+Podxl	ENSMUST00000026698.7	podocalyxin-like 	642	1	1	0	0	1	mmu-miR-5099	-0.28	-0.28	< 0.1
+Cntf	ENSMUST00000112933.1	ciliary neurotrophic factor 	64	1	0	0	1	0	mmu-miR-5099	-0.28	-0.28	< 0.1
+Chmp5	ENSMUST00000030128.5	charged multivesicular body protein 5 	2196	1	0	1	0	0	mmu-miR-5099	-0.28	-0.32	< 0.1
+Fahd1	ENSMUST00000049642.4	fumarylacetoacetate hydrolase domain containing 1 	1146	1	0	0	1	0	mmu-miR-5099	-0.28	-0.28	< 0.1
+Tmem56	ENSMUST00000128909.2	transmembrane protein 56 	253	2	0	0	2	0	mmu-miR-5099	-0.28	-0.37	< 0.1
+Slc8b1	ENSMUST00000068326.8	solute carrier family 8 (sodium/lithium/calcium exchanger), member B1 	147	2	0	0	2	0	mmu-miR-5099	-0.28	-0.28	< 0.1
+Chchd2	ENSMUST00000094280.3	coiled-coil-helix-coiled-coil-helix domain containing 2 	80	1	0	0	1	0	mmu-miR-5099	-0.27	-0.28	< 0.1
+Dusp3	ENSMUST00000151678.2	dual specificity phosphatase 3 (vaccinia virus phosphatase VH1-related) 	2085	1	0	1	0	0	mmu-miR-5099	-0.27	-0.28	< 0.1
+Khdc1b	ENSMUST00000147615.1	KH domain containing 1B 	5	1	0	0	1	1	mmu-miR-5099	-0.27	-0.27	< 0.1
+Tmem141	ENSMUST00000142087.1	transmembrane protein 141 	1435	1	0	0	1	0	mmu-miR-5099	-0.27	-0.27	< 0.1
+Mtx3	ENSMUST00000076169.3	metaxin 3 	491	1	1	0	0	0	mmu-miR-5099	-0.27	-0.28	< 0.1
+Cnot11	ENSMUST00000161515.2	CCR4-NOT transcription complex, subunit 11 	588	1	0	0	1	0	mmu-miR-5099	-0.27	-0.27	< 0.1
+Rcn2	ENSMUST00000114276.2	reticulocalbin 2 	1705	1	0	0	1	0	mmu-miR-5099	-0.27	-0.27	< 0.1
+Reg4	ENSMUST00000029469.4	regenerating islet-derived family, member 4 	5	1	0	0	1	0	mmu-miR-5099	-0.27	-0.27	< 0.1
+Chic2	ENSMUST00000075452.5	cysteine-rich hydrophobic domain 2 	492	1	1	0	0	1	mmu-miR-5099	-0.27	-0.36	< 0.1
+Cd36	ENSMUST00000082367.7	CD36 antigen 	28826	1	0	1	0	0	mmu-miR-5099	-0.27	-0.27	< 0.1
+Esp31	ENSMUST00000174742.1	exocrine gland secreted peptide 31 	5	1	0	0	1	0	mmu-miR-5099	-0.27	-0.27	< 0.1
+Rgag4	ENSMUST00000113631.1	retrotransposon gag domain containing 4 	29	2	0	0	2	0	mmu-miR-5099	-0.26	-0.26	< 0.1
+Dppa2	ENSMUST00000097175.4	developmental pluripotency associated 2 	665	1	0	0	1	1	mmu-miR-5099	-0.26	-0.27	< 0.1
+Gm17567	ENSMUST00000164429.1	predicted gene, 17567 	42	1	0	0	1	2	mmu-miR-5099	-0.26	-0.33	< 0.1
+Kbtbd8	ENSMUST00000119582.1	kelch repeat and BTB (POZ) domain containing 8 	62	2	0	1	1	0	mmu-miR-5099	-0.26	-0.26	< 0.1
+C1galt1c1	ENSMUST00000058265.7	C1GALT1-specific chaperone 1 	226	1	0	0	1	0	mmu-miR-5099	-0.26	-0.26	< 0.1
+Gm9979	ENSMUST00000069457.1	predicted gene 9979 	5	1	0	0	1	1	mmu-miR-5099	-0.26	-0.26	< 0.1
+Fbxo32	ENSMUST00000022986.6	F-box protein 32 	4268	2	1	0	1	1	mmu-miR-5099	-0.26	-0.30	< 0.1
+Pnpla2	ENSMUST00000164016.2	patatin-like phospholipase domain containing 2 	18292	1	0	0	1	0	mmu-miR-5099	-0.26	-0.26	< 0.1
+Lenep	ENSMUST00000057431.5	lens epithelial protein 	416	1	0	0	1	2	mmu-miR-5099	-0.26	-0.39	< 0.1
+Hdac3	ENSMUST00000043498.7	histone deacetylase 3 	976	1	0	0	1	0	mmu-miR-5099	-0.26	-0.26	< 0.1
+Vamp4	ENSMUST00000150040.2	vesicle-associated membrane protein 4 	805	1	0	0	1	0	mmu-miR-5099	-0.26	-0.28	< 0.1
+Spopl	ENSMUST00000132484.1	speckle-type POZ protein-like 	543	1	1	0	0	1	mmu-miR-5099	-0.26	-0.40	< 0.1
+Smad9	ENSMUST00000029371.2	SMAD family member 9 	117	2	0	0	2	1	mmu-miR-5099	-0.25	-0.29	< 0.1
+Commd6	ENSMUST00000100339.3	COMM domain containing 6 	1422	1	0	0	1	0	mmu-miR-5099	-0.25	-0.27	< 0.1
+Gm7489	ENSMUST00000100666.2	predicted gene 7489 	5	1	0	0	1	0	mmu-miR-5099	-0.25	-0.25	< 0.1
+Gm11492	ENSMUST00000060360.5	predicted gene 11492 	5	1	0	0	1	0	mmu-miR-5099	-0.25	-0.25	< 0.1
+Gm10545	ENSMUST00000097612.2	predicted gene 10545 	5	1	0	1	0	2	mmu-miR-5099	-0.25	-0.25	< 0.1
+Kir3dl1	ENSMUST00000113105.2	killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 1 	5	1	0	0	1	0	mmu-miR-5099	-0.25	-0.25	< 0.1
+Kcnj10	ENSMUST00000056136.3	potassium inwardly-rectifying channel, subfamily J, member 10 	172	1	0	1	0	0	mmu-miR-5099	-0.25	-0.25	< 0.1
+Pah	ENSMUST00000020241.9	phenylalanine hydroxylase 	17197	1	0	0	1	0	mmu-miR-5099	-0.25	-0.25	< 0.1
+Ppp6r3	ENSMUST00000113997.3	protein phosphatase 6, regulatory subunit 3 	5638	1	0	0	1	1	mmu-miR-5099	-0.25	-0.25	< 0.1
+Arhgef16	ENSMUST00000030898.6	Rho guanine nucleotide exchange factor (GEF) 16 	68	1	0	0	1	0	mmu-miR-5099	-0.25	-0.25	< 0.1
+1810022K09Rik	ENSMUST00000186870.1	RIKEN cDNA 1810022K09 gene 	78	1	0	0	1	0	mmu-miR-5099	-0.25	-0.25	< 0.1
+Usp25	ENSMUST00000023580.6	ubiquitin specific peptidase 25 	1925	1	0	1	0	0	mmu-miR-5099	-0.25	-0.34	< 0.1
+Rnf39	ENSMUST00000040498.6	ring finger protein 39 	215	1	0	0	1	0	mmu-miR-5099	-0.25	-0.26	< 0.1
+Atic	ENSMUST00000027384.5	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase 	540	1	0	0	1	1	mmu-miR-5099	-0.24	-0.25	< 0.1
+Gsto1	ENSMUST00000026050.7	glutathione S-transferase omega 1 	3326	1	0	0	1	0	mmu-miR-5099	-0.24	-0.26	< 0.1
+Inhba	ENSMUST00000164993.1	inhibin beta-A 	2084	2	0	0	2	2	mmu-miR-5099	-0.24	-0.25	< 0.1
+Dnajb1	ENSMUST00000005620.8	DnaJ (Hsp40) homolog, subfamily B, member 1 	4591	1	0	0	1	0	mmu-miR-5099	-0.24	-0.26	< 0.1
+Mettl7a2	ENSMUST00000176287.1	methyltransferase like 7A2 	1194	1	0	0	1	1	mmu-miR-5099	-0.24	-0.24	< 0.1
+Ankrd32	ENSMUST00000151524.3	ankyrin repeat domain 32 	176	1	0	0	1	0	mmu-miR-5099	-0.24	-0.24	< 0.1
+Mrpl40	ENSMUST00000023391.9	mitochondrial ribosomal protein L40 	704	1	0	0	1	0	mmu-miR-5099	-0.24	-0.24	< 0.1
+Slmo2	ENSMUST00000016401.9	slowmo homolog 2 (Drosophila) 	2289	1	0	0	1	0	mmu-miR-5099	-0.24	-0.24	< 0.1
+Prpf18	ENSMUST00000035721.8	PRP18 pre-mRNA processing factor 18 homolog (yeast) 	850	1	1	0	0	0	mmu-miR-5099	-0.24	-0.30	< 0.1
+Zfp820	ENSMUST00000084141.4	zinc finger protein 820 	27	1	0	0	1	1	mmu-miR-5099	-0.24	-0.24	< 0.1
+Ccr10	ENSMUST00000062759.3	chemokine (C-C motif) receptor 10 	18	1	0	0	1	0	mmu-miR-5099	-0.24	-0.24	< 0.1
+Zfp719	ENSMUST00000058104.7	zinc finger protein 719 	547	1	0	0	1	0	mmu-miR-5099	-0.24	-0.24	< 0.1
+Sgsm1	ENSMUST00000048112.7	small G protein signaling modulator 1 	165	1	1	0	0	0	mmu-miR-5099	-0.23	-0.23	< 0.1
+Dnajc1	ENSMUST00000166495.2	DnaJ (Hsp40) homolog, subfamily C, member 1 	546	2	0	1	1	0	mmu-miR-5099	-0.23	-0.29	< 0.1
+Psmc6	ENSMUST00000022380.7	proteasome (prosome, macropain) 26S subunit, ATPase, 6 	2365	1	0	1	0	0	mmu-miR-5099	-0.23	-0.31	< 0.1
+Alyref2	ENSMUST00000081527.1	Aly/REF export factor 2 	175	1	0	0	1	0	mmu-miR-5099	-0.23	-0.23	< 0.1
+Vbp1	ENSMUST00000033540.5	von Hippel-Lindau binding protein 1 	13205	1	0	0	1	0	mmu-miR-5099	-0.23	-0.23	< 0.1
+Sema3a	ENSMUST00000030714.7	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A 	440	2	0	0	2	1	mmu-miR-5099	-0.23	-0.29	< 0.1
+2310033P09Rik	ENSMUST00000020719.6	RIKEN cDNA 2310033P09 gene 	49	1	0	0	1	1	mmu-miR-5099	-0.23	-0.26	< 0.1
+Rin3	ENSMUST00000056950.8	Ras and Rab interactor 3 	140	1	0	0	1	1	mmu-miR-5099	-0.23	-0.24	< 0.1
+Parg	ENSMUST00000022470.9	poly (ADP-ribose) glycohydrolase 	1461	1	0	0	1	0	mmu-miR-5099	-0.23	-0.23	< 0.1
+Lrrc55	ENSMUST00000111601.1	leucine rich repeat containing 55 	6	1	0	0	1	1	mmu-miR-5099	-0.23	-0.23	< 0.1
+mt-Nd4l	ENSMUST00000084013.1	mitochondrially encoded NADH dehydrogenase 4L 	748388	1	0	0	1	0	mmu-miR-5099	-0.23	-0.23	< 0.1
+Gm4841	ENSMUST00000090260.4	predicted gene 4841 	112	1	0	1	0	0	mmu-miR-5099	-0.23	-0.23	< 0.1
+Mat2a	ENSMUST00000059472.8	methionine adenosyltransferase II, alpha 	204	1	0	0	1	1	mmu-miR-5099	-0.23	-0.25	< 0.1
+Zfyve19	ENSMUST00000102519.4	zinc finger, FYVE domain containing 19 	535	1	0	0	1	0	mmu-miR-5099	-0.23	-0.23	< 0.1
+Zfp322a	ENSMUST00000050101.3	zinc finger protein 322A 	431	2	0	0	2	0	mmu-miR-5099	-0.23	-0.37	< 0.1
+Gm15440	ENSMUST00000110042.1	predicted gene 15440 	639	1	0	0	1	0	mmu-miR-5099	-0.23	-0.23	< 0.1
+Nmnat1	ENSMUST00000119921.2	nicotinamide nucleotide adenylyltransferase 1 	400	1	0	0	1	1	mmu-miR-5099	-0.23	-0.23	< 0.1
+D10Jhu81e	ENSMUST00000001242.7	DNA segment, Chr 10, Johns Hopkins University 81 expressed 	10647	1	0	0	1	0	mmu-miR-5099	-0.23	-0.23	< 0.1
+Cry1	ENSMUST00000020227.9	cryptochrome 1 (photolyase-like) 	56	1	0	0	1	0	mmu-miR-5099	-0.23	-0.23	< 0.1
+Ube2i	ENSMUST00000049911.10	ubiquitin-conjugating enzyme E2I 	87	1	0	0	1	0	mmu-miR-5099	-0.22	-0.22	< 0.1
+Srrm3	ENSMUST00000144211.1	serine/arginine repetitive matrix 3 	10	2	0	0	2	0	mmu-miR-5099	-0.22	-0.22	< 0.1
+Gm9925	ENSMUST00000066583.1	predicted gene 9925 	7	1	0	0	1	1	mmu-miR-5099	-0.22	-0.22	< 0.1
+Sfr1	ENSMUST00000099353.4	SWI5 dependent recombination repair 1 	4220	1	0	0	1	1	mmu-miR-5099	-0.22	-0.25	< 0.1
+H60c	ENSMUST00000170893.2	histocompatibility 60c 	5	1	0	0	1	1	mmu-miR-5099	-0.22	-0.22	< 0.1
+Naip1	ENSMUST00000022142.5	NLR family, apoptosis inhibitory protein 1 	5	1	0	1	0	0	mmu-miR-5099	-0.22	-0.22	< 0.1
+Kir3dl2	ENSMUST00000113108.2	killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 2 	5	1	0	0	1	0	mmu-miR-5099	-0.22	-0.22	< 0.1
+Slc2a13	ENSMUST00000109283.1	solute carrier family 2 (facilitated glucose transporter), member 13 	46	2	0	0	2	0	mmu-miR-5099	-0.22	-0.26	< 0.1
+Mllt11	ENSMUST00000065482.5	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 11 	2318	1	0	0	1	0	mmu-miR-5099	-0.22	-0.22	< 0.1
+Iqgap2	ENSMUST00000068603.6	IQ motif containing GTPase activating protein 2 	485	1	0	0	1	1	mmu-miR-5099	-0.22	-0.24	< 0.1
+Nxph1	ENSMUST00000160300.1	neurexophilin 1 	16	1	0	0	1	0	mmu-miR-5099	-0.22	-0.22	< 0.1
+Cxcr5	ENSMUST00000179828.2	chemokine (C-X-C motif) receptor 5 	5	1	0	1	0	0	mmu-miR-5099	-0.22	-0.22	< 0.1
+Magi2	ENSMUST00000101558.4	membrane associated guanylate kinase, WW and PDZ domain containing 2 	129	1	0	0	1	1	mmu-miR-5099	-0.21	-0.21	< 0.1
+4930533K18Rik	ENSMUST00000058942.5	RIKEN cDNA 4930533K18 gene 	5	1	0	0	1	0	mmu-miR-5099	-0.21	-0.21	< 0.1
+Lix1	ENSMUST00000115576.2	limb expression 1 homolog (chicken) 	43	1	0	0	1	1	mmu-miR-5099	-0.21	-0.21	< 0.1
+Sdccag3	ENSMUST00000114100.4	serologically defined colon cancer antigen 3 	1287	1	0	0	1	0	mmu-miR-5099	-0.21	-0.23	< 0.1
+Ly6d	ENSMUST00000040404.7	lymphocyte antigen 6 complex, locus D 	23	1	0	0	1	0	mmu-miR-5099	-0.21	-0.32	< 0.1
+Btf3l4	ENSMUST00000102742.5	basic transcription factor 3-like 4 	440	1	0	0	1	1	mmu-miR-5099	-0.21	-0.21	< 0.1
+Sult1d1	ENSMUST00000113314.2	sulfotransferase family 1D, member 1 	10529	1	0	0	1	1	mmu-miR-5099	-0.21	-0.26	< 0.1
+S100a16	ENSMUST00000098910.2	S100 calcium binding protein A16 	2292	1	0	0	1	0	mmu-miR-5099	-0.21	-0.21	< 0.1
+Fzd7	ENSMUST00000114246.3	frizzled homolog 7 (Drosophila) 	197	1	0	0	1	1	mmu-miR-5099	-0.21	-0.22	< 0.1
+Pou1f1	ENSMUST00000004964.9	POU domain, class 1, transcription factor 1 	5	1	0	0	1	0	mmu-miR-5099	-0.21	-0.21	< 0.1
+Ddx3y	ENSMUST00000091190.6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked 	375	1	0	0	1	2	mmu-miR-5099	-0.21	-0.25	< 0.1
+Endod1	ENSMUST00000167549.1	endonuclease domain containing 1 	833	1	0	0	1	0	mmu-miR-5099	-0.21	-0.21	< 0.1
+Rbms3	ENSMUST00000111773.4	RNA binding motif, single stranded interacting protein 	289	2	0	0	2	0	mmu-miR-5099	-0.21	-0.22	< 0.1
+Prr16	ENSMUST00000116639.2	proline rich 16 	320	2	0	0	2	0	mmu-miR-5099	-0.21	-0.34	< 0.1
+Slc25a10	ENSMUST00000026899.3	solute carrier family 25 (mitochondrial carrier, dicarboxylate transporter), member 10 	5401	1	0	0	1	0	mmu-miR-5099	-0.21	-0.21	< 0.1
+Pdlim5	ENSMUST00000168967.3	PDZ and LIM domain 5 	17535	1	0	0	1	1	mmu-miR-5099	-0.21	-0.27	< 0.1
+Spcs1	ENSMUST00000160342.2	signal peptidase complex subunit 1 homolog (S. cerevisiae) 	38	1	0	0	1	0	mmu-miR-5099	-0.21	-0.27	< 0.1
+E130114P18Rik	ENSMUST00000107068.3	RIKEN cDNA E130114P18 gene 	6	1	0	0	1	0	mmu-miR-5099	-0.21	-0.21	< 0.1
+Mettl7a1	ENSMUST00000067752.3	methyltransferase like 7A1 	8127	1	0	0	1	0	mmu-miR-5099	-0.21	-0.21	< 0.1
+Uba2	ENSMUST00000102746.5	ubiquitin-like modifier activating enzyme 2 	3921	1	0	0	1	0	mmu-miR-5099	-0.21	-0.21	< 0.1
+Diras2	ENSMUST00000057442.6	DIRAS family, GTP-binding RAS-like 2 	39	1	0	0	1	0	mmu-miR-5099	-0.21	-0.21	< 0.1
+Dio1	ENSMUST00000082426.4	deiodinase, iodothyronine, type I 	25	1	0	0	1	0	mmu-miR-5099	-0.21	-0.21	< 0.1
+Catsperg2	ENSMUST00000061193.3	catsper channel auxiliary subunit gamma 2 	5	1	0	0	1	0	mmu-miR-5099	-0.21	-0.21	< 0.1
+Pip5k1b	ENSMUST00000025800.9	phosphatidylinositol-4-phosphate 5-kinase, type 1 beta 	14	1	0	0	1	0	mmu-miR-5099	-0.20	-0.21	< 0.1
+Krcc1	ENSMUST00000168700.2	lysine-rich coiled-coil 1 	2532	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Zfp874a	ENSMUST00000075255.5	zinc finger protein 874a 	12	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Twf1	ENSMUST00000023087.7	twinfilin, actin-binding protein, homolog 1 (Drosophila) 	451	1	0	0	1	0	mmu-miR-5099	-0.20	-0.23	< 0.1
+Ly6g6c	ENSMUST00000173478.1	lymphocyte antigen 6 complex, locus G6C 	12	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Glt28d2	ENSMUST00000033643.5	glycosyltransferase 28 domain containing 2 	135	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Nacc1	ENSMUST00000001975.4	nucleus accumbens associated 1, BEN and BTB (POZ) domain containing 	503	1	0	1	0	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Cdc27	ENSMUST00000093923.3	cell division cycle 27 	1040	1	0	0	1	1	mmu-miR-5099	-0.20	-0.23	< 0.1
+Far1	ENSMUST00000033018.9	fatty acyl CoA reductase 1 	2040	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Dpysl3	ENSMUST00000121805.2	dihydropyrimidinase-like 3 	340	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Tsn	ENSMUST00000027623.8	translin 	587	1	0	0	1	0	mmu-miR-5099	-0.20	-0.21	< 0.1
+Armc5	ENSMUST00000044660.5	armadillo repeat containing 5 	516	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Lrrc4c	ENSMUST00000135431.2	leucine rich repeat containing 4C 	19	1	0	0	1	1	mmu-miR-5099	-0.20	-0.28	< 0.1
+Fam174b	ENSMUST00000107456.2	family with sequence similarity 174, member B 	471	1	0	1	0	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Gp1ba	ENSMUST00000055184.6	glycoprotein 1b, alpha polypeptide 	5	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Ostn	ENSMUST00000066852.8	osteocrin 	330	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+F11r	ENSMUST00000043839.4	F11 receptor 	5127	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Pgr15l	ENSMUST00000033556.3	G protein-coupled receptor 15-like 	5	1	1	0	0	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Fam136b-ps	ENSMUST00000068987.5	family with sequence similarity 136, member B, pseudogene 	36	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Evx2	ENSMUST00000001867.7	even skipped homeotic gene 2 homolog 	10	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Pnkd	ENSMUST00000087226.5	paroxysmal nonkinesiogenic dyskinesia 	1028	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Nxph2	ENSMUST00000102945.1	neurexophilin 2 	5	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Gm21244	ENSMUST00000189201.1	predicted gene, 21244 	5	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Nudt4	ENSMUST00000020217.5	nudix (nucleoside diphosphate linked moiety X)-type motif 4 	3213	1	0	0	1	0	mmu-miR-5099	-0.20	-0.21	< 0.1
+Nek3	ENSMUST00000033865.10	NIMA (never in mitosis gene a)-related expressed kinase 3 	7	1	0	0	1	0	mmu-miR-5099	-0.20	-0.21	< 0.1
+Zfp420	ENSMUST00000057652.6	zinc finger protein 420 	117	1	0	0	1	0	mmu-miR-5099	-0.20	-0.22	< 0.1
+Atp8b5	ENSMUST00000107942.3	ATPase, class I, type 8B, member 5 	20	1	0	0	1	0	mmu-miR-5099	-0.20	-0.20	< 0.1
+Gm5464	ENSMUST00000100453.1	predicted gene 5464 	6	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Chst7	ENSMUST00000044138.7	carbohydrate (N-acetylglucosamino) sulfotransferase 7 	190	1	0	1	0	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Fgl2	ENSMUST00000035799.5	fibrinogen-like protein 2 	88	1	0	0	1	0	mmu-miR-5099	-0.19	-0.22	< 0.1
+Ttn	ENSMUST00000099980.4	titin 	1242	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Ddx20	ENSMUST00000090680.6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 20 	141	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Mill2	ENSMUST00000072386.5	MHC I like leukocyte 2 	31	2	0	0	2	0	mmu-miR-5099	-0.19	-0.25	< 0.1
+4930505A04Rik	ENSMUST00000041763.8	RIKEN cDNA 4930505A04 gene 	12	1	1	0	0	0	mmu-miR-5099	-0.19	-0.48	< 0.1
+Dlat	ENSMUST00000034567.3	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex) 	7557	1	0	0	1	0	mmu-miR-5099	-0.19	-0.22	< 0.1
+Bcar3	ENSMUST00000029766.4	breast cancer anti-estrogen resistance 3 	544	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Pou2af1	ENSMUST00000034554.7	POU domain, class 2, associating factor 1 	15	1	0	0	1	1	mmu-miR-5099	-0.19	-0.19	< 0.1
+Tcn2	ENSMUST00000109993.3	transcobalamin 2 	355	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Gm10471	ENSMUST00000094946.4	predicted gene 10471 	5	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+H2-DMb2	ENSMUST00000041982.7	histocompatibility 2, class II, locus Mb2 	196	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Gm9938	ENSMUST00000067077.1	predicted gene 9938 	1271	2	0	0	2	2	mmu-miR-5099	-0.19	-0.32	< 0.1
+Cmya5	ENSMUST00000062122.3	cardiomyopathy associated 5 	5136	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Xkr4	ENSMUST00000070533.4	X Kell blood group precursor related family member 4 	5	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Alyref	ENSMUST00000026125.2	Aly/REF export factor 	972	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+H2-D1	ENSMUST00000172785.2	histocompatibility 2, D region locus 1 	4052	1	0	0	1	1	mmu-miR-5099	-0.19	-0.19	< 0.1
+Cav1	ENSMUST00000115453.1	caveolin 1, caveolae protein 	31219	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Plcxd3	ENSMUST00000061925.4	phosphatidylinositol-specific phospholipase C, X domain containing 3 	54	2	0	0	2	1	mmu-miR-5099	-0.19	-0.21	< 0.1
+Ikzf1	ENSMUST00000076700.5	IKAROS family zinc finger 1 	174	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Stk17b	ENSMUST00000027263.8	serine/threonine kinase 17b (apoptosis-inducing) 	735	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Tmem131	ENSMUST00000027290.6	transmembrane protein 131 	778	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Nsl1	ENSMUST00000078259.6	NSL1, MIND kinetochore complex component, homolog (S. cerevisiae) 	132	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Magt1	ENSMUST00000151689.2	magnesium transporter 1 	3001	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Crot	ENSMUST00000003720.4	carnitine O-octanoyltransferase 	4585	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+BC048403	ENSMUST00000136432.1	cDNA sequence BC048403 	91	1	0	0	1	0	mmu-miR-5099	-0.19	-0.22	< 0.1
+Pls1	ENSMUST00000093800.3	plastin 1 (I-isoform) 	164	1	0	0	1	0	mmu-miR-5099	-0.19	-0.20	< 0.1
+Imp4	ENSMUST00000027303.8	IMP4, U3 small nucleolar ribonucleoprotein, homolog (yeast) 	1581	2	1	0	1	3	mmu-miR-5099	-0.19	-0.60	< 0.1
+Gm9990	ENSMUST00000070021.1	predicted gene 9990 	8	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Adam1a	ENSMUST00000100757.4	a disintegrin and metallopeptidase domain 1a 	15	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Pax5	ENSMUST00000107825.3	paired box 5 	5	1	0	0	1	0	mmu-miR-5099	-0.19	-0.19	< 0.1
+Ppp4r4	ENSMUST00000021631.6	protein phosphatase 4, regulatory subunit 4 	90	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Prpf19	ENSMUST00000179297.2	PRP19/PSO4 pre-mRNA processing factor 19 homolog (S. cerevisiae) 	279	1	0	1	0	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Olfr1443	ENSMUST00000049724.6	olfactory receptor 1443 	5	1	0	0	1	1	mmu-miR-5099	-0.18	-0.18	< 0.1
+Klf4	ENSMUST00000107619.2	Kruppel-like factor 4 (gut) 	7	1	0	1	0	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Mcpt4	ENSMUST00000043249.8	mast cell protease 4 	18	1	0	0	1	0	mmu-miR-5099	-0.18	-0.26	< 0.1
+Comt	ENSMUST00000165430.2	catechol-O-methyltransferase 	2214	1	0	0	1	0	mmu-miR-5099	-0.18	-0.25	< 0.1
+Exd1	ENSMUST00000060009.3	exonuclease 3'-5' domain containing 1 	120	1	0	0	1	1	mmu-miR-5099	-0.18	-0.21	< 0.1
+Ptpn20	ENSMUST00000022508.6	protein tyrosine phosphatase, non-receptor type 20 	7	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Cdr2	ENSMUST00000033169.8	cerebellar degeneration-related 2 	3233	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Ankrd26	ENSMUST00000112830.2	ankyrin repeat domain 26 	158	1	0	0	1	0	mmu-miR-5099	-0.18	-0.19	< 0.1
+Adam10	ENSMUST00000067880.7	a disintegrin and metallopeptidase domain 10 	1662	1	0	0	1	0	mmu-miR-5099	-0.18	-0.19	< 0.1
+Col6a3	ENSMUST00000097653.5	collagen, type VI, alpha 3 	2092	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Hdac4	ENSMUST00000097644.3	histone deacetylase 4 	652	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Ufm1	ENSMUST00000146598.2	ubiquitin-fold modifier 1 	2373	1	0	0	1	1	mmu-miR-5099	-0.18	-0.28	< 0.1
+Nxpe3	ENSMUST00000099705.3	neurexophilin and PC-esterase domain family, member 3 	83	1	0	0	1	1	mmu-miR-5099	-0.18	-0.19	< 0.1
+Slc37a2	ENSMUST00000115068.3	solute carrier family 37 (glycerol-3-phosphate transporter), member 2 	116	1	0	0	1	1	mmu-miR-5099	-0.18	-0.18	< 0.1
+Elf1	ENSMUST00000040131.6	E74-like factor 1 	1109	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Ap5m1	ENSMUST00000037473.4	adaptor-related protein complex 5, mu 1 subunit 	694	1	0	0	1	2	mmu-miR-5099	-0.18	-0.21	< 0.1
+Fzd10	ENSMUST00000117102.3	frizzled homolog 10 (Drosophila) 	18	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Atxn1l	ENSMUST00000093162.3	ataxin 1-like 	808	1	0	1	0	1	mmu-miR-5099	-0.18	-0.30	< 0.1
+Fgfr1op	ENSMUST00000097419.4	Fgfr1 oncogene partner 	776	1	0	0	1	1	mmu-miR-5099	-0.18	-0.22	< 0.1
+Anxa6	ENSMUST00000108883.4	annexin A6 	13291	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Actr3	ENSMUST00000027579.11	ARP3 actin-related protein 3 	344	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Rhoq	ENSMUST00000024956.9	ras homolog gene family, member Q 	3696	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+1700066M21Rik	ENSMUST00000042734.2	RIKEN cDNA 1700066M21 gene 	228	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Gng4	ENSMUST00000021734.7	guanine nucleotide binding protein (G protein), gamma 4 	18	1	0	0	1	1	mmu-miR-5099	-0.18	-0.18	< 0.1
+Ube2n	ENSMUST00000099329.3	ubiquitin-conjugating enzyme E2N 	651	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Agtr1a	ENSMUST00000066412.7	angiotensin II receptor, type 1a 	2361	1	0	0	1	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Cyyr1	ENSMUST00000114174.2	cysteine and tyrosine-rich protein 1 	47	1	0	1	0	0	mmu-miR-5099	-0.18	-0.18	< 0.1
+Rab11fip2	ENSMUST00000171986.2	RAB11 family interacting protein 2 (class I) 	452	1	0	0	1	1	mmu-miR-5099	-0.18	-0.18	< 0.1
+Grhl1	ENSMUST00000020985.8	grainyhead-like 1 (Drosophila) 	138	1	0	0	1	1	mmu-miR-5099	-0.18	-0.18	< 0.1
+Rnf141	ENSMUST00000177236.2	ring finger protein 141 	3667	1	0	0	1	0	mmu-miR-5099	-0.17	-0.18	< 0.1
+Fam208b	ENSMUST00000096069.3	family with sequence similarity 208, member B 	86	1	0	0	1	0	mmu-miR-5099	-0.17	-0.24	< 0.1
+Sh2d1b2	ENSMUST00000179976.1	SH2 domain protein 1B2 	38	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Hist1h3g	ENSMUST00000080859.6	histone cluster 1, H3g 	22	1	0	1	0	1	mmu-miR-5099	-0.17	-0.46	< 0.1
+Rprd1b	ENSMUST00000109518.2	regulation of nuclear pre-mRNA domain containing 1B 	2309	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Cdv3	ENSMUST00000116517.3	carnitine deficiency-associated gene expressed in ventricle 3 	133	1	0	0	1	2	mmu-miR-5099	-0.17	-0.21	< 0.1
+Sh3rf2	ENSMUST00000072008.5	SH3 domain containing ring finger 2 	265	1	1	0	0	0	mmu-miR-5099	-0.17	-0.23	< 0.1
+Golga7	ENSMUST00000121783.2	golgi autoantigen, golgin subfamily a, 7 	160	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Lcor	ENSMUST00000067795.6	ligand dependent nuclear receptor corepressor 	127	1	1	0	0	1	mmu-miR-5099	-0.17	-0.22	< 0.1
+Rasef	ENSMUST00000058292.7	RAS and EF hand domain containing 	237	1	0	0	1	1	mmu-miR-5099	-0.17	-0.17	< 0.1
+Mme	ENSMUST00000029400.1	membrane metallo endopeptidase 	1036	1	0	1	0	1	mmu-miR-5099	-0.17	-0.22	< 0.1
+Tmem243	ENSMUST00000115365.1	transmembrane protein 243, mitochondrial 	1050	1	0	0	1	0	mmu-miR-5099	-0.17	-0.28	< 0.1
+Rap2c	ENSMUST00000053593.7	RAP2C, member of RAS oncogene family 	1539	1	0	0	1	1	mmu-miR-5099	-0.17	-0.24	< 0.1
+Gpr114	ENSMUST00000166802.2	G protein-coupled receptor 114 	21	1	0	1	0	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Ank3	ENSMUST00000182884.2	ankyrin 3, epithelial 	1269	1	0	1	0	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Ctnna2	ENSMUST00000162273.1	catenin (cadherin associated protein), alpha 2 	7	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Card6	ENSMUST00000118365.2	caspase recruitment domain family, member 6 	67	1	0	0	1	2	mmu-miR-5099	-0.17	-0.17	< 0.1
+Zfp655	ENSMUST00000167316.2	zinc finger protein 655 	2196	1	0	0	1	2	mmu-miR-5099	-0.17	-0.22	< 0.1
+Zranb2	ENSMUST00000106057.2	zinc finger, RAN-binding domain containing 2 	3629	1	0	0	1	0	mmu-miR-5099	-0.17	-0.18	< 0.1
+Nkd2	ENSMUST00000022051.8	naked cuticle 2 homolog (Drosophila) 	142	1	0	1	0	2	mmu-miR-5099	-0.17	-0.27	< 0.1
+Glb1l2	ENSMUST00000040398.8	galactosidase, beta 1-like 2 	214	1	0	0	1	1	mmu-miR-5099	-0.17	-0.20	< 0.1
+Cd302	ENSMUST00000074606.5	CD302 antigen 	811	1	0	0	1	0	mmu-miR-5099	-0.17	-0.29	< 0.1
+Tc2n	ENSMUST00000162735.2	tandem C2 domains, nuclear 	179	1	0	0	1	2	mmu-miR-5099	-0.17	-0.22	< 0.1
+Gdnf	ENSMUST00000022744.3	glial cell line derived neurotrophic factor 	12	1	0	0	1	0	mmu-miR-5099	-0.17	-0.19	< 0.1
+Chd6	ENSMUST00000039782.8	chromodomain helicase DNA binding protein 6 	616	1	0	1	0	0	mmu-miR-5099	-0.17	-0.20	< 0.1
+Gm10742	ENSMUST00000099198.2	predicted gene 10742 	8	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Caprin2	ENSMUST00000111569.3	caprin family member 2 	147	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Aldh1a3	ENSMUST00000015278.8	aldehyde dehydrogenase family 1, subfamily A3 	26	1	0	1	0	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Zswim6	ENSMUST00000105097.2	zinc finger SWIM-type containing 6 	294	1	0	0	1	1	mmu-miR-5099	-0.17	-0.17	< 0.1
+Fam26d	ENSMUST00000048052.5	family with sequence similarity 26, member D 	5	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Gbp11	ENSMUST00000171587.1	guanylate binding protein 11 	145	1	0	0	1	2	mmu-miR-5099	-0.17	-0.17	< 0.1
+Zfp7	ENSMUST00000023179.5	zinc finger protein 7 	201	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Hmgn2	ENSMUST00000136327.1	high mobility group nucleosomal binding domain 2 	8	1	1	0	0	1	mmu-miR-5099	-0.17	-0.45	< 0.1
+Rhbdd1	ENSMUST00000027322.8	rhomboid domain containing 1 	651	1	0	0	1	1	mmu-miR-5099	-0.17	-0.17	< 0.1
+Zbtb14	ENSMUST00000112674.2	zinc finger and BTB domain containing 14 	43	1	0	0	1	1	mmu-miR-5099	-0.17	-0.22	< 0.1
+Ncs1	ENSMUST00000000199.7	neuronal calcium sensor 1 	761	1	0	0	1	0	mmu-miR-5099	-0.17	-0.18	< 0.1
+Rasgef1a	ENSMUST00000164960.1	RasGEF domain family, member 1A 	899	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Ttpa	ENSMUST00000117632.2	tocopherol (alpha) transfer protein 	3601	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Pou4f2	ENSMUST00000034115.4	POU domain, class 4, transcription factor 2 	5	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Rcc1	ENSMUST00000084250.5	regulator of chromosome condensation 1 	466	1	0	0	1	0	mmu-miR-5099	-0.17	-0.17	< 0.1
+Lrba	ENSMUST00000107635.1	LPS-responsive beige-like anchor 	863	1	0	0	1	0	mmu-miR-5099	-0.16	-0.17	< 0.1
+Ipo8	ENSMUST00000048418.8	importin 8 	500	1	0	0	1	0	mmu-miR-5099	-0.16	-0.18	< 0.1
+9930022D16Rik	ENSMUST00000055404.7	RIKEN cDNA 9930022D16 gene 	5	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Tcf24	ENSMUST00000185184.1	transcription factor 24 	370	1	0	0	1	0	mmu-miR-5099	-0.16	-0.17	< 0.1
+5031410I06Rik	ENSMUST00000063524.2	RIKEN cDNA 5031410I06 gene 	5	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Gm21698	ENSMUST00000191203.1	predicted gene, 21698 	5	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Exoc1	ENSMUST00000087133.5	exocyst complex component 1 	298	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Slc30a4	ENSMUST00000005952.5	solute carrier family 30 (zinc transporter), member 4 	461	1	0	0	1	0	mmu-miR-5099	-0.16	-0.17	< 0.1
+Wdr44	ENSMUST00000101670.2	WD repeat domain 44 	211	1	0	0	1	1	mmu-miR-5099	-0.16	-0.23	< 0.1
+Eltd1	ENSMUST00000046977.7	EGF, latrophilin seven transmembrane domain containing 1 	1141	1	0	0	1	0	mmu-miR-5099	-0.16	-0.17	< 0.1
+Arl5a	ENSMUST00000036541.7	ADP-ribosylation factor-like 5A 	1270	1	0	0	1	1	mmu-miR-5099	-0.16	-0.21	< 0.1
+Pou3f3	ENSMUST00000054883.3	POU domain, class 3, transcription factor 3 	71	1	0	0	1	2	mmu-miR-5099	-0.16	-0.18	< 0.1
+Cpd	ENSMUST00000021201.5	carboxypeptidase D 	3036	2	1	0	1	1	mmu-miR-5099	-0.16	-0.18	< 0.1
+Siglec15	ENSMUST00000170760.2	sialic acid binding Ig-like lectin 15 	0	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Mthfsl	ENSMUST00000113110.4	5, 10-methenyltetrahydrofolate synthetase-like 	58	2	0	0	2	2	mmu-miR-5099	-0.16	-0.28	< 0.1
+Atl3	ENSMUST00000170373.2	atlastin GTPase 3 	6920	1	0	0	1	2	mmu-miR-5099	-0.16	-0.18	< 0.1
+Pth2r	ENSMUST00000027083.6	parathyroid hormone 2 receptor 	8	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Ipcef1	ENSMUST00000105617.2	interaction protein for cytohesin exchange factors 1 	7	1	0	0	1	3	mmu-miR-5099	-0.16	-0.16	< 0.1
+Gbp4	ENSMUST00000100962.3	guanylate binding protein 4 	102	1	0	0	1	1	mmu-miR-5099	-0.16	-0.18	< 0.1
+Mfsd7b	ENSMUST00000085635.4	major facilitator superfamily domain containing 7B 	550	1	0	0	1	1	mmu-miR-5099	-0.16	-0.16	< 0.1
+Pgbd5	ENSMUST00000172566.2	piggyBac transposable element derived 5 	15	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Ngrn	ENSMUST00000117989.1	neugrin, neurite outgrowth associated 	1548	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Krt26	ENSMUST00000100482.2	keratin 26 	5	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Chrm3	ENSMUST00000187510.1	cholinergic receptor, muscarinic 3, cardiac 	41	1	0	0	1	1	mmu-miR-5099	-0.16	-0.16	< 0.1
+Drp2	ENSMUST00000153424.2	dystrophin related protein 2 	39	1	0	0	1	1	mmu-miR-5099	-0.16	-0.16	< 0.1
+Crebl2	ENSMUST00000046303.6	cAMP responsive element binding protein-like 2 	459	1	0	0	1	0	mmu-miR-5099	-0.16	-0.17	< 0.1
+Stx17	ENSMUST00000107720.3	syntaxin 17 	664	2	0	0	2	0	mmu-miR-5099	-0.16	-0.19	< 0.1
+Gm15737	ENSMUST00000113434.1	predicted gene 15737 	10	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Umod	ENSMUST00000033263.4	uromodulin 	6770	1	0	0	1	0	mmu-miR-5099	-0.16	-0.19	< 0.1
+Snapc4	ENSMUST00000114115.3	small nuclear RNA activating complex, polypeptide 4 	56	1	0	1	0	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Apobec3	ENSMUST00000176325.2	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 3 	99	1	0	0	1	1	mmu-miR-5099	-0.16	-0.19	< 0.1
+Six4	ENSMUST00000043208.7	sine oculis-related homeobox 4 	266	1	0	0	1	0	mmu-miR-5099	-0.16	-0.17	< 0.1
+Abhd12b	ENSMUST00000182927.2	abhydrolase domain containing 12B 	7	1	0	0	1	0	mmu-miR-5099	-0.16	-0.23	< 0.1
+Ubap1	ENSMUST00000072866.6	ubiquitin-associated protein 1 	610	1	0	0	1	0	mmu-miR-5099	-0.16	-0.27	< 0.1
+Tnfrsf11a	ENSMUST00000027559.7	tumor necrosis factor receptor superfamily, member 11a 	133	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Gbp9	ENSMUST00000031238.7	guanylate-binding protein 9 	471	1	0	0	1	0	mmu-miR-5099	-0.16	-0.16	< 0.1
+Mrpl10	ENSMUST00000001485.4	mitochondrial ribosomal protein L10 	571	1	0	0	1	0	mmu-miR-5099	-0.16	-0.20	< 0.1
+Cldn2	ENSMUST00000054889.3	claudin 2 	4654	1	0	0	1	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Ceacam18	ENSMUST00000032663.8	carcinoembryonic antigen-related cell adhesion molecule 18 	5	1	0	0	1	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Zfp715	ENSMUST00000048015.8	zinc finger protein 715 	79	1	0	0	1	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+9430015G10Rik	ENSMUST00000072554.7	RIKEN cDNA 9430015G10 gene 	153	1	0	0	1	0	mmu-miR-5099	-0.15	-0.17	< 0.1
+Atg12	ENSMUST00000035648.4	autophagy related 12 	1288	1	0	0	1	1	mmu-miR-5099	-0.15	-0.23	< 0.1
+Npbwr1	ENSMUST00000044180.4	neuropeptides B/W receptor 1 	6	1	0	1	0	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Fam46a	ENSMUST00000034802.9	family with sequence similarity 46, member A 	261	1	0	0	1	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Rps6ka3	ENSMUST00000033671.7	ribosomal protein S6 kinase polypeptide 3 	1770	1	0	0	1	1	mmu-miR-5099	-0.15	-0.21	< 0.1
+Csgalnact1	ENSMUST00000078350.7	chondroitin sulfate N-acetylgalactosaminyltransferase 1 	280	1	0	0	1	1	mmu-miR-5099	-0.15	-0.15	< 0.1
+Pla2g4d	ENSMUST00000094665.4	phospholipase A2, group IVD 	5	1	0	1	0	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Spred1	ENSMUST00000028829.7	sprouty protein with EVH-1 domain 1, related sequence 	1322	1	0	0	1	1	mmu-miR-5099	-0.15	-0.16	< 0.1
+Gramd1b	ENSMUST00000121357.2	GRAM domain containing 1B 	86	2	0	2	0	0	mmu-miR-5099	-0.15	-0.24	< 0.1
+Nabp1	ENSMUST00000027279.6	nucleic acid binding protein 1 	1026	1	0	0	1	1	mmu-miR-5099	-0.15	-0.20	< 0.1
+Zfp239	ENSMUST00000079405.9	zinc finger protein 239 	99	1	0	0	1	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Rab5b	ENSMUST00000000727.2	RAB5B, member RAS oncogene family 	131	1	0	0	1	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Trim24	ENSMUST00000031859.8	tripartite motif-containing 24 	61	1	0	0	1	1	mmu-miR-5099	-0.15	-0.17	< 0.1
+Pof1b	ENSMUST00000039887.3	premature ovarian failure 1B 	39	1	0	0	1	1	mmu-miR-5099	-0.15	-0.18	< 0.1
+Hivep2	ENSMUST00000191138.1	human immunodeficiency virus type I enhancer binding protein 2 	296	1	0	0	1	1	mmu-miR-5099	-0.15	-0.16	< 0.1
+Dgkq	ENSMUST00000053913.7	diacylglycerol kinase, theta 	428	1	0	0	1	0	mmu-miR-5099	-0.15	-0.16	< 0.1
+Bag4	ENSMUST00000038498.8	BCL2-associated athanogene 4 	862	1	0	0	1	1	mmu-miR-5099	-0.15	-0.17	< 0.1
+Tbl1xr1	ENSMUST00000063988.8	transducin (beta)-like 1X-linked receptor 1 	1196	2	0	0	2	0	mmu-miR-5099	-0.15	-0.17	< 0.1
+Ccdc43	ENSMUST00000092569.7	coiled-coil domain containing 43 	530	1	0	0	1	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Ggps1	ENSMUST00000170957.1	geranylgeranyl diphosphate synthase 1 	548	1	0	0	1	0	mmu-miR-5099	-0.15	-0.19	< 0.1
+Sik3	ENSMUST00000126865.2	SIK family kinase 3 	671	1	0	0	1	0	mmu-miR-5099	-0.15	-0.17	< 0.1
+Zfp641	ENSMUST00000023722.6	zinc finger protein 641 	114	1	0	1	0	1	mmu-miR-5099	-0.15	-0.17	< 0.1
+Ppp1r8	ENSMUST00000030702.8	protein phosphatase 1, regulatory (inhibitor) subunit 8 	249	1	0	0	1	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Slc30a3	ENSMUST00000031037.8	solute carrier family 30 (zinc transporter), member 3 	7	1	0	0	1	0	mmu-miR-5099	-0.15	-0.21	< 0.1
+Slc5a9	ENSMUST00000102721.2	solute carrier family 5 (sodium/glucose cotransporter), member 9 	36	1	0	0	1	0	mmu-miR-5099	-0.15	-0.20	< 0.1
+4930544L04Rik	ENSMUST00000097982.2	RIKEN cDNA 4930544L04 gene 	5	1	0	0	1	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Speer4a	ENSMUST00000079447.2	spermatogenesis associated glutamate (E)-rich protein 4a 	5	1	0	0	1	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Arfgap2	ENSMUST00000080008.7	ADP-ribosylation factor GTPase activating protein 2 	310	1	0	0	1	0	mmu-miR-5099	-0.15	-0.15	< 0.1
+Gbp8	ENSMUST00000031235.7	guanylate-binding protein 8 	29	2	0	1	1	0	mmu-miR-5099	-0.15	-0.27	< 0.1
+Cdc42bpg	ENSMUST00000025681.7	CDC42 binding protein kinase gamma (DMPK-like) 	1536	1	0	1	0	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Ppp1r16b	ENSMUST00000052927.5	protein phosphatase 1, regulatory (inhibitor) subunit 16B 	1369	1	0	1	0	0	mmu-miR-5099	-0.14	-0.15	< 0.1
+Rdh11	ENSMUST00000161204.2	retinol dehydrogenase 11 	1579	1	0	0	1	1	mmu-miR-5099	-0.14	-0.15	< 0.1
+Slc19a3	ENSMUST00000045560.9	solute carrier family 19, member 3 	8	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+1700019D03Rik	ENSMUST00000050567.5	RIKEN cDNA 1700019D03 gene 	105	1	0	0	1	0	mmu-miR-5099	-0.14	-0.17	< 0.1
+Acer2	ENSMUST00000045224.8	alkaline ceramidase 2 	808	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Crebrf	ENSMUST00000062519.8	CREB3 regulatory factor 	256	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Dlx1	ENSMUST00000037119.3	distal-less homeobox 1 	78	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Gja5	ENSMUST00000072600.6	gap junction protein, alpha 5 	632	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Hykk	ENSMUST00000039742.7	hydroxylysine kinase 1 	2556	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Olfm3	ENSMUST00000081752.7	olfactomedin 3 	68	1	0	0	1	0	mmu-miR-5099	-0.14	-0.15	< 0.1
+Nkain3	ENSMUST00000119374.2	Na+/K+ transporting ATPase interacting 3 	5	3	0	0	3	0	mmu-miR-5099	-0.14	-0.29	< 0.1
+Gm7347	ENSMUST00000095004.3	predicted gene 7347 	5	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Slfn5	ENSMUST00000067443.3	schlafen 5 	352	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Gm16503	ENSMUST00000104964.2	predicted gene 16503 	5	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Eml5	ENSMUST00000065716.6	echinoderm microtubule associated protein like 5 	205	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Ulk2	ENSMUST00000004920.3	unc-51 like kinase 2 	2264	1	0	0	1	1	mmu-miR-5099	-0.14	-0.21	< 0.1
+Pkia	ENSMUST00000028999.6	protein kinase inhibitor, alpha 	10819	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Itga4	ENSMUST00000099972.4	integrin alpha 4 	76	2	0	0	2	2	mmu-miR-5099	-0.14	-0.24	< 0.1
+AW554918	ENSMUST00000165400.2	expressed sequence AW554918 	127	2	0	0	2	0	mmu-miR-5099	-0.14	-0.19	< 0.1
+Vwc2l	ENSMUST00000161937.1	von Willebrand factor C domain-containing protein 2-like 	5	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Irf4	ENSMUST00000021784.3	interferon regulatory factor 4 	35	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Pgap1	ENSMUST00000097739.4	post-GPI attachment to proteins 1 	503	1	0	0	1	2	mmu-miR-5099	-0.14	-0.15	< 0.1
+Edem3	ENSMUST00000059498.6	ER degradation enhancer, mannosidase alpha-like 3 	1130	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Hif3a	ENSMUST00000108492.3	hypoxia inducible factor 3, alpha subunit 	15	2	0	0	2	1	mmu-miR-5099	-0.14	-0.17	< 0.1
+Grid2	ENSMUST00000095852.3	glutamate receptor, ionotropic, delta 2 	5	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Fam109a	ENSMUST00000056654.3	family with sequence similarity 109, member A 	36	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Ntng1	ENSMUST00000156177.3	netrin G1 	13	1	0	1	0	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Ldlrad3	ENSMUST00000058790.6	low density lipoprotein receptor class A domain containing 3 	313	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Bche	ENSMUST00000029367.5	butyrylcholinesterase 	330	1	0	0	1	3	mmu-miR-5099	-0.14	-0.22	< 0.1
+Ncald	ENSMUST00000090150.5	neurocalcin delta 	230	1	0	0	1	0	mmu-miR-5099	-0.14	-0.18	< 0.1
+Daam1	ENSMUST00000085299.2	dishevelled associated activator of morphogenesis 1 	590	1	0	0	1	1	mmu-miR-5099	-0.14	-0.17	< 0.1
+Sacs	ENSMUST00000119943.2	sacsin 	66	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Gpr61	ENSMUST00000062028.2	G protein-coupled receptor 61 	5	1	0	1	0	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Ect2	ENSMUST00000108300.2	ect2 oncogene 	7044	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Grhl3	ENSMUST00000105855.1	grainyhead-like 3 (Drosophila) 	13	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Coch	ENSMUST00000164782.3	coagulation factor C homolog (Limulus polyphemus) 	171	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Stox2	ENSMUST00000110367.3	storkhead box 2 	115	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Chrm2	ENSMUST00000172278.2	cholinergic receptor, muscarinic 2, cardiac 	123	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Lamc2	ENSMUST00000185356.1	laminin, gamma 2 	198	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Skp2	ENSMUST00000110585.3	S-phase kinase-associated protein 2 (p45) 	320	1	0	0	1	1	mmu-miR-5099	-0.14	-0.14	< 0.1
+Socs4	ENSMUST00000065562.4	suppressor of cytokine signaling 4 	945	1	0	0	1	0	mmu-miR-5099	-0.14	-0.17	< 0.1
+Pank3	ENSMUST00000018990.7	pantothenate kinase 3 	3244	1	0	0	1	0	mmu-miR-5099	-0.14	-0.14	< 0.1
+Pofut1	ENSMUST00000049863.6	protein O-fucosyltransferase 1 	346	1	0	0	1	0	mmu-miR-5099	-0.13	-0.14	< 0.1
+Slc16a2	ENSMUST00000042664.6	solute carrier family 16 (monocarboxylic acid transporters), member 2 	98	1	0	0	1	0	mmu-miR-5099	-0.13	-0.18	< 0.1
+Gimap3	ENSMUST00000038811.8	GTPase, IMAP family member 3 	4	1	0	0	1	2	mmu-miR-5099	-0.13	-0.26	< 0.1
+Slc44a5	ENSMUST00000089948.5	solute carrier family 44, member 5 	10	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Olfr613	ENSMUST00000106888.1	olfactory receptor 613 	5	1	0	0	1	1	mmu-miR-5099	-0.13	-0.13	< 0.1
+Serf2	ENSMUST00000139253.2	small EDRK-rich factor 2 	2428	1	0	0	1	0	mmu-miR-5099	-0.13	-0.15	< 0.1
+Vkorc1l1	ENSMUST00000073945.4	vitamin K epoxide reductase complex, subunit 1-like 1 	1759	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Ccdc3	ENSMUST00000027988.7	coiled-coil domain containing 3 	222	1	0	0	1	0	mmu-miR-5099	-0.13	-0.14	< 0.1
+A530064D06Rik	ENSMUST00000027764.8	RIKEN cDNA A530064D06 gene 	7	1	0	0	1	3	mmu-miR-5099	-0.13	-0.23	< 0.1
+Sema3b	ENSMUST00000102532.4	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B 	421	1	0	0	1	0	mmu-miR-5099	-0.13	-0.14	< 0.1
+Myom3	ENSMUST00000105854.1	myomesin family, member 3 	9	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Cdh7	ENSMUST00000112701.2	cadherin 7, type 2 	5	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Fam101b	ENSMUST00000021207.6	family with sequence similarity 101, member B 	1339	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Prep	ENSMUST00000099858.2	prolyl endopeptidase 	3108	1	0	0	1	1	mmu-miR-5099	-0.13	-0.14	< 0.1
+Asb18	ENSMUST00000086882.2	ankyrin repeat and SOCS box-containing 18 	172	1	0	0	1	2	mmu-miR-5099	-0.13	-0.23	< 0.1
+Dock4	ENSMUST00000037488.6	dedicator of cytokinesis 4 	596	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Fam167a	ENSMUST00000121288.1	family with sequence similarity 167, member A 	7	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Ccdc93	ENSMUST00000036025.10	coiled-coil domain containing 93 	497	2	0	0	2	1	mmu-miR-5099	-0.13	-0.26	< 0.1
+BC068281	ENSMUST00000085793.2	cDNA sequence BC068281 	107	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Fam84b	ENSMUST00000100635.4	family with sequence similarity 84, member B 	1636	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Cd28	ENSMUST00000027165.2	CD28 antigen 	38	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Gca	ENSMUST00000028257.2	grancalcin 	910	1	0	0	1	0	mmu-miR-5099	-0.13	-0.14	< 0.1
+0610030E20Rik	ENSMUST00000077783.3	RIKEN cDNA 0610030E20 gene 	1246	1	0	0	1	0	mmu-miR-5099	-0.13	-0.14	< 0.1
+Ndnf	ENSMUST00000054351.4	neuron-derived neurotrophic factor 	1221	1	0	0	1	3	mmu-miR-5099	-0.13	-0.14	< 0.1
+Hhat	ENSMUST00000044190.6	hedgehog acyltransferase 	15	1	0	0	1	0	mmu-miR-5099	-0.13	-0.20	< 0.1
+Ccdc91	ENSMUST00000032441.8	coiled-coil domain containing 91 	1070	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Wnt2b	ENSMUST00000029429.4	wingless related MMTV integration site 2b 	74	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Rp1l1	ENSMUST00000058229.4	retinitis pigmentosa 1 homolog (human)-like 1 	5	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Kcnc2	ENSMUST00000092175.2	potassium voltage gated channel, Shaw-related subfamily, member 2 	28	1	0	0	1	1	mmu-miR-5099	-0.13	-0.13	< 0.1
+Fkbp1a	ENSMUST00000044011.6	FK506 binding protein 1a 	115	1	0	0	1	0	mmu-miR-5099	-0.13	-0.19	< 0.1
+Fam117b	ENSMUST00000036540.6	family with sequence similarity 117, member B 	1648	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Gosr2	ENSMUST00000021329.8	golgi SNAP receptor complex member 2 	1442	1	0	1	0	0	mmu-miR-5099	-0.13	-0.21	< 0.1
+Armc9	ENSMUST00000027434.9	armadillo repeat containing 9 	21	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Pkp4	ENSMUST00000037903.9	plakophilin 4 	2230	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Sel1l	ENSMUST00000021347.6	sel-1 suppressor of lin-12-like (C. elegans) 	1421	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Akap11	ENSMUST00000123853.2	A kinase (PRKA) anchor protein 11 	394	1	1	0	0	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Harbi1	ENSMUST00000090608.5	harbinger transposase derived 1 	146	1	0	0	1	1	mmu-miR-5099	-0.13	-0.25	< 0.1
+Rcor3	ENSMUST00000110849.4	REST corepressor 3 	499	1	0	0	1	1	mmu-miR-5099	-0.13	-0.20	< 0.1
+Klrb1c	ENSMUST00000167691.3	killer cell lectin-like receptor subfamily B member 1C 	9	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Cnst	ENSMUST00000040706.8	consortin, connexin sorting protein 	266	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Tbck	ENSMUST00000169172.2	TBC1 domain containing kinase 	414	1	0	0	1	1	mmu-miR-5099	-0.13	-0.13	< 0.1
+Cldn12	ENSMUST00000179804.2	claudin 12 	308	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Gpr156	ENSMUST00000061274.7	G protein-coupled receptor 156 	12	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Wdr52	ENSMUST00000099742.3	WD repeat domain 52 	92	1	0	1	0	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Il2ra	ENSMUST00000028111.4	interleukin 2 receptor, alpha chain 	35	1	0	0	1	0	mmu-miR-5099	-0.13	-0.13	< 0.1
+Prkaa2	ENSMUST00000030243.7	protein kinase, AMP-activated, alpha 2 catalytic subunit 	2924	2	1	0	1	1	mmu-miR-5099	-0.13	-0.13	< 0.1
+Prima1	ENSMUST00000074416.4	proline rich membrane anchor 1 	60	1	0	0	1	0	mmu-miR-5099	-0.13	-0.24	< 0.1
+Cuedc1	ENSMUST00000018522.7	CUE domain containing 1 	2362	1	0	1	0	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Fyttd1	ENSMUST00000171325.2	forty-two-three domain containing 1 	1204	1	0	0	1	0	mmu-miR-5099	-0.12	-0.21	< 0.1
+Nfam1	ENSMUST00000109503.4	Nfat activating molecule with ITAM motif 1 	232	2	0	1	1	0	mmu-miR-5099	-0.12	-0.21	< 0.1
+Setd7	ENSMUST00000037141.7	SET domain containing (lysine methyltransferase) 7 	349	1	0	1	0	1	mmu-miR-5099	-0.12	-0.13	< 0.1
+Dip2a	ENSMUST00000160048.2	DIP2 disco-interacting protein 2 homolog A (Drosophila) 	150	1	0	0	1	0	mmu-miR-5099	-0.12	-0.13	< 0.1
+Thumpd1	ENSMUST00000033236.7	THUMP domain containing 1 	80	1	0	0	1	1	mmu-miR-5099	-0.12	-0.21	< 0.1
+Zc3h15	ENSMUST00000081591.6	zinc finger CCCH-type containing 15 	428	2	0	0	2	2	mmu-miR-5099	-0.12	-0.27	< 0.1
+Dnah3	ENSMUST00000046993.3	dynein, axonemal, heavy chain 3 	91	1	0	0	1	0	mmu-miR-5099	-0.12	-0.14	< 0.1
+Zbtb37	ENSMUST00000171748.2	zinc finger and BTB domain containing 37 	40	1	0	0	1	0	mmu-miR-5099	-0.12	-0.16	< 0.1
+Fnip2	ENSMUST00000076136.5	folliculin interacting protein 2 	297	2	0	1	1	0	mmu-miR-5099	-0.12	-0.34	< 0.1
+Gm14409	ENSMUST00000108963.1	predicted gene 14409 	2	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Lin7a	ENSMUST00000020057.9	lin-7 homolog A (C. elegans) 	203	1	0	0	1	1	mmu-miR-5099	-0.12	-0.20	< 0.1
+Mdga2	ENSMUST00000037181.9	MAM domain containing glycosylphosphatidylinositol anchor 2 	8	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Med14	ENSMUST00000096495.5	mediator complex subunit 14 	823	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+E030037K01Rik	ENSMUST00000180928.1	RIKEN cDNA E030037K01 gene 	22	1	0	0	1	0	mmu-miR-5099	-0.12	-0.20	< 0.1
+Epm2aip1	ENSMUST00000060711.6	EPM2A (laforin) interacting protein 1 	731	1	0	0	1	0	mmu-miR-5099	-0.12	-0.13	< 0.1
+Stag2	ENSMUST00000115073.3	stromal antigen 2 	3749	1	0	0	1	1	mmu-miR-5099	-0.12	-0.14	< 0.1
+Il17rd	ENSMUST00000035336.3	interleukin 17 receptor D 	628	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Itgb3	ENSMUST00000021028.4	integrin beta 3 	31	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Brdt	ENSMUST00000031215.9	bromodomain, testis-specific 	127	2	0	0	2	0	mmu-miR-5099	-0.12	-0.27	< 0.1
+Atad5	ENSMUST00000108239.2	ATPase family, AAA domain containing 5 	145	1	0	0	1	0	mmu-miR-5099	-0.12	-0.16	< 0.1
+Galnt6	ENSMUST00000159715.2	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 6 	16	1	0	0	1	0	mmu-miR-5099	-0.12	-0.24	< 0.1
+Med9	ENSMUST00000081980.6	mediator complex subunit 9 	1812	1	0	1	0	1	mmu-miR-5099	-0.12	-0.26	< 0.1
+Usp2	ENSMUST00000034508.8	ubiquitin specific peptidase 2 	997	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Fyco1	ENSMUST00000167595.3	FYVE and coiled-coil domain containing 1 	716	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Rorb	ENSMUST00000040153.9	RAR-related orphan receptor beta 	5	2	0	1	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Arhgap20	ENSMUST00000065496.6	Rho GTPase activating protein 20 	209	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Taf1d	ENSMUST00000164079.2	TATA box binding protein (Tbp)-associated factor, RNA polymerase I, D 	296	1	0	0	1	0	mmu-miR-5099	-0.12	-0.13	< 0.1
+Mettl11b	ENSMUST00000159679.2	methyltransferase like 11B 	83	1	0	0	1	1	mmu-miR-5099	-0.12	-0.24	< 0.1
+Fancm	ENSMUST00000058889.4	Fanconi anemia, complementation group M 	300	2	0	0	2	0	mmu-miR-5099	-0.12	-0.26	< 0.1
+Upf3b	ENSMUST00000076265.7	UPF3 regulator of nonsense transcripts homolog B (yeast) 	362	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Met	ENSMUST00000115443.2	met proto-oncogene 	4200	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Gstcd	ENSMUST00000029651.5	glutathione S-transferase, C-terminal domain containing 	714	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+A430105I19Rik	ENSMUST00000059997.8	RIKEN cDNA A430105I19 gene 	611	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Sox12	ENSMUST00000182625.1	SRY (sex determining region Y)-box 12 	2247	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Trim44	ENSMUST00000102573.2	tripartite motif-containing 44 	748	1	0	0	1	0	mmu-miR-5099	-0.12	-0.15	< 0.1
+Osbpl8	ENSMUST00000105275.2	oxysterol binding protein-like 8 	1442	1	0	0	1	1	mmu-miR-5099	-0.12	-0.14	< 0.1
+Best3	ENSMUST00000020378.4	bestrophin 3 	174	1	0	0	1	0	mmu-miR-5099	-0.12	-0.14	< 0.1
+Trim52	ENSMUST00000022708.5	tripartite motif-containing 52 	5	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Itgb8	ENSMUST00000026360.8	integrin beta 8 	333	1	0	0	1	0	mmu-miR-5099	-0.12	-0.21	< 0.1
+Dcx	ENSMUST00000033642.4	doublecortin 	5	1	0	0	1	1	mmu-miR-5099	-0.12	-0.12	< 0.1
+Trim71	ENSMUST00000111816.2	tripartite motif-containing 71 	123	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Gm16515	ENSMUST00000019075.3	predicted gene, Gm16515 	258	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Slit2	ENSMUST00000170109.3	slit homolog 2 (Drosophila) 	368	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Syp	ENSMUST00000069520.5	synaptophysin 	112	1	0	0	1	0	mmu-miR-5099	-0.12	-0.13	< 0.1
+Fam73a	ENSMUST00000073089.7	family with sequence similarity 73, member A 	581	1	0	0	1	0	mmu-miR-5099	-0.12	-0.12	< 0.1
+Pirt	ENSMUST00000123434.2	phosphoinositide-interacting regulator of transient receptor potential channels 	22	1	0	0	1	0	mmu-miR-5099	-0.11	-0.13	< 0.1
+Foxn3	ENSMUST00000046859.5	forkhead box N3 	698	1	0	0	1	0	mmu-miR-5099	-0.11	-0.15	< 0.1
+Arhgef15	ENSMUST00000065040.7	Rho guanine nucleotide exchange factor (GEF) 15 	325	1	0	0	1	0	mmu-miR-5099	-0.11	-0.14	< 0.1
+Pard3b	ENSMUST00000075374.4	par-3 family cell polarity regulator beta 	93	1	0	0	1	0	mmu-miR-5099	-0.11	-0.11	< 0.1
+Arhgef38	ENSMUST00000147041.4	Rho guanine nucleotide exchange factor (GEF) 38 	88	1	0	0	1	2	mmu-miR-5099	-0.11	-0.14	< 0.1
+Pi15	ENSMUST00000088476.3	peptidase inhibitor 15 	34	2	0	0	2	0	mmu-miR-5099	-0.11	-0.19	< 0.1
+Mbnl2	ENSMUST00000088419.7	muscleblind-like 2 	699	1	0	0	1	0	mmu-miR-5099	-0.11	-0.12	< 0.1
+Pcgf3	ENSMUST00000046975.6	polycomb group ring finger 3 	636	1	0	0	1	1	mmu-miR-5099	-0.11	-0.15	< 0.1
+Tal1	ENSMUST00000030489.3	T cell acute lymphocytic leukemia 1 	41	2	0	1	1	0	mmu-miR-5099	-0.11	-0.17	< 0.1
+Gucd1	ENSMUST00000039796.8	guanylyl cyclase domain containing 1 	2990	1	0	0	1	0	mmu-miR-5099	-0.11	-0.11	< 0.1
+Gab1	ENSMUST00000034150.8	growth factor receptor bound protein 2-associated protein 1 	699	1	0	1	0	0	mmu-miR-5099	-0.11	-0.11	< 0.1
+Grik2	ENSMUST00000105487.2	glutamate receptor, ionotropic, kainate 2 (beta 2) 	17	1	0	0	1	0	mmu-miR-5099	-0.11	-0.11	< 0.1
+Rnf213	ENSMUST00000131035.3	ring finger protein 213 	919	1	0	0	1	0	mmu-miR-5099	-0.11	-0.11	< 0.1
+Rab6b	ENSMUST00000035155.7	RAB6B, member RAS oncogene family 	192	1	0	0	1	0	mmu-miR-5099	-0.11	-0.14	< 0.1
+Wdr18	ENSMUST00000045247.7	WD repeat domain 18 	2705	1	0	0	1	1	mmu-miR-5099	-0.11	-0.26	< 0.1
+Slfn8	ENSMUST00000038141.9	schlafen 8 	5	1	0	0	1	0	mmu-miR-5099	-0.11	-0.11	< 0.1
+Mrps14	ENSMUST00000135680.2	mitochondrial ribosomal protein S14 	5776	1	0	0	1	0	mmu-miR-5099	-0.11	-0.23	< 0.1
+Ecm2	ENSMUST00000051504.7	extracellular matrix protein 2, female organ and adipocyte specific 	178	1	0	1	0	3	mmu-miR-5099	-0.11	-0.24	< 0.1
+Arcn1	ENSMUST00000034607.9	archain 1 	164	1	0	0	1	1	mmu-miR-5099	-0.11	-0.24	< 0.1
+Gm13083	ENSMUST00000105773.1	predicted gene 13083 	5	1	0	1	0	0	mmu-miR-5099	-0.11	-0.11	< 0.1
+Erp29	ENSMUST00000130451.1	endoplasmic reticulum protein 29 	77	2	0	0	2	2	mmu-miR-5099	-0.11	-0.41	< 0.1
+Fbxo48	ENSMUST00000061327.1	F-box protein 48 	36	1	0	0	1	0	mmu-miR-5099	-0.11	-0.16	< 0.1
+Zbtb44	ENSMUST00000115222.3	zinc finger and BTB domain containing 44 	1220	1	0	0	1	0	mmu-miR-5099	-0.11	-0.16	< 0.1
+Usp9x	ENSMUST00000089302.5	ubiquitin specific peptidase 9, X chromosome 	5	1	0	0	1	2	mmu-miR-5099	-0.11	-0.11	< 0.1
+Atxn1	ENSMUST00000180110.2	ataxin 1 	414	1	0	0	1	0	mmu-miR-5099	-0.11	-0.11	< 0.1
+Wdr72	ENSMUST00000055879.8	WD repeat domain 72 	229	2	0	0	2	0	mmu-miR-5099	-0.11	-0.30	< 0.1
+Sytl5	ENSMUST00000067529.3	synaptotagmin-like 5 	28	1	0	0	1	2	mmu-miR-5099	-0.11	-0.11	< 0.1
+Msl3	ENSMUST00000033725.10	male-specific lethal 3 homolog (Drosophila) 	1128	1	0	0	1	1	mmu-miR-5099	-0.11	-0.14	< 0.1
+Nrxn3	ENSMUST00000163134.2	neurexin III 	8	1	0	0	1	0	mmu-miR-5099	-0.11	-0.11	< 0.1
+Dnajc5	ENSMUST00000072334.6	DnaJ (Hsp40) homolog, subfamily C, member 5 	1852	1	0	0	1	0	mmu-miR-5099	-0.11	-0.14	< 0.1
+Gabpa	ENSMUST00000009120.7	GA repeat binding protein, alpha 	1448	1	0	0	1	0	mmu-miR-5099	-0.11	-0.12	< 0.1
+Cacna2d1	ENSMUST00000078272.7	calcium channel, voltage-dependent, alpha2/delta subunit 1 	3037	1	0	1	0	0	mmu-miR-5099	-0.11	-0.11	< 0.1
+Gdf2	ENSMUST00000100720.1	growth differentiation factor 2 	61	1	0	0	1	1	mmu-miR-5099	-0.11	-0.15	< 0.1
+Xiap	ENSMUST00000115094.2	X-linked inhibitor of apoptosis 	2281	1	0	0	1	1	mmu-miR-5099	-0.11	-0.11	< 0.1
+Dcaf17	ENSMUST00000154704.2	DDB1 and CUL4 associated factor 17 	208	1	0	0	1	0	mmu-miR-5099	-0.11	-0.11	< 0.1
+Il1rapl1	ENSMUST00000113966.2	interleukin 1 receptor accessory protein-like 1 	5	1	0	0	1	1	mmu-miR-5099	-0.10	-0.10	< 0.1
+Zfp397	ENSMUST00000060762.4	zinc finger protein 397 	563	1	0	0	1	1	mmu-miR-5099	-0.10	-0.14	< 0.1
+Colec10	ENSMUST00000036737.3	collectin sub-family member 10 	35	2	0	0	2	1	mmu-miR-5099	-0.10	-0.18	< 0.1
+Rnf150	ENSMUST00000078525.5	ring finger protein 150 	347	1	0	0	1	0	mmu-miR-5099	-0.10	-0.11	< 0.1
+Fryl	ENSMUST00000101127.6	furry homolog-like (Drosophila) 	59	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+1700088E04Rik	ENSMUST00000187550.1	RIKEN cDNA 1700088E04 gene 	53	1	0	0	1	0	mmu-miR-5099	-0.10	-0.21	< 0.1
+Vps13d	ENSMUST00000036579.8	vacuolar protein sorting 13 D (yeast) 	2642	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Ereg	ENSMUST00000031324.4	epiregulin 	23	1	0	0	1	0	mmu-miR-5099	-0.10	-0.12	< 0.1
+Kifap3	ENSMUST00000077642.6	kinesin-associated protein 3 	379	1	0	0	1	0	mmu-miR-5099	-0.10	-0.15	< 0.1
+Zfp276	ENSMUST00000001092.9	zinc finger protein (C2H2 type) 276 	297	1	0	0	1	0	mmu-miR-5099	-0.10	-0.13	< 0.1
+Chrng	ENSMUST00000027470.8	cholinergic receptor, nicotinic, gamma polypeptide 	5	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Itgav	ENSMUST00000028499.5	integrin alpha V 	6050	1	0	0	1	1	mmu-miR-5099	-0.10	-0.10	< 0.1
+Dennd2c	ENSMUST00000173206.2	DENN/MADD domain containing 2C 	49	1	0	0	1	0	mmu-miR-5099	-0.10	-0.20	< 0.1
+Eps8	ENSMUST00000058210.7	epidermal growth factor receptor pathway substrate 8 	1873	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Klf12	ENSMUST00000097079.4	Kruppel-like factor 12 	363	1	0	0	1	0	mmu-miR-5099	-0.10	-0.12	< 0.1
+Tlr4	ENSMUST00000048096.6	toll-like receptor 4 	521	1	0	0	1	0	mmu-miR-5099	-0.10	-0.15	< 0.1
+Ercc2	ENSMUST00000062831.10	excision repair cross-complementing rodent repair deficiency, complementation group 2 	196	1	0	1	0	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Stx16	ENSMUST00000087908.4	syntaxin 16 	958	1	0	0	1	0	mmu-miR-5099	-0.10	-0.12	< 0.1
+Synj2bp	ENSMUST00000163402.2	synaptojanin 2 binding protein 	608	2	0	0	2	0	mmu-miR-5099	-0.10	-0.26	< 0.1
+Vsig10	ENSMUST00000111967.2	V-set and immunoglobulin domain containing 10 	219	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Zfp275	ENSMUST00000114499.2	zinc finger protein 275 	848	1	0	0	1	1	mmu-miR-5099	-0.10	-0.10	< 0.1
+Fam35a	ENSMUST00000111917.1	family with sequence similarity 35, member A 	33	1	0	0	1	1	mmu-miR-5099	-0.10	-0.17	< 0.1
+Dcaf12l1	ENSMUST00000115056.1	DDB1 and CUL4 associated factor 12-like 1 	268	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Kcnip3	ENSMUST00000028850.9	Kv channel interacting protein 3, calsenilin 	11	1	0	1	0	0	mmu-miR-5099	-0.10	-0.18	< 0.1
+Klhl26	ENSMUST00000066597.6	kelch-like 26 	889	1	0	0	1	1	mmu-miR-5099	-0.10	-0.14	< 0.1
+Pcdh19	ENSMUST00000167944.2	protocadherin 19 	427	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Mal	ENSMUST00000028854.9	myelin and lymphocyte protein, T cell differentiation protein 	244	1	0	0	1	0	mmu-miR-5099	-0.10	-0.14	< 0.1
+8030462N17Rik	ENSMUST00000074653.4	RIKEN cDNA 8030462N17 gene 	353	1	0	0	1	0	mmu-miR-5099	-0.10	-0.11	< 0.1
+Prkab2	ENSMUST00000045743.7	protein kinase, AMP-activated, beta 2 non-catalytic subunit 	1595	1	0	0	1	1	mmu-miR-5099	-0.10	-0.10	< 0.1
+Dmbx1	ENSMUST00000064806.7	diencephalon/mesencephalon homeobox 1 	5	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Gosr1	ENSMUST00000010536.8	golgi SNAP receptor complex member 1 	332	1	0	0	1	2	mmu-miR-5099	-0.10	-0.24	< 0.1
+Ncoa2	ENSMUST00000081713.5	nuclear receptor coactivator 2 	901	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Etnppl	ENSMUST00000072271.7	ethanolamine phosphate phospholyase 	733	1	1	0	0	0	mmu-miR-5099	-0.10	-0.49	< 0.1
+Katnal1	ENSMUST00000047257.9	katanin p60 subunit A-like 1 	219	1	0	0	1	1	mmu-miR-5099	-0.10	-0.13	< 0.1
+Mettl4	ENSMUST00000171284.1	methyltransferase like 4 	455	1	0	0	1	1	mmu-miR-5099	-0.10	-0.12	< 0.1
+Cmah	ENSMUST00000167746.2	cytidine monophospho-N-acetylneuraminic acid hydroxylase 	408	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Pcdh15	ENSMUST00000064562.8	protocadherin 15 	5	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Gad2	ENSMUST00000028123.3	glutamic acid decarboxylase 2 	5	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+Cast	ENSMUST00000065629.4	calpastatin 	728	1	0	0	1	0	mmu-miR-5099	-0.10	-0.13	< 0.1
+Cdkl2	ENSMUST00000086978.6	cyclin-dependent kinase-like 2 (CDC2-related kinase) 	161	1	0	0	1	0	mmu-miR-5099	-0.10	-0.10	< 0.1
+B3gnt5	ENSMUST00000164397.2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5 	26	1	0	0	1	0	mmu-miR-5099	-0.10	-0.15	< 0.1
+Lingo2	ENSMUST00000164772.2	leucine rich repeat and Ig domain containing 2 	23	2	0	0	2	2	mmu-miR-5099	-0.10	-0.41	< 0.1
+Hist1h2bg	ENSMUST00000079251.6	histone cluster 1, H2bg 	34	1	0	0	1	0	mmu-miR-5099	-0.10	-0.17	< 0.1
+Arhgap19	ENSMUST00000026150.9	Rho GTPase activating protein 19 	733	1	0	0	1	1	mmu-miR-5099	-0.10	-0.10	< 0.1
+Bclaf1	ENSMUST00000092678.4	BCL2-associated transcription factor 1 	3600	1	0	0	1	0	mmu-miR-5099	-0.10	-0.12	< 0.1
+Erbb4	ENSMUST00000119142.2	v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian) 	27	1	0	0	1	1	mmu-miR-5099	-0.10	-0.10	< 0.1
+Sgip1	ENSMUST00000106882.3	SH3-domain GRB2-like (endophilin) interacting protein 1 	52	1	0	0	1	0	mmu-miR-5099	-0.09	-0.10	< 0.1
+Senp8	ENSMUST00000163586.2	SUMO/sentrin specific peptidase 8 	201	2	0	0	2	1	mmu-miR-5099	-0.09	-0.33	< 0.1
+Zfp518b	ENSMUST00000057258.5	zinc finger protein 518B 	356	1	0	1	0	0	mmu-miR-5099	-0.09	-0.09	< 0.1
+Ankrd63	ENSMUST00000104937.1	ankyrin repeat domain 63 	5	1	0	0	1	0	mmu-miR-5099	-0.09	-0.09	< 0.1
+Thy1	ENSMUST00000114840.1	thymus cell antigen 1, theta 	746	1	0	0	1	0	mmu-miR-5099	-0.09	-0.09	< 0.1
+Heca	ENSMUST00000037879.6	headcase homolog (Drosophila) 	240	1	0	0	1	0	mmu-miR-5099	-0.09	-0.14	< 0.1
+Cadm2	ENSMUST00000114292.2	cell adhesion molecule 2 	17	2	0	0	2	0	mmu-miR-5099	-0.09	-0.14	< 0.1
+Rsrc1	ENSMUST00000161726.1	arginine/serine-rich coiled-coil 1 	545	1	0	0	1	1	mmu-miR-5099	-0.09	-0.20	< 0.1
+Kidins220	ENSMUST00000066652.5	kinase D-interacting substrate 220 	1847	1	0	0	1	0	mmu-miR-5099	-0.09	-0.09	< 0.1
+Rps6kb1	ENSMUST00000154617.2	ribosomal protein S6 kinase, polypeptide 1 	1121	1	0	0	1	1	mmu-miR-5099	-0.09	-0.17	< 0.1
+Wdfy2	ENSMUST00000014691.8	WD repeat and FYVE domain containing 2 	1409	1	0	0	1	1	mmu-miR-5099	-0.09	-0.10	< 0.1
+Cpeb4	ENSMUST00000109412.3	cytoplasmic polyadenylation element binding protein 4 	4130	1	0	0	1	0	mmu-miR-5099	-0.09	-0.09	< 0.1
+Rab31	ENSMUST00000070673.7	RAB31, member RAS oncogene family 	19	1	0	0	1	0	mmu-miR-5099	-0.09	-0.11	< 0.1
+Cd33	ENSMUST00000039861.5	CD33 antigen 	189	1	0	0	1	0	mmu-miR-5099	-0.09	-0.12	< 0.1
+Cachd1	ENSMUST00000030257.9	cache domain containing 1 	1388	1	0	0	1	0	mmu-miR-5099	-0.09	-0.09	< 0.1
+Pappa	ENSMUST00000084501.3	pregnancy-associated plasma protein A 	33	2	0	0	2	0	mmu-miR-5099	-0.09	-0.10	< 0.1
+Sema5a	ENSMUST00000067458.6	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A 	202	1	0	0	1	1	mmu-miR-5099	-0.09	-0.10	< 0.1
+Slc23a2	ENSMUST00000028815.9	solute carrier family 23 (nucleobase transporters), member 2 	47	1	0	0	1	0	mmu-miR-5099	-0.09	-0.10	< 0.1
+Klhl32	ENSMUST00000108214.3	kelch-like 32 	16	1	0	0	1	0	mmu-miR-5099	-0.09	-0.10	< 0.1
+Atp11c	ENSMUST00000154051.2	ATPase, class VI, type 11C 	407	1	0	0	1	1	mmu-miR-5099	-0.09	-0.11	< 0.1
+Bcl2l2	ENSMUST00000133397.2	BCL2-like 2 	238	1	0	0	1	2	mmu-miR-5099	-0.09	-0.10	< 0.1
+Cd274	ENSMUST00000016640.7	CD274 antigen 	57	1	0	0	1	0	mmu-miR-5099	-0.09	-0.10	< 0.1
+Hecw1	ENSMUST00000110516.2	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 1 	5	1	0	0	1	0	mmu-miR-5099	-0.09	-0.09	< 0.1
+Cc2d1b	ENSMUST00000030320.7	coiled-coil and C2 domain containing 1B 	62	1	0	0	1	0	mmu-miR-5099	-0.09	-0.15	< 0.1
+Ptprb	ENSMUST00000092167.5	protein tyrosine phosphatase, receptor type, B 	2280	2	0	0	2	2	mmu-miR-5099	-0.09	-0.10	< 0.1
+Eaf1	ENSMUST00000022446.5	ELL associated factor 1 	649	1	0	1	0	0	mmu-miR-5099	-0.09	-0.09	< 0.1
+Adamts2	ENSMUST00000040523.8	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 2 	244	1	0	0	1	2	mmu-miR-5099	-0.09	-0.10	< 0.1
+Sel1l2	ENSMUST00000122367.2	sel-1 suppressor of lin-12-like 2 (C. elegans) 	9	1	0	0	1	0	mmu-miR-5099	-0.09	-0.21	< 0.1
+Fgf12	ENSMUST00000100024.1	fibroblast growth factor 12 	18	1	0	0	1	0	mmu-miR-5099	-0.09	-0.14	< 0.1
+D130040H23Rik	ENSMUST00000078257.6	RIKEN cDNA D130040H23 gene 	83	1	0	0	1	7	mmu-miR-5099	-0.09	-0.11	< 0.1
+Ppp2r5c	ENSMUST00000084985.4	protein phosphatase 2, regulatory subunit B', gamma 	2646	1	0	0	1	0	mmu-miR-5099	-0.09	-0.09	< 0.1
+Klra2	ENSMUST00000032306.9	killer cell lectin-like receptor, subfamily A, member 2 	51	1	0	0	1	0	mmu-miR-5099	-0.09	-0.20	< 0.1
+Pter	ENSMUST00000028063.5	phosphotriesterase related 	1482	2	0	0	2	0	mmu-miR-5099	-0.09	-0.30	< 0.1
+Mapk1ip1l	ENSMUST00000164235.1	mitogen-activated protein kinase 1 interacting protein 1-like 	1272	1	0	0	1	1	mmu-miR-5099	-0.09	-0.11	< 0.1
+Ccdc39	ENSMUST00000029222.5	coiled-coil domain containing 39 	52	1	0	0	1	0	mmu-miR-5099	-0.09	-0.11	< 0.1
+Cntn5	ENSMUST00000162484.2	contactin 5 	27	1	0	0	1	0	mmu-miR-5099	-0.09	-0.11	< 0.1
+Nlrp1b	ENSMUST00000108515.3	NLR family, pyrin domain containing 1B 	19	1	0	0	1	0	mmu-miR-5099	-0.09	-0.17	< 0.1
+Mbd5	ENSMUST00000112745.2	methyl-CpG binding domain protein 5 	327	1	0	0	1	2	mmu-miR-5099	-0.09	-0.17	< 0.1
+B4galnt2	ENSMUST00000038343.6	beta-1,4-N-acetyl-galactosaminyl transferase 2 	8	1	0	0	1	1	mmu-miR-5099	-0.09	-0.22	< 0.1
+Trpm3	ENSMUST00000037901.7	transient receptor potential cation channel, subfamily M, member 3 	21	1	0	0	1	2	mmu-miR-5099	-0.09	-0.09	< 0.1
+Ntrk2	ENSMUST00000109838.3	neurotrophic tyrosine kinase, receptor, type 2 	358	1	0	1	0	0	mmu-miR-5099	-0.09	-0.24	< 0.1
+Prox1	ENSMUST00000175916.2	prospero homeobox 1 	626	1	0	0	1	1	mmu-miR-5099	-0.09	-0.10	< 0.1
+Zfp109	ENSMUST00000037448.6	zinc finger protein 109 	61	1	0	0	1	1	mmu-miR-5099	-0.09	-0.12	< 0.1
+Taok1	ENSMUST00000017435.5	TAO kinase 1 	1659	1	0	0	1	2	mmu-miR-5099	-0.09	-0.09	< 0.1
+Agpat5	ENSMUST00000149565.2	1-acylglycerol-3-phosphate O-acyltransferase 5 (lysophosphatidic acid acyltransferase, epsilon) 	1377	1	0	1	0	3	mmu-miR-5099	-0.09	-0.28	< 0.1
+Tmtc1	ENSMUST00000060095.9	transmembrane and tetratricopeptide repeat containing 1 	433	1	0	0	1	0	mmu-miR-5099	-0.09	-0.14	< 0.1
+Brwd3	ENSMUST00000150434.2	bromodomain and WD repeat domain containing 3 	489	1	0	1	0	0	mmu-miR-5099	-0.08	-0.09	< 0.1
+Ctnna3	ENSMUST00000105440.2	catenin (cadherin associated protein), alpha 3 	168	2	0	0	2	3	mmu-miR-5099	-0.08	-0.17	< 0.1
+Gna13	ENSMUST00000020930.8	guanine nucleotide binding protein, alpha 13 	1286	1	0	0	1	0	mmu-miR-5099	-0.08	-0.10	< 0.1
+Shprh	ENSMUST00000044053.7	SNF2 histone linker PHD RING helicase 	422	1	0	0	1	1	mmu-miR-5099	-0.08	-0.11	< 0.1
+Adcy5	ENSMUST00000114913.1	adenylate cyclase 5 	377	1	0	0	1	0	mmu-miR-5099	-0.08	-0.20	< 0.1
+Hao2	ENSMUST00000029464.7	hydroxyacid oxidase 2 	2622	1	0	0	1	1	mmu-miR-5099	-0.08	-0.19	< 0.1
+Arhgef9	ENSMUST00000113876.3	CDC42 guanine nucleotide exchange factor (GEF) 9 	44	2	0	0	2	2	mmu-miR-5099	-0.08	-0.29	< 0.1
+Adamts15	ENSMUST00000065112.6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 15 	17	1	0	0	1	0	mmu-miR-5099	-0.08	-0.08	< 0.1
+Itga9	ENSMUST00000044165.8	integrin alpha 9 	429	1	0	0	1	0	mmu-miR-5099	-0.08	-0.10	< 0.1
+Pqlc2	ENSMUST00000053862.6	PQ loop repeat containing 2 	445	1	0	0	1	0	mmu-miR-5099	-0.08	-0.14	< 0.1
+Mpp5	ENSMUST00000082024.5	membrane protein, palmitoylated 5 (MAGUK p55 subfamily member 5) 	289	1	0	0	1	0	mmu-miR-5099	-0.08	-0.12	< 0.1
+Rasal3	ENSMUST00000063824.8	RAS protein activator like 3 	26	1	0	0	1	0	mmu-miR-5099	-0.08	-0.20	< 0.1
+Rnf149	ENSMUST00000062525.5	ring finger protein 149 	465	1	0	0	1	1	mmu-miR-5099	-0.08	-0.16	< 0.1
+Mib1	ENSMUST00000052838.5	mindbomb homolog 1 (Drosophila) 	2465	1	0	0	1	0	mmu-miR-5099	-0.08	-0.08	< 0.1
+Mmp25	ENSMUST00000024696.7	matrix metallopeptidase 25 	31	1	0	0	1	1	mmu-miR-5099	-0.08	-0.20	< 0.1
+Timp3	ENSMUST00000020234.8	tissue inhibitor of metalloproteinase 3 	10779	1	0	0	1	1	mmu-miR-5099	-0.08	-0.10	< 0.1
+Slitrk4	ENSMUST00000069926.8	SLIT and NTRK-like family, member 4 	18	1	0	1	0	2	mmu-miR-5099	-0.08	-0.14	< 0.1
+Fam76b	ENSMUST00000059579.6	family with sequence similarity 76, member B 	1077	1	0	0	1	0	mmu-miR-5099	-0.08	-0.10	< 0.1
+K230010J24Rik	ENSMUST00000187976.1	RIKEN cDNA K230010J24 gene 	40	1	0	0	1	0	mmu-miR-5099	-0.08	-0.15	< 0.1
+Colgalt2	ENSMUST00000044311.8	collagen beta(1-O)galactosyltransferase 2 	254	1	0	0	1	0	mmu-miR-5099	-0.08	-0.08	< 0.1
+2610002M06Rik	ENSMUST00000120722.1	RIKEN cDNA 2610002M06 gene 	728	1	0	0	1	0	mmu-miR-5099	-0.08	-0.20	< 0.1
+AU022252	ENSMUST00000141112.1	expressed sequence AU022252 	907	2	1	0	1	0	mmu-miR-5099	-0.08	-0.53	< 0.1
+Klhl36	ENSMUST00000034287.8	kelch-like 36 	130	1	1	0	0	0	mmu-miR-5099	-0.08	-0.16	< 0.1
+2010002M12Rik	ENSMUST00000112463.1	RIKEN cDNA 2010002M12 gene 	26	1	0	0	1	1	mmu-miR-5099	-0.08	-0.27	< 0.1
+Rnf152	ENSMUST00000058688.6	ring finger protein 152 	313	1	0	0	1	0	mmu-miR-5099	-0.08	-0.08	< 0.1
+Slc4a7	ENSMUST00000057015.6	solute carrier family 4, sodium bicarbonate cotransporter, member 7 	2207	1	0	0	1	0	mmu-miR-5099	-0.08	-0.08	< 0.1
+Trip11	ENSMUST00000021605.8	thyroid hormone receptor interactor 11 	569	1	0	0	1	0	mmu-miR-5099	-0.08	-0.10	< 0.1
+Zfp202	ENSMUST00000168832.1	zinc finger protein 202 	50	1	0	0	1	0	mmu-miR-5099	-0.08	-0.08	< 0.1
+Kdsr	ENSMUST00000010049.5	3-ketodihydrosphingosine reductase 	732	1	0	0	1	0	mmu-miR-5099	-0.08	-0.14	< 0.1
+Rab3c	ENSMUST00000167824.1	RAB3C, member RAS oncogene family 	43	2	0	1	1	1	mmu-miR-5099	-0.08	-0.15	< 0.1
+Gria2	ENSMUST00000107745.2	glutamate receptor, ionotropic, AMPA2 (alpha 2) 	5	1	0	0	1	0	mmu-miR-5099	-0.08	-0.08	< 0.1
+Tceb1	ENSMUST00000188641.1	transcription elongation factor B (SIII), polypeptide 1 	2260	1	0	0	1	1	mmu-miR-5099	-0.08	-0.20	< 0.1
+Acss3	ENSMUST00000165067.2	acyl-CoA synthetase short-chain family member 3 	204	1	0	0	1	0	mmu-miR-5099	-0.08	-0.09	< 0.1
+Uhmk1	ENSMUST00000123399.1	U2AF homology motif (UHM) kinase 1 	267	1	0	0	1	1	mmu-miR-5099	-0.08	-0.10	< 0.1
+Dip2b	ENSMUST00000100203.4	DIP2 disco-interacting protein 2 homolog B (Drosophila) 	1957	1	0	0	1	0	mmu-miR-5099	-0.08	-0.08	< 0.1
+Tmeff2	ENSMUST00000081851.3	transmembrane protein with EGF-like and two follistatin-like domains 2 	213	1	0	0	1	1	mmu-miR-5099	-0.08	-0.22	< 0.1
+Kcnq3	ENSMUST00000070256.7	potassium voltage-gated channel, subfamily Q, member 3 	10	1	0	0	1	0	mmu-miR-5099	-0.07	-0.07	< 0.1
+Phkb	ENSMUST00000053771.8	phosphorylase kinase beta 	240	1	0	0	1	1	mmu-miR-5099	-0.07	-0.12	< 0.1
+Prdm11	ENSMUST00000111274.2	PR domain containing 11 	40	1	0	0	1	0	mmu-miR-5099	-0.07	-0.08	< 0.1
+Clstn1	ENSMUST00000105691.2	calsyntenin 1 	3518	1	0	0	1	0	mmu-miR-5099	-0.07	-0.08	< 0.1
+Fsd1l	ENSMUST00000132151.2	fibronectin type III and SPRY domain containing 1-like 	162	1	0	0	1	0	mmu-miR-5099	-0.07	-0.09	< 0.1
+Wnt16	ENSMUST00000031681.4	wingless-related MMTV integration site 16 	9	1	0	0	1	1	mmu-miR-5099	-0.07	-0.18	< 0.1
+Cep170b	ENSMUST00000101018.4	centrosomal protein 170B 	523	1	0	0	1	0	mmu-miR-5099	-0.07	-0.07	< 0.1
+Rpl37	ENSMUST00000045356.7	ribosomal protein L37 	244	1	0	0	1	1	mmu-miR-5099	-0.07	-0.36	< 0.1
+Ubn2	ENSMUST00000160583.2	ubinuclein 2 	207	1	0	0	1	0	mmu-miR-5099	-0.07	-0.08	< 0.1
+Zfp459	ENSMUST00000056470.8	zinc finger protein 459 	19	1	0	0	1	0	mmu-miR-5099	-0.07	-0.13	< 0.1
+Insl6	ENSMUST00000052380.4	insulin-like 6 	54	1	0	1	0	0	mmu-miR-5099	-0.07	-0.34	< 0.1
+Parva	ENSMUST00000033030.8	parvin, alpha 	5521	1	0	0	1	0	mmu-miR-5099	-0.07	-0.08	< 0.1
+Gys1	ENSMUST00000003964.9	glycogen synthase 1, muscle 	3815	1	0	0	1	1	mmu-miR-5099	-0.07	-0.10	< 0.1
+Ago4	ENSMUST00000084289.4	argonaute RISC catalytic subunit 4 	13	1	0	0	1	0	mmu-miR-5099	-0.07	-0.08	< 0.1
+Siglece	ENSMUST00000032667.8	sialic acid binding Ig-like lectin E 	28	1	0	0	1	0	mmu-miR-5099	-0.07	-0.18	< 0.1
+Vwa5a	ENSMUST00000001544.6	von Willebrand factor A domain containing 5A 	1770	1	0	0	1	2	mmu-miR-5099	-0.07	-0.13	< 0.1
+Aplp2	ENSMUST00000072634.8	amyloid beta (A4) precursor-like protein 2 	1577	1	0	1	0	1	mmu-miR-5099	-0.07	-0.26	< 0.1
+Syn3	ENSMUST00000120638.2	synapsin III 	99	1	0	0	1	2	mmu-miR-5099	-0.07	-0.10	< 0.1
+Pik3c2a	ENSMUST00000170430.1	phosphatidylinositol 3-kinase, C2 domain containing, alpha polypeptide 	863	1	0	0	1	0	mmu-miR-5099	-0.07	-0.07	< 0.1
+Gabarapl2	ENSMUST00000034428.7	gamma-aminobutyric acid (GABA) A receptor-associated protein-like 2 	182	1	0	0	1	0	mmu-miR-5099	-0.07	-0.12	< 0.1
+Pura	ENSMUST00000051301.3	purine rich element binding protein A 	652	2	0	0	2	2	mmu-miR-5099	-0.07	-0.15	< 0.1
+Nav3	ENSMUST00000032719.8	neuron navigator 3 	226	1	0	0	1	0	mmu-miR-5099	-0.07	-0.07	< 0.1
+Chrna1	ENSMUST00000028515.3	cholinergic receptor, nicotinic, alpha polypeptide 1 (muscle) 	79	3	0	0	3	0	mmu-miR-5099	-0.07	-0.36	< 0.1
+Stk32a	ENSMUST00000045477.4	serine/threonine kinase 32A 	57	1	0	0	1	0	mmu-miR-5099	-0.07	-0.12	< 0.1
+Ung	ENSMUST00000031587.7	uracil DNA glycosylase 	1481	1	0	0	1	0	mmu-miR-5099	-0.07	-0.07	< 0.1
+Hip1	ENSMUST00000060311.8	huntingtin interacting protein 1 	1166	1	0	0	1	1	mmu-miR-5099	-0.07	-0.07	< 0.1
+Tmem136	ENSMUST00000061833.4	transmembrane protein 136 	133	1	0	0	1	0	mmu-miR-5099	-0.07	-0.09	< 0.1
+Cep68	ENSMUST00000050611.8	centrosomal protein 68 	211	1	0	0	1	0	mmu-miR-5099	-0.07	-0.09	< 0.1
+Fgf1	ENSMUST00000117566.2	fibroblast growth factor 1 	617	1	0	0	1	1	mmu-miR-5099	-0.07	-0.17	< 0.1
+Kif3b	ENSMUST00000028977.6	kinesin family member 3B 	387	1	0	0	1	2	mmu-miR-5099	-0.07	-0.07	< 0.1
+Trps1	ENSMUST00000165201.3	trichorhinophalangeal syndrome I (human) 	826	1	0	0	1	1	mmu-miR-5099	-0.07	-0.08	< 0.1
+Wdr5b	ENSMUST00000042203.8	WD repeat domain 5B 	137	1	0	0	1	0	mmu-miR-5099	-0.07	-0.14	< 0.1
+Lrat	ENSMUST00000029632.6	lecithin-retinol acyltransferase (phosphatidylcholine-retinol-O-acyltransferase) 	316	1	0	0	1	2	mmu-miR-5099	-0.07	-0.22	< 0.1
+Dlgap2	ENSMUST00000133298.2	discs, large (Drosophila) homolog-associated protein 2 	5	1	0	1	0	2	mmu-miR-5099	-0.07	-0.16	< 0.1
+Ptchd4	ENSMUST00000048691.4	patched domain containing 4 	25	1	0	0	1	0	mmu-miR-5099	-0.07	-0.07	< 0.1
+Vgll3	ENSMUST00000168064.1	vestigial like 3 (Drosophila) 	1036	1	0	0	1	1	mmu-miR-5099	-0.07	-0.14	< 0.1
+Chrna7	ENSMUST00000032738.5	cholinergic receptor, nicotinic, alpha polypeptide 7 	29	1	0	0	1	0	mmu-miR-5099	-0.07	-0.11	< 0.1
+Gm2381	ENSMUST00000174558.1	predicted gene 2381 	14	1	0	0	1	0	mmu-miR-5099	-0.07	-0.08	< 0.1
+Gm3629	ENSMUST00000171706.1	predicted gene 3629 	15	1	0	0	1	0	mmu-miR-5099	-0.07	-0.10	< 0.1
+Acnat2	ENSMUST00000081541.3	acyl-coenzyme A amino acid N-acyltransferase 2 	356	1	0	0	1	0	mmu-miR-5099	-0.07	-0.13	< 0.1
+Hexim1	ENSMUST00000053063.6	hexamethylene bis-acetamide inducible 1 	84	2	0	0	2	0	mmu-miR-5099	-0.07	-0.33	< 0.1
+Zbtb21	ENSMUST00000113734.3	zinc finger and BTB domain containing 21 	513	2	0	0	2	0	mmu-miR-5099	-0.07	-0.18	< 0.1
+Zfp398	ENSMUST00000114598.1	zinc finger protein 398 	264	1	0	0	1	1	mmu-miR-5099	-0.07	-0.07	< 0.1
+Sesn3	ENSMUST00000034507.7	sestrin 3 	3314	1	0	0	1	0	mmu-miR-5099	-0.06	-0.07	< 0.1
+Nol11	ENSMUST00000106757.2	nucleolar protein 11 	647	1	0	0	1	0	mmu-miR-5099	-0.06	-0.09	< 0.1
+2010012O05Rik	ENSMUST00000074912.7	RIKEN cDNA 2010012O05 gene 	159	1	0	0	1	0	mmu-miR-5099	-0.06	-0.15	< 0.1
+Ppm1h	ENSMUST00000067918.6	protein phosphatase 1H (PP2C domain containing) 	365	2	0	0	2	0	mmu-miR-5099	-0.06	-0.19	< 0.1
+Ppp1r15b	ENSMUST00000052529.3	protein phosphatase 1, regulatory (inhibitor) subunit 15b 	2416	1	0	0	1	0	mmu-miR-5099	-0.06	-0.07	< 0.1
+Actr1a	ENSMUST00000040270.4	ARP1 actin-related protein 1A, centractin alpha 	165	1	0	1	0	1	mmu-miR-5099	-0.06	-0.09	< 0.1
+9630033F20Rik	ENSMUST00000039913.8	RIKEN cDNA 9630033F20 gene 	740	2	0	0	2	1	mmu-miR-5099	-0.06	-0.33	< 0.1
+Tmem178b	ENSMUST00000061740.7	transmembrane protein 178B 	8	1	0	0	1	2	mmu-miR-5099	-0.06	-0.17	< 0.1
+Gm9922	ENSMUST00000066461.3	predicted gene 9922 	8	1	0	0	1	0	mmu-miR-5099	-0.06	-0.15	< 0.1
+Ercc6	ENSMUST00000066807.6	excision repair cross-complementing rodent repair deficiency, complementation group 6 	156	1	0	0	1	0	mmu-miR-5099	-0.06	-0.07	< 0.1
+Arsk	ENSMUST00000120573.1	arylsulfatase K 	164	1	0	0	1	0	mmu-miR-5099	-0.06	-0.19	< 0.1
+Taf7	ENSMUST00000066272.4	TAF7 RNA polymerase II, TATA box binding protein (TBP)-associated factor 	81	1	0	0	1	0	mmu-miR-5099	-0.06	-0.16	< 0.1
+Scn3a	ENSMUST00000066432.6	sodium channel, voltage-gated, type III, alpha 	149	2	0	0	2	0	mmu-miR-5099	-0.06	-0.20	< 0.1
+Lrrc8c	ENSMUST00000067924.7	leucine rich repeat containing 8 family, member C 	439	1	0	0	1	1	mmu-miR-5099	-0.06	-0.10	< 0.1
+Selk	ENSMUST00000112268.1	selenoprotein K 	2898	1	0	0	1	1	mmu-miR-5099	-0.06	-0.15	< 0.1
+Gm13151	ENSMUST00000148762.3	predicted gene 13151 	25	1	0	0	1	0	mmu-miR-5099	-0.06	-0.09	< 0.1
+Ccdc141	ENSMUST00000049544.8	coiled-coil domain containing 141 	251	1	0	0	1	1	mmu-miR-5099	-0.06	-0.11	< 0.1
+Zfp39	ENSMUST00000102703.1	zinc finger protein 39 	82	1	0	0	1	0	mmu-miR-5099	-0.06	-0.18	< 0.1
+2810006K23Rik	ENSMUST00000077376.2	RIKEN cDNA 2810006K23 gene 	55	1	0	0	1	0	mmu-miR-5099	-0.06	-0.17	< 0.1
+Lpp	ENSMUST00000038053.7	LIM domain containing preferred translocation partner in lipoma 	4534	3	0	0	3	1	mmu-miR-5099	-0.06	-0.06	< 0.1
+Agr3	ENSMUST00000042101.4	anterior gradient 3 	35	2	0	0	2	2	mmu-miR-5099	-0.06	-0.42	< 0.1
+Fibcd1	ENSMUST00000028188.7	fibrinogen C domain containing 1 	5	1	0	0	1	0	mmu-miR-5099	-0.06	-0.06	< 0.1
+Trove2	ENSMUST00000159879.1	TROVE domain family, member 2 	122	2	0	0	2	2	mmu-miR-5099	-0.06	-0.23	< 0.1
+Olfr70	ENSMUST00000055545.3	olfactory receptor 70 	5	1	0	0	1	0	mmu-miR-5099	-0.06	-0.06	< 0.1
+Dhcr24	ENSMUST00000047973.3	24-dehydrocholesterol reductase 	9729	1	0	0	1	0	mmu-miR-5099	-0.06	-0.06	< 0.1
+A530099J19Rik	ENSMUST00000151029.1	RIKEN cDNA A530099J19 gene 	17	1	0	0	1	1	mmu-miR-5099	-0.06	-0.10	< 0.1
+Mylk4	ENSMUST00000057428.5	myosin light chain kinase family, member 4 	9397	1	0	0	1	0	mmu-miR-5099	-0.06	-0.06	< 0.1
+Plxdc2	ENSMUST00000028081.7	plexin domain containing 2 	666	1	0	0	1	1	mmu-miR-5099	-0.06	-0.12	< 0.1
+Thap2	ENSMUST00000020346.4	THAP domain containing, apoptosis associated protein 2 	411	1	0	0	1	0	mmu-miR-5099	-0.06	-0.08	< 0.1
+Alkbh8	ENSMUST00000053407.6	alkB, alkylation repair homolog 8 (E. coli) 	693	2	0	0	2	0	mmu-miR-5099	-0.06	-0.14	< 0.1
+St3gal2	ENSMUST00000034197.4	ST3 beta-galactoside alpha-2,3-sialyltransferase 2 	637	1	0	0	1	0	mmu-miR-5099	-0.06	-0.17	< 0.1
+Pde11a	ENSMUST00000099992.4	phosphodiesterase 11A 	16	1	0	0	1	0	mmu-miR-5099	-0.06	-0.06	< 0.1
+Serpina11	ENSMUST00000120251.3	serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11 	85	1	0	0	1	0	mmu-miR-5099	-0.06	-0.23	< 0.1
+Foxl1	ENSMUST00000181609.1	forkhead box L1 	34	1	0	0	1	1	mmu-miR-5099	-0.06	-0.19	< 0.1
+Zcchc9	ENSMUST00000022121.7	zinc finger, CCHC domain containing 9 	109	1	0	0	1	0	mmu-miR-5099	-0.06	-0.12	< 0.1
+Sugp2	ENSMUST00000164403.2	SURP and G patch domain containing 2 	1726	1	0	0	1	2	mmu-miR-5099	-0.06	-0.06	< 0.1
+Fbxl20	ENSMUST00000103143.4	F-box and leucine-rich repeat protein 20 	170	2	0	0	2	0	mmu-miR-5099	-0.06	-0.13	< 0.1
+Eny2	ENSMUST00000060652.3	enhancer of yellow 2 homolog (Drosophila) 	2817	1	0	0	1	0	mmu-miR-5099	-0.06	-0.22	< 0.1
+Esrrg	ENSMUST00000027906.7	estrogen-related receptor gamma 	676	1	0	0	1	0	mmu-miR-5099	-0.06	-0.06	< 0.1
+Nrg2	ENSMUST00000115713.2	neuregulin 2 	16	1	1	0	0	1	mmu-miR-5099	-0.06	-0.28	< 0.1
+Macrod2	ENSMUST00000110064.2	MACRO domain containing 2 	396	1	0	0	1	0	mmu-miR-5099	-0.06	-0.06	< 0.1
+Mecp2	ENSMUST00000100750.4	methyl CpG binding protein 2 	845	1	0	0	1	2	mmu-miR-5099	-0.06	-0.08	< 0.1
+Dpt	ENSMUST00000027861.4	dermatopontin 	387	1	1	0	0	2	mmu-miR-5099	-0.06	-0.53	< 0.1
+Slc31a1	ENSMUST00000122092.1	solute carrier family 31, member 1 	2201	1	0	0	1	0	mmu-miR-5099	-0.05	-0.14	< 0.1
+Cyb5rl	ENSMUST00000106758.2	cytochrome b5 reductase-like 	552	1	0	0	1	0	mmu-miR-5099	-0.05	-0.14	< 0.1
+Timm22	ENSMUST00000021203.6	translocase of inner mitochondrial membrane 22 	1710	1	0	0	1	0	mmu-miR-5099	-0.05	-0.17	< 0.1
+1110025L11Rik	ENSMUST00000089104.2	RIKEN cDNA 1110025L11 gene 	8	1	0	0	1	1	mmu-miR-5099	-0.05	-0.15	< 0.1
+Klhl29	ENSMUST00000020958.8	kelch-like 29 	112	1	0	0	1	1	mmu-miR-5099	-0.05	-0.10	< 0.1
+Cbx6	ENSMUST00000109623.2	chromobox 6 	183	1	0	0	1	0	mmu-miR-5099	-0.05	-0.11	< 0.1
+Clcn5	ENSMUST00000004428.8	chloride channel 5 	504	1	0	0	1	0	mmu-miR-5099	-0.05	-0.06	< 0.1
+Sh2d2a	ENSMUST00000107581.3	SH2 domain protein 2A 	18	1	0	0	1	0	mmu-miR-5099	-0.05	-0.10	< 0.1
+Slc4a1ap	ENSMUST00000117262.2	solute carrier family 4 (anion exchanger), member 1, adaptor protein 	266	2	0	0	2	0	mmu-miR-5099	-0.05	-0.29	< 0.1
+Rab11a	ENSMUST00000169058.2	RAB11A, member RAS oncogene family 	9042	2	0	0	2	0	mmu-miR-5099	-0.05	-0.38	< 0.1
+Zfp607	ENSMUST00000053722.8	zinc finger proten 607 	33	1	0	0	1	0	mmu-miR-5099	-0.05	-0.07	< 0.1
+Fhl4	ENSMUST00000059383.6	four and a half LIM domains 4 	17	1	0	0	1	0	mmu-miR-5099	-0.05	-0.18	< 0.1
+Cdk15	ENSMUST00000160662.2	cyclin-dependent kinase 15 	14	1	0	0	1	0	mmu-miR-5099	-0.05	-0.08	< 0.1
+Nap1l1	ENSMUST00000065917.9	nucleosome assembly protein 1-like 1 	8413	2	0	0	2	0	mmu-miR-5099	-0.05	-0.27	< 0.1
+Neo1	ENSMUST00000068664.5	neogenin 	1725	1	0	0	1	1	mmu-miR-5099	-0.05	-0.13	< 0.1
+Chrna10	ENSMUST00000084830.1	cholinergic receptor, nicotinic, alpha polypeptide 10 	17	1	0	0	1	0	mmu-miR-5099	-0.05	-0.05	< 0.1
+Nfia	ENSMUST00000092532.7	nuclear factor I/A 	153	1	0	0	1	1	mmu-miR-5099	-0.05	-0.09	< 0.1
+Gfod1	ENSMUST00000055341.5	glucose-fructose oxidoreductase domain containing 1 	124	1	0	0	1	0	mmu-miR-5099	-0.05	-0.05	< 0.1
+Acaca	ENSMUST00000103201.2	acetyl-Coenzyme A carboxylase alpha 	954	1	0	0	1	1	mmu-miR-5099	-0.05	-0.05	< 0.1
+Fut9	ENSMUST00000084770.4	fucosyltransferase 9 	324	1	0	0	1	1	mmu-miR-5099	-0.05	-0.08	< 0.1
+Mcm10	ENSMUST00000102985.2	minichromosome maintenance deficient 10 (S. cerevisiae) 	398	1	0	0	1	1	mmu-miR-5099	-0.05	-0.10	< 0.1
+Fam173b	ENSMUST00000042702.6	family with sequence similarity 173, member B 	258	1	0	0	1	0	mmu-miR-5099	-0.05	-0.07	< 0.1
+Nup153	ENSMUST00000021803.9	nucleoporin 153 	627	1	0	0	1	2	mmu-miR-5099	-0.05	-0.17	< 0.1
+Fbxo7	ENSMUST00000130320.2	F-box protein 7 	265	1	0	1	0	3	mmu-miR-5099	-0.05	-0.21	< 0.1
+Gdf7	ENSMUST00000037313.4	growth differentiation factor 7 	0	1	0	0	1	0	mmu-miR-5099	-0.05	-0.05	< 0.1
+Naa25	ENSMUST00000042163.9	N(alpha)-acetyltransferase 25, NatB auxiliary subunit 	2534	1	0	0	1	0	mmu-miR-5099	-0.05	-0.19	< 0.1
+Dnajb6	ENSMUST00000008733.9	DnaJ (Hsp40) homolog, subfamily B, member 6 	313	1	0	0	1	1	mmu-miR-5099	-0.05	-0.14	< 0.1
+Tnfsf18	ENSMUST00000086084.1	tumor necrosis factor (ligand) superfamily, member 18 	8	1	0	0	1	1	mmu-miR-5099	-0.05	-0.14	< 0.1
+Cers3	ENSMUST00000066475.9	ceramide synthase 3 	13	1	0	0	1	0	mmu-miR-5099	-0.05	-0.05	< 0.1
+Fam228b	ENSMUST00000053458.5	family with sequence similarity 228, member B 	17	1	0	0	1	1	mmu-miR-5099	-0.05	-0.17	< 0.1
+Opa1	ENSMUST00000160597.2	optic atrophy 1 	2960	1	0	0	1	0	mmu-miR-5099	-0.05	-0.08	< 0.1
+Ntrk3	ENSMUST00000039431.8	neurotrophic tyrosine kinase, receptor, type 3 	19	1	0	0	1	1	mmu-miR-5099	-0.05	-0.09	< 0.1
+Snx13	ENSMUST00000048519.10	sorting nexin 13 	548	1	0	0	1	2	mmu-miR-5099	-0.05	-0.16	< 0.1
+Kcnb2	ENSMUST00000170146.2	potassium voltage gated channel, Shab-related subfamily, member 2 	6	1	0	0	1	1	mmu-miR-5099	-0.05	-0.05	< 0.1
+Slc24a2	ENSMUST00000107157.3	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 	8	1	0	0	1	0	mmu-miR-5099	-0.05	-0.05	< 0.1
+Phactr2	ENSMUST00000105545.5	phosphatase and actin regulator 2 	1395	1	0	0	1	1	mmu-miR-5099	-0.05	-0.07	< 0.1
+Ap2m1	ENSMUST00000007216.8	adaptor-related protein complex 2, mu 1 subunit 	2635	1	0	1	0	3	mmu-miR-5099	-0.05	-0.22	< 0.1
+Dph6	ENSMUST00000028640.8	diphthamine biosynthesis 6 	135	1	0	0	1	1	mmu-miR-5099	-0.05	-0.20	< 0.1
+Ppm1l	ENSMUST00000029355.7	protein phosphatase 1 (formerly 2C)-like 	336	1	0	0	1	1	mmu-miR-5099	-0.05	-0.12	< 0.1
+Knop1	ENSMUST00000106550.4	lysine rich nucleolar protein 1 	1067	1	0	0	1	0	mmu-miR-5099	-0.05	-0.08	< 0.1
+Cep97	ENSMUST00000023270.8	centrosomal protein 97 	262	1	0	0	1	1	mmu-miR-5099	-0.05	-0.05	< 0.1
+Phactr1	ENSMUST00000148891.2	phosphatase and actin regulator 1 	28	1	0	0	1	0	mmu-miR-5099	-0.05	-0.06	< 0.1
+Fer	ENSMUST00000000129.7	fer (fms/fps related) protein kinase 	648	3	0	0	3	0	mmu-miR-5099	-0.05	-0.17	< 0.1
+Pnmal1	ENSMUST00000038163.6	PNMA-like 1 	7	1	0	0	1	0	mmu-miR-5099	-0.05	-0.17	< 0.1
+Luzp2	ENSMUST00000082373.6	leucine zipper protein 2 	7	1	0	0	1	3	mmu-miR-5099	-0.04	-0.06	< 0.1
+Foxp2	ENSMUST00000115477.2	forkhead box P2 	105	1	0	0	1	1	mmu-miR-5099	-0.04	-0.17	< 0.1
+Cep170	ENSMUST00000057037.7	centrosomal protein 170 	1744	1	0	0	1	4	mmu-miR-5099	-0.04	-0.07	< 0.1
+Ikzf2	ENSMUST00000027146.3	IKAROS family zinc finger 2 	131	1	0	0	1	0	mmu-miR-5099	-0.04	-0.04	< 0.1
+Mecom	ENSMUST00000166001.2	MDS1 and EVI1 complex locus 	41	1	0	0	1	2	mmu-miR-5099	-0.04	-0.20	< 0.1
+Med13	ENSMUST00000043624.8	mediator complex subunit 13 	741	1	0	0	1	0	mmu-miR-5099	-0.04	-0.07	< 0.1
+Tmem245	ENSMUST00000068792.7	transmembrane protein 245 	1295	1	0	0	1	1	mmu-miR-5099	-0.04	-0.05	< 0.1
+Rnf157	ENSMUST00000100202.4	ring finger protein 157 	101	1	0	0	1	0	mmu-miR-5099	-0.04	-0.08	< 0.1
+Ophn1	ENSMUST00000033560.3	oligophrenin 1 	150	2	0	0	2	1	mmu-miR-5099	-0.04	-0.21	< 0.1
+Fzd5	ENSMUST00000063982.6	frizzled homolog 5 (Drosophila) 	316	1	0	0	1	0	mmu-miR-5099	-0.04	-0.05	< 0.1
+Tmem200a	ENSMUST00000066049.6	transmembrane protein 200A 	29	1	0	0	1	0	mmu-miR-5099	-0.04	-0.04	< 0.1
+Mbl1	ENSMUST00000047095.2	mannose-binding lectin (protein A) 1 	1385	1	0	1	0	1	mmu-miR-5099	-0.04	-0.23	< 0.1
+Flad1	ENSMUST00000129308.3	RFad1, flavin adenine dinucleotide synthetase, homolog (yeast) 	1470	1	0	0	1	2	mmu-miR-5099	-0.04	-0.22	< 0.1
+Lactb2	ENSMUST00000027071.6	lactamase, beta 2 	455	4	0	1	3	3	mmu-miR-5099	-0.04	-0.53	< 0.1
+Slc25a35	ENSMUST00000018884.5	solute carrier family 25, member 35 	222	1	0	0	1	1	mmu-miR-5099	-0.04	-0.18	< 0.1
+AI462493	ENSMUST00000096253.5	expressed sequence AI462493 	4179	2	0	0	2	0	mmu-miR-5099	-0.04	-0.37	< 0.1
+Erich5	ENSMUST00000060894.7	glutamate rich 5 	5	1	0	0	1	1	mmu-miR-5099	-0.04	-0.15	< 0.1
+Kcna4	ENSMUST00000037012.2	potassium voltage-gated channel, shaker-related subfamily, member 4 	12	1	0	0	1	3	mmu-miR-5099	-0.04	-0.11	< 0.1
+Tbc1d16	ENSMUST00000036113.3	TBC1 domain family, member 16 	741	1	0	0	1	0	mmu-miR-5099	-0.04	-0.04	< 0.1
+Htra3	ENSMUST00000087629.4	HtrA serine peptidase 3 	4974	1	0	0	1	0	mmu-miR-5099	-0.04	-0.04	< 0.1
+Cpn2	ENSMUST00000064856.7	carboxypeptidase N, polypeptide 2 	448	1	0	0	1	0	mmu-miR-5099	-0.04	-0.14	< 0.1
+Ubtd2	ENSMUST00000051053.4	ubiquitin domain containing 2 	77	1	0	0	1	0	mmu-miR-5099	-0.04	-0.09	< 0.1
+Shc1	ENSMUST00000191485.1	src homology 2 domain-containing transforming protein C1 	143	1	0	1	0	0	mmu-miR-5099	-0.04	-0.13	< 0.1
+Slu7	ENSMUST00000020681.4	SLU7 splicing factor homolog (S. cerevisiae) 	636	1	0	0	1	0	mmu-miR-5099	-0.04	-0.16	< 0.1
+Osbpl6	ENSMUST00000111929.2	oxysterol binding protein-like 6 	406	1	0	0	1	2	mmu-miR-5099	-0.04	-0.13	< 0.1
+Lifr	ENSMUST00000171588.1	leukemia inhibitory factor receptor 	3637	1	0	0	1	0	mmu-miR-5099	-0.04	-0.04	< 0.1
+Rlim	ENSMUST00000121153.2	ring finger protein, LIM domain interacting 	1532	1	0	0	1	0	mmu-miR-5099	-0.04	-0.05	< 0.1
+Morc4	ENSMUST00000033811.8	microrchidia 4 	489	1	0	0	1	1	mmu-miR-5099	-0.04	-0.12	< 0.1
+Ube2u	ENSMUST00000133493.3	ubiquitin-conjugating enzyme E2U (putative) 	30	1	0	0	1	0	mmu-miR-5099	-0.04	-0.09	< 0.1
+Col19a1	ENSMUST00000115244.3	collagen, type XIX, alpha 1 	25	1	0	0	1	0	mmu-miR-5099	-0.04	-0.06	< 0.1
+Cdk12	ENSMUST00000107539.2	cyclin-dependent kinase 12 	1429	1	0	0	1	1	mmu-miR-5099	-0.04	-0.12	< 0.1
+Micall1	ENSMUST00000040320.8	microtubule associated monooxygenase, calponin and LIM domain containing -like 1 	1508	1	0	0	1	0	mmu-miR-5099	-0.04	-0.04	< 0.1
+Nacc2	ENSMUST00000114159.3	nucleus accumbens associated 2, BEN and BTB (POZ) domain containing 	117	1	0	0	1	1	mmu-miR-5099	-0.04	-0.07	< 0.1
+Xcr1	ENSMUST00000182350.1	chemokine (C motif) receptor 1 	26	1	0	0	1	0	mmu-miR-5099	-0.04	-0.11	< 0.1
+Kbtbd2	ENSMUST00000114323.2	kelch repeat and BTB (POZ) domain containing 2 	134	1	0	0	1	1	mmu-miR-5099	-0.04	-0.16	< 0.1
+Cwc25	ENSMUST00000018685.3	CWC25 spliceosome-associated protein homolog (S. cerevisiae) 	239	1	0	1	0	0	mmu-miR-5099	-0.04	-0.08	< 0.1
+Gm6086	ENSMUST00000097632.4	predicted gene 6086 	5	1	0	0	1	0	mmu-miR-5099	-0.04	-0.04	< 0.1
+Srgap1	ENSMUST00000020322.6	SLIT-ROBO Rho GTPase activating protein 1 	109	1	0	0	1	0	mmu-miR-5099	-0.04	-0.06	< 0.1
+Cd209c	ENSMUST00000044060.8	CD209c antigen 	52	1	0	0	1	1	mmu-miR-5099	-0.04	-0.16	< 0.1
+Glra3	ENSMUST00000000275.7	glycine receptor, alpha 3 subunit 	7	1	0	0	1	0	mmu-miR-5099	-0.04	-0.12	< 0.1
+Gcc1	ENSMUST00000090511.3	golgi coiled coil 1 	1036	2	0	2	0	0	mmu-miR-5099	-0.04	-0.35	< 0.1
+Tbl2	ENSMUST00000153183.2	transducin (beta)-like 2 	1128	1	0	0	1	0	mmu-miR-5099	-0.04	-0.22	< 0.1
+Myo9b	ENSMUST00000168839.2	myosin IXb 	591	1	0	0	1	1	mmu-miR-5099	-0.04	-0.04	< 0.1
+Zfp27	ENSMUST00000162592.2	zinc finger protein 27 	180	1	0	0	1	0	mmu-miR-5099	-0.03	-0.15	< 0.1
+P4ha1	ENSMUST00000009789.9	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha 1 polypeptide 	1819	1	0	0	1	0	mmu-miR-5099	-0.03	-0.18	< 0.1
+Amotl1	ENSMUST00000160770.2	angiomotin-like 1 	104	1	0	0	1	0	mmu-miR-5099	-0.03	-0.06	< 0.1
+Iqce	ENSMUST00000041783.8	IQ motif containing E 	148	1	0	0	1	0	mmu-miR-5099	-0.03	-0.14	< 0.1
+Lrrc66	ENSMUST00000087177.2	leucine rich repeat containing 66 	9	2	0	0	2	0	mmu-miR-5099	-0.03	-0.14	< 0.1
+Ifnlr1	ENSMUST00000074408.6	interferon lambda receptor 1 	103	1	0	0	1	1	mmu-miR-5099	-0.03	-0.03	< 0.1
+Atrn	ENSMUST00000028781.8	attractin 	640	1	0	0	1	1	mmu-miR-5099	-0.03	-0.04	< 0.1
+Cwc15	ENSMUST00000004200.8	CWC15 homolog (S. cerevisiae) 	4538	1	0	0	1	0	mmu-miR-5099	-0.03	-0.23	< 0.1
+Net1	ENSMUST00000091853.5	neuroepithelial cell transforming gene 1 	57	1	0	0	1	0	mmu-miR-5099	-0.03	-0.14	< 0.1
+Cyp2j6	ENSMUST00000030303.5	cytochrome P450, family 2, subfamily j, polypeptide 6 	642	1	0	0	1	0	mmu-miR-5099	-0.03	-0.19	< 0.1
+Ccr6	ENSMUST00000164411.3	chemokine (C-C motif) receptor 6 	12	1	0	0	1	0	mmu-miR-5099	-0.03	-0.09	< 0.1
+Pigv	ENSMUST00000062118.5	phosphatidylinositol glycan anchor biosynthesis, class V 	284	1	0	0	1	0	mmu-miR-5099	-0.03	-0.13	< 0.1
+Ankrd12	ENSMUST00000038116.6	ankyrin repeat domain 12 	320	2	0	0	2	0	mmu-miR-5099	-0.03	-0.10	< 0.1
+Slc30a10	ENSMUST00000061093.6	solute carrier family 30, member 10 	291	1	0	0	1	0	mmu-miR-5099	-0.03	-0.14	< 0.1
+Dmxl1	ENSMUST00000041772.5	Dmx-like 1 	1153	1	0	1	0	2	mmu-miR-5099	-0.03	-0.17	< 0.1
+Tmem207	ENSMUST00000165687.1	transmembrane protein 207 	70	1	0	0	1	0	mmu-miR-5099	-0.03	-0.18	< 0.1
+Rbm12b1	ENSMUST00000069128.7	RNA binding motif protein 12 B1 	132	1	0	0	1	0	mmu-miR-5099	-0.03	-0.14	< 0.1
+St8sia1	ENSMUST00000032421.3	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 1 	150	1	0	0	1	1	mmu-miR-5099	-0.03	-0.11	< 0.1
+Myocd	ENSMUST00000102635.4	myocardin 	102	1	0	0	1	0	mmu-miR-5099	-0.03	-0.06	< 0.1
+Zfp958	ENSMUST00000073201.5	zinc finger protein 958 	1025	1	0	0	1	1	mmu-miR-5099	-0.03	-0.14	< 0.1
+Tmem127	ENSMUST00000035871.9	transmembrane protein 127 	656	1	0	0	1	0	mmu-miR-5099	-0.03	-0.04	< 0.1
+Zcchc14	ENSMUST00000046386.4	zinc finger, CCHC domain containing 14 	162	1	0	0	1	0	mmu-miR-5099	-0.03	-0.03	< 0.1
+Fam84a	ENSMUST00000020926.6	family with sequence similarity 84, member A 	107	1	0	0	1	5	mmu-miR-5099	-0.03	-0.13	< 0.1
+Rfwd2	ENSMUST00000076894.5	ring finger and WD repeat domain 2 	220	1	0	0	1	0	mmu-miR-5099	-0.03	-0.07	< 0.1
+Psd4	ENSMUST00000102942.2	pleckstrin and Sec7 domain containing 4 	104	1	0	0	1	1	mmu-miR-5099	-0.03	-0.15	< 0.1
+Snrpg	ENSMUST00000089558.5	small nuclear ribonucleoprotein polypeptide G 	6	1	0	0	1	0	mmu-miR-5099	-0.03	-0.16	< 0.1
+E130311K13Rik	ENSMUST00000061706.6	RIKEN cDNA E130311K13 gene 	56	1	0	0	1	0	mmu-miR-5099	-0.03	-0.11	< 0.1
+Siah2	ENSMUST00000070368.7	seven in absentia 2 	251	1	0	0	1	1	mmu-miR-5099	-0.03	-0.21	< 0.1
+Slc15a4	ENSMUST00000031367.9	solute carrier family 15, member 4 	212	1	0	0	1	3	mmu-miR-5099	-0.03	-0.06	< 0.1
+Prpf4	ENSMUST00000084524.3	PRP4 pre-mRNA processing factor 4 homolog (yeast) 	1020	1	0	0	1	0	mmu-miR-5099	-0.03	-0.11	< 0.1
+Txnrd3	ENSMUST00000000828.7	thioredoxin reductase 3 	47	1	0	0	1	0	mmu-miR-5099	-0.03	-0.24	< 0.1
+Ids	ENSMUST00000101509.3	iduronate 2-sulfatase 	139	1	0	1	0	0	mmu-miR-5099	-0.03	-0.08	< 0.1
+Pm20d2	ENSMUST00000098181.3	peptidase M20 domain containing 2 	20	1	0	0	1	0	mmu-miR-5099	-0.03	-0.13	< 0.1
+Itgbl1	ENSMUST00000049681.8	integrin, beta-like 1 	169	1	0	0	1	1	mmu-miR-5099	-0.03	-0.19	< 0.1
+Gm17641	ENSMUST00000166328.1	predicted gene, 17641 	9	1	0	0	1	1	mmu-miR-5099	-0.03	-0.16	< 0.1
+Nr6a1	ENSMUST00000168098.2	nuclear receptor subfamily 6, group A, member 1 	1815	1	0	0	1	1	mmu-miR-5099	-0.03	-0.03	< 0.1
+Nfic	ENSMUST00000020461.9	nuclear factor I/C 	184	1	1	0	0	0	mmu-miR-5099	-0.03	-0.03	< 0.1
+Cep350	ENSMUST00000138762.2	centrosomal protein 350 	574	1	0	0	1	0	mmu-miR-5099	-0.03	-0.04	< 0.1
+Tradd	ENSMUST00000034359.4	TNFRSF1A-associated via death domain 	416	1	0	0	1	0	mmu-miR-5099	-0.03	-0.14	< 0.1
+Gm10382	ENSMUST00000100700.2	predicted gene 10382 	37	1	0	1	0	0	mmu-miR-5099	-0.03	-0.17	< 0.1
+Syt14	ENSMUST00000016344.7	synaptotagmin XIV 	81	1	0	0	1	1	mmu-miR-5099	-0.03	-0.13	< 0.1
+Tardbp	ENSMUST00000084125.4	TAR DNA binding protein 	1933	1	0	0	1	0	mmu-miR-5099	-0.03	-0.05	< 0.1
+Tor3a	ENSMUST00000079625.5	torsin family 3, member A 	245	1	0	0	1	0	mmu-miR-5099	-0.03	-0.14	< 0.1
+B3gnt3	ENSMUST00000034260.7	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3 	58	1	0	1	0	0	mmu-miR-5099	-0.03	-0.23	< 0.1
+Slc4a9	ENSMUST00000074298.7	solute carrier family 4, sodium bicarbonate cotransporter, member 9 	10	1	0	0	1	0	mmu-miR-5099	-0.03	-0.06	< 0.1
+Sftpb	ENSMUST00000183018.2	surfactant associated protein B 	29821	2	0	0	2	0	mmu-miR-5099	-0.03	-0.35	< 0.1
+Slc16a10	ENSMUST00000092566.6	solute carrier family 16 (monocarboxylic acid transporters), member 10 	332	1	0	0	1	0	mmu-miR-5099	-0.03	-0.09	< 0.1
+Glp2r	ENSMUST00000051765.8	glucagon-like peptide 2 receptor 	5	1	0	0	1	0	mmu-miR-5099	-0.03	-0.03	< 0.1
+Aff4	ENSMUST00000060945.6	AF4/FMR2 family, member 4 	466	1	0	0	1	0	mmu-miR-5099	-0.03	-0.08	< 0.1
+Snrpd1	ENSMUST00000002551.3	small nuclear ribonucleoprotein D1 	777	1	0	0	1	0	mmu-miR-5099	-0.03	-0.25	< 0.1
+Zfp169	ENSMUST00000176176.2	zinc finger protein 169 	25	1	0	0	1	1	mmu-miR-5099	-0.03	-0.13	< 0.1
+Sypl	ENSMUST00000076698.6	synaptophysin-like protein 	1404	1	0	0	1	0	mmu-miR-5099	-0.03	-0.06	< 0.1
+Zfp82	ENSMUST00000080834.9	zinc finger protein 82 	43	1	0	0	1	1	mmu-miR-5099	-0.03	-0.12	< 0.1
+Gspt2	ENSMUST00000096368.3	G1 to S phase transition 2 	335	2	0	0	2	1	mmu-miR-5099	-0.03	-0.29	< 0.1
+Zkscan8	ENSMUST00000045228.6	zinc finger with KRAB and SCAN domains 8 	35	1	0	0	1	0	mmu-miR-5099	-0.03	-0.07	< 0.1
+Cltb	ENSMUST00000091609.5	clathrin, light polypeptide (Lcb) 	4798	1	0	1	0	0	mmu-miR-5099	-0.03	-0.29	< 0.1
+Clec4g	ENSMUST00000062037.6	C-type lectin domain family 4, member g 	55	1	0	0	1	0	mmu-miR-5099	-0.03	-0.12	< 0.1
+Rab3gap2	ENSMUST00000069652.6	RAB3 GTPase activating protein subunit 2 	675	1	0	0	1	0	mmu-miR-5099	-0.03	-0.08	< 0.1
+Map2k6	ENSMUST00000020949.6	mitogen-activated protein kinase kinase 6 	142	1	0	0	1	1	mmu-miR-5099	-0.03	-0.07	< 0.1
+Glyat	ENSMUST00000119960.1	glycine-N-acyltransferase 	2287	1	0	0	1	2	mmu-miR-5099	-0.03	-0.29	< 0.1
+Peli2	ENSMUST00000073150.4	pellino 2 	489	1	0	0	1	0	mmu-miR-5099	-0.03	-0.13	< 0.1
+Cys1	ENSMUST00000189849.1	cystin 1 	28	1	0	0	1	1	mmu-miR-5099	-0.03	-0.22	< 0.1
+Exoc3	ENSMUST00000035934.5	exocyst complex component 3 	548	1	0	0	1	0	mmu-miR-5099	-0.03	-0.23	< 0.1
+Scara3	ENSMUST00000042046.3	scavenger receptor class A, member 3 	33	2	1	0	1	1	mmu-miR-5099	-0.03	-0.39	< 0.1
+Rprd1a	ENSMUST00000046206.3	regulation of nuclear pre-mRNA domain containing 1A 	67	2	0	0	2	0	mmu-miR-5099	-0.02	-0.26	< 0.1
+Rasa2	ENSMUST00000034984.7	RAS p21 protein activator 2 	96	1	0	0	1	0	mmu-miR-5099	-0.02	-0.12	< 0.1
+Bmpr2	ENSMUST00000087435.6	bone morphogenetic protein receptor, type II (serine/threonine kinase) 	2928	1	0	0	1	1	mmu-miR-5099	-0.02	-0.03	< 0.1
+Pfkfb2	ENSMUST00000066863.7	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2 	152	1	0	0	1	1	mmu-miR-5099	-0.02	-0.04	< 0.1
+Ccdc24	ENSMUST00000164853.2	coiled-coil domain containing 24 	50	1	0	0	1	0	mmu-miR-5099	-0.02	-0.15	< 0.1
+Ggt5	ENSMUST00000072217.3	gamma-glutamyltransferase 5 	240	1	0	0	1	0	mmu-miR-5099	-0.02	-0.16	< 0.1
+6330403A02Rik	ENSMUST00000136521.1	RIKEN cDNA 6330403A02 gene 	51	1	0	0	1	1	mmu-miR-5099	-0.02	-0.10	< 0.1
+Srrm4	ENSMUST00000076124.5	serine/arginine repetitive matrix 4 	84	2	0	0	2	0	mmu-miR-5099	-0.02	-0.09	< 0.1
+Clec7a	ENSMUST00000184861.2	C-type lectin domain family 7, member a 	19	1	1	0	0	0	mmu-miR-5099	-0.02	-0.45	< 0.1
+Adamts20	ENSMUST00000035342.5	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 20 	24	1	0	0	1	0	mmu-miR-5099	-0.02	-0.04	< 0.1
+Rassf10	ENSMUST00000182858.1	Ras association (RalGDS/AF-6) domain family (N-terminal) member 10 	52	1	0	0	1	0	mmu-miR-5099	-0.02	-0.09	< 0.1
+Mboat2	ENSMUST00000110942.4	membrane bound O-acyltransferase domain containing 2 	251	1	0	1	0	0	mmu-miR-5099	-0.02	-0.11	< 0.1
+Mtr	ENSMUST00000099856.4	5-methyltetrahydrofolate-homocysteine methyltransferase 	398	1	0	0	1	0	mmu-miR-5099	-0.02	-0.04	< 0.1
+Qk	ENSMUST00000097414.4	quaking 	1368	1	0	0	1	0	mmu-miR-5099	-0.02	-0.04	< 0.1
+Pggt1b	ENSMUST00000025354.3	protein geranylgeranyltransferase type I, beta subunit 	430	1	0	1	0	3	mmu-miR-5099	-0.02	-0.04	< 0.1
+Rps6ka4	ENSMUST00000025903.5	ribosomal protein S6 kinase, polypeptide 4 	215	1	0	1	0	1	mmu-miR-5099	-0.02	-0.26	< 0.1
+Mast4	ENSMUST00000167058.2	microtubule associated serine/threonine kinase family member 4 	591	1	0	0	1	0	mmu-miR-5099	-0.02	-0.02	< 0.1
+Tmed10	ENSMUST00000040766.7	transmembrane emp24-like trafficking protein 10 (yeast) 	1892	3	0	0	3	0	mmu-miR-5099	-0.02	-0.41	< 0.1
+Kcnmb1	ENSMUST00000020362.2	potassium large conductance calcium-activated channel, subfamily M, beta member 1 	26	1	0	0	1	0	mmu-miR-5099	-0.02	-0.04	< 0.1
+St7l	ENSMUST00000059271.7	suppression of tumorigenicity 7-like 	401	1	0	0	1	0	mmu-miR-5099	-0.02	-0.11	< 0.1
+Efhd2	ENSMUST00000036854.3	EF hand domain containing 2 	699	1	0	0	1	0	mmu-miR-5099	-0.02	-0.23	< 0.1
+Zfp207	ENSMUST00000188489.1	zinc finger protein 207 	336	1	0	0	1	0	mmu-miR-5099	-0.02	-0.11	< 0.1
+Spire1	ENSMUST00000045105.7	spire homolog 1 (Drosophila) 	407	1	0	0	1	1	mmu-miR-5099	-0.02	-0.18	< 0.1
+Sptlc2	ENSMUST00000021424.4	serine palmitoyltransferase, long chain base subunit 2 	1243	1	0	0	1	2	mmu-miR-5099	-0.02	-0.09	< 0.1
+Ccdc127	ENSMUST00000022063.8	coiled-coil domain containing 127 	1021	1	0	0	1	3	mmu-miR-5099	-0.02	-0.10	< 0.1
+Cdk13	ENSMUST00000042365.7	cyclin-dependent kinase 13 	532	1	0	0	1	0	mmu-miR-5099	-0.02	-0.13	< 0.1
+Dhh	ENSMUST00000023737.4	desert hedgehog 	29	1	0	0	1	0	mmu-miR-5099	-0.02	-0.13	< 0.1
+Dennd6b	ENSMUST00000078953.7	DENN/MADD domain containing 6B 	86	2	0	0	2	1	mmu-miR-5099	-0.02	-0.21	< 0.1
+Luc7l2	ENSMUST00000057692.5	LUC7-like 2 (S. cerevisiae) 	3212	2	0	0	2	1	mmu-miR-5099	-0.02	-0.24	< 0.1
+Grin2b	ENSMUST00000053880.7	glutamate receptor, ionotropic, NMDA2B (epsilon 2) 	5	1	0	1	0	2	mmu-miR-5099	-0.02	-0.02	< 0.1
+Mipol1	ENSMUST00000123498.2	mirror-image polydactyly gene 1 homolog (human) 	166	1	0	0	1	0	mmu-miR-5099	-0.02	-0.12	< 0.1
+Ksr2	ENSMUST00000180430.1	kinase suppressor of ras 2 	66	1	0	0	1	1	mmu-miR-5099	-0.02	-0.04	< 0.1
+Fat3	ENSMUST00000082170.5	FAT tumor suppressor homolog 3 (Drosophila) 	18	1	0	1	0	0	mmu-miR-5099	-0.02	-0.02	< 0.1
+Hhip	ENSMUST00000079038.2	Hedgehog-interacting protein 	27	1	0	0	1	0	mmu-miR-5099	-0.02	-0.06	< 0.1
+Pde4d	ENSMUST00000120664.2	phosphodiesterase 4D, cAMP specific 	1752	1	0	0	1	0	mmu-miR-5099	-0.02	-0.02	< 0.1
+Tet1	ENSMUST00000050826.8	tet methylcytosine dioxygenase 1 	33	1	0	0	1	0	mmu-miR-5099	-0.02	-0.08	< 0.1
+Dusp12	ENSMUST00000027970.8	dual specificity phosphatase 12 	63	1	0	0	1	1	mmu-miR-5099	-0.02	-0.14	< 0.1
+Zfp354b	ENSMUST00000109124.4	zinc finger protein 354B 	25	1	0	0	1	1	mmu-miR-5099	-0.02	-0.04	< 0.1
+Gm10638	ENSMUST00000098532.2	predicted gene 10638 	84	1	0	1	0	1	mmu-miR-5099	-0.02	-0.23	< 0.1
+Abhd2	ENSMUST00000037315.7	abhydrolase domain containing 2 	633	1	0	0	1	1	mmu-miR-5099	-0.02	-0.02	< 0.1
+Hn1l	ENSMUST00000024981.7	hematological and neurological expressed 1-like 	213	1	0	0	1	1	mmu-miR-5099	-0.02	-0.23	< 0.1
+Leprel1	ENSMUST00000039990.5	leprecan-like 1 	172	1	0	0	1	1	mmu-miR-5099	-0.02	-0.06	< 0.1
+Slc16a12	ENSMUST00000009522.3	solute carrier family 16 (monocarboxylic acid transporters), member 12 	599	1	0	0	1	0	mmu-miR-5099	-0.02	-0.09	< 0.1
+Atf6	ENSMUST00000027974.6	activating transcription factor 6 	1435	1	0	0	1	0	mmu-miR-5099	-0.02	-0.02	< 0.1
+Accs	ENSMUST00000111246.2	1-aminocyclopropane-1-carboxylate synthase (non-functional) 	164	1	0	0	1	0	mmu-miR-5099	-0.02	-0.09	< 0.1
+Tmem252	ENSMUST00000057243.4	transmembrane protein 252 	477	1	0	0	1	0	mmu-miR-5099	-0.02	-0.17	< 0.1
+Traf2	ENSMUST00000028311.7	TNF receptor-associated factor 2 	176	1	0	0	1	2	mmu-miR-5099	-0.02	-0.21	< 0.1
+Cdk7	ENSMUST00000091299.6	cyclin-dependent kinase 7 	2305	1	0	0	1	0	mmu-miR-5099	-0.02	-0.17	< 0.1
+Cdk5rap2	ENSMUST00000144099.2	CDK5 regulatory subunit associated protein 2 	278	1	0	0	1	0	mmu-miR-5099	-0.02	-0.03	< 0.1
+Gm5595	ENSMUST00000107992.1	predicted gene 5595 	7	1	0	0	1	0	mmu-miR-5099	-0.02	-0.06	< 0.1
+BC089597	ENSMUST00000092058.3	cDNA sequence BC089597 	447	1	0	0	1	2	mmu-miR-5099	-0.02	-0.20	< 0.1
+G630090E17Rik	ENSMUST00000095749.4	RIKEN cDNA G630090E17 gene 	785	1	0	0	1	0	mmu-miR-5099	-0.02	-0.16	< 0.1
+Rufy2	ENSMUST00000119567.2	RUN and FYVE domain-containing 2 	362	1	0	0	1	0	mmu-miR-5099	-0.02	-0.12	< 0.1
+Trim61	ENSMUST00000124790.2	tripartite motif-containing 61 	161	1	0	0	1	0	mmu-miR-5099	-0.02	-0.23	< 0.1
+Nif3l1	ENSMUST00000087521.7	Ngg1 interacting factor 3-like 1 (S. pombe) 	721	1	0	0	1	0	mmu-miR-5099	-0.02	-0.15	< 0.1
+Kcnma1	ENSMUST00000074983.7	potassium large conductance calcium-activated channel, subfamily M, alpha member 1 	32	1	0	0	1	0	mmu-miR-5099	-0.02	-0.13	< 0.1
+Strbp	ENSMUST00000028279.4	spermatid perinuclear RNA binding protein 	530	1	0	1	0	1	mmu-miR-5099	-0.01	-0.07	< 0.1
+Uevld	ENSMUST00000094398.5	UEV and lactate/malate dehyrogenase domains 	12	1	0	0	1	0	mmu-miR-5099	-0.01	-0.01	< 0.1
+Mxd1	ENSMUST00000001184.7	MAX dimerization protein 1 	98	1	0	0	1	0	mmu-miR-5099	-0.01	-0.10	< 0.1
+BC049352	ENSMUST00000164650.2	cDNA sequence BC049352 	81	1	0	1	0	0	mmu-miR-5099	-0.01	-0.19	< 0.1
+Nnmt	ENSMUST00000119426.1	nicotinamide N-methyltransferase 	189	2	0	0	2	1	mmu-miR-5099	-0.01	-0.29	< 0.1
+Asb2	ENSMUST00000021617.8	ankyrin repeat and SOCS box-containing 2 	320	1	0	1	0	0	mmu-miR-5099	-0.01	-0.15	< 0.1
+Vezt	ENSMUST00000119818.2	vezatin, adherens junctions transmembrane protein 	394	1	0	0	1	0	mmu-miR-5099	-0.01	-0.07	< 0.1
+Lyn	ENSMUST00000041377.7	Yamaguchi sarcoma viral (v-yes-1) oncogene homolog 	183	1	0	0	1	1	mmu-miR-5099	-0.01	-0.18	< 0.1
+Pon3	ENSMUST00000031773.3	paraoxonase 3 	1246	1	0	0	1	0	mmu-miR-5099	-0.01	-0.09	< 0.1
+Plce1	ENSMUST00000169713.3	phospholipase C, epsilon 1 	216	1	0	0	1	0	mmu-miR-5099	-0.01	-0.08	< 0.1
+Zmat3	ENSMUST00000029199.5	zinc finger matrin type 3 	1540	1	0	0	1	0	mmu-miR-5099	-0.01	-0.03	< 0.1
+Gm16314	ENSMUST00000146673.1	predicted gene 16314 	262	1	0	0	1	1	mmu-miR-5099	-0.01	-0.17	< 0.1
+Tnr	ENSMUST00000111669.3	tenascin R 	7	1	0	0	1	0	mmu-miR-5099	-0.01	-0.06	< 0.1
+Aox3	ENSMUST00000040999.8	aldehyde oxidase 3 	8970	1	0	0	1	0	mmu-miR-5099	-0.01	-0.08	< 0.1
+Sept11	ENSMUST00000074733.7	septin 11 	4345	1	0	0	1	1	mmu-miR-5099	-0.01	-0.15	< 0.1
+Ctdnep1	ENSMUST00000108593.2	CTD nuclear envelope phosphatase 1 	1689	1	0	0	1	0	mmu-miR-5099	-0.01	-0.27	< 0.1
+Ccl11	ENSMUST00000000342.2	chemokine (C-C motif) ligand 11 	75	1	0	0	1	0	mmu-miR-5099	-0.01	-0.27	< 0.1
+Ick	ENSMUST00000044551.7	intestinal cell kinase 	459	1	0	0	1	0	mmu-miR-5099	-0.01	-0.02	< 0.1
+Ppp1r7	ENSMUST00000027494.5	protein phosphatase 1, regulatory (inhibitor) subunit 7 	977	2	0	0	2	0	mmu-miR-5099	-0.01	-0.21	< 0.1
+Lmbr1	ENSMUST00000055195.5	limb region 1 	352	1	0	0	1	1	mmu-miR-5099	-0.01	-0.18	< 0.1
+Taf5l	ENSMUST00000165628.2	TAF5-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor 	37	1	0	0	1	1	mmu-miR-5099	-0.01	-0.13	< 0.1
+Ikbkg	ENSMUST00000114133.3	inhibitor of kappaB kinase gamma 	630	1	0	0	1	1	mmu-miR-5099	-0.01	-0.08	< 0.1
+Zcrb1	ENSMUST00000162160.2	zinc finger CCHC-type and RNA binding motif 1 	26	1	0	0	1	0	mmu-miR-5099	-0.01	-0.20	< 0.1
+Mcemp1	ENSMUST00000014118.2	mast cell expressed membrane protein 1 	241	1	0	0	1	0	mmu-miR-5099	-0.01	-0.02	< 0.1
+Gskip	ENSMUST00000051934.5	GSK3B interacting protein 	691	1	0	0	1	0	mmu-miR-5099	-0.01	-0.11	< 0.1
+Cetn2	ENSMUST00000114551.4	centrin 2 	1010	1	0	0	1	1	mmu-miR-5099	-0.01	-0.18	< 0.1
+Helz	ENSMUST00000106746.2	helicase with zinc finger domain 	1110	1	0	0	1	0	mmu-miR-5099	-0.01	-0.12	< 0.1
+Rock2	ENSMUST00000020904.6	Rho-associated coiled-coil containing protein kinase 2 	1341	1	0	0	1	0	mmu-miR-5099	-0.01	-0.06	< 0.1
+Hace1	ENSMUST00000037044.7	HECT domain and ankyrin repeat containing, E3 ubiquitin protein ligase 1 	292	1	0	0	1	1	mmu-miR-5099	-0.01	-0.22	< 0.1
+Cox11	ENSMUST00000020851.9	cytochrome c oxidase assembly protein 11 	1022	1	0	0	1	0	mmu-miR-5099	-0.01	-0.20	< 0.1
+Ptprd	ENSMUST00000107289.3	protein tyrosine phosphatase, receptor type, D 	575	1	0	0	1	0	mmu-miR-5099	-0.01	-0.04	< 0.1
+AI846148	ENSMUST00000025924.2	expressed sequence AI846148 	22	1	0	0	1	0	mmu-miR-5099	-0.01	-0.16	< 0.1
+Fem1b	ENSMUST00000034775.8	feminization 1 homolog b (C. elegans) 	813	1	0	0	1	0	mmu-miR-5099	-0.01	-0.07	< 0.1
+Slc5a3	ENSMUST00000113975.2	solute carrier family 5 (inositol transporters), member 3 	2953	1	0	0	1	0	mmu-miR-5099	-0.01	-0.01	< 0.1
+Stau1	ENSMUST00000049412.6	staufen (RNA binding protein) homolog 1 (Drosophila) 	1671	1	0	0	1	0	mmu-miR-5099	-0.01	-0.21	< 0.1
+Csnk1g3	ENSMUST00000069597.6	casein kinase 1, gamma 3 	195	1	0	0	1	0	mmu-miR-5099	-0.01	-0.14	< 0.1
+Il23r	ENSMUST00000118364.1	interleukin 23 receptor 	6	1	0	0	1	2	mmu-miR-5099	-0.01	-0.13	< 0.1
+Taf4b	ENSMUST00000169862.1	TAF4B RNA polymerase II, TATA box binding protein (TBP)-associated factor 	226	1	0	0	1	0	mmu-miR-5099	-0.01	-0.15	< 0.1
+Ssbp2	ENSMUST00000004094.9	single-stranded DNA binding protein 2 	715	1	0	0	1	1	mmu-miR-5099	-0.01	-0.15	< 0.1
+Npm1	ENSMUST00000075641.4	nucleophosmin 1 	1824	1	0	0	1	0	mmu-miR-5099	-0.01	-0.08	< 0.1
+Suv39h2	ENSMUST00000027956.3	suppressor of variegation 3-9 homolog 2 (Drosophila) 	203	2	0	0	2	0	mmu-miR-5099	-0.01	-0.18	< 0.1
+Spta1	ENSMUST00000027817.7	spectrin alpha, erythrocytic 1 	198	1	0	0	1	0	mmu-miR-5099	-0.01	-0.17	< 0.1
+Lman2l	ENSMUST00000125304.2	lectin, mannose-binding 2-like 	787	1	0	0	1	0	mmu-miR-5099	-0.01	-0.08	< 0.1
+Gpn1	ENSMUST00000076949.7	GPN-loop GTPase 1 	940	1	0	0	1	0	mmu-miR-5099	-0.01	-0.12	< 0.1
+Zmym5	ENSMUST00000039812.10	zinc finger, MYM-type 5 	506	1	0	0	1	0	mmu-miR-5099	-0.01	-0.04	< 0.1
+Plod1	ENSMUST00000019199.8	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 1 	250	1	0	0	1	0	mmu-miR-5099	-0.01	-0.12	< 0.1
+Spred3	ENSMUST00000048923.6	sprouty-related, EVH1 domain containing 3 	33	1	0	0	1	0	mmu-miR-5099	-0.01	-0.03	< 0.1
+Ccdc89	ENSMUST00000061391.7	coiled-coil domain containing 89 	29	1	0	0	1	1	mmu-miR-5099	-0.01	-0.18	< 0.1
+Traf5	ENSMUST00000085573.6	TNF receptor-associated factor 5 	92	2	0	0	2	0	mmu-miR-5099	-0.01	-0.27	< 0.1
+Ttc28	ENSMUST00000156290.3	tetratricopeptide repeat domain 28 	421	1	0	0	1	0	mmu-miR-5099	-0.01	-0.01	< 0.1
+Gdf6	ENSMUST00000057613.2	growth differentiation factor 6 	26	1	0	1	0	1	mmu-miR-5099	-0.01	-0.26	< 0.1
+Ndst4	ENSMUST00000173932.2	N-deacetylase/N-sulfotransferase (heparin glucosaminyl) 4 	6	1	0	0	1	1	mmu-miR-5099	-0.01	-0.08	< 0.1
+Trhde	ENSMUST00000061632.7	TRH-degrading enzyme 	58	1	0	0	1	0	mmu-miR-5099	-0.01	-0.08	< 0.1
+Kif1a	ENSMUST00000171796.2	kinesin family member 1A 	1171	1	0	0	1	0	mmu-miR-5099	-0.01	-0.01	< 0.1
+Bod1	ENSMUST00000058060.8	biorientation of chromosomes in cell division 1 	251	1	0	0	1	0	mmu-miR-5099	-0.01	-0.18	< 0.1
+Slc35d1	ENSMUST00000150285.2	solute carrier family 35 (UDP-glucuronic acid/UDP-N-acetylgalactosamine dual transporter), member D1 	1103	1	0	0	1	0	mmu-miR-5099	-0.01	-0.01	< 0.1
+Akirin2	ENSMUST00000084299.5	akirin 2 	4770	2	0	0	2	1	mmu-miR-5099	-0.01	-0.33	< 0.1
+Dnajb5	ENSMUST00000037872.4	DnaJ (Hsp40) homolog, subfamily B, member 5 	328	1	0	0	1	0	mmu-miR-5099	-0.01	-0.08	< 0.1
+Creb3l2	ENSMUST00000041093.5	cAMP responsive element binding protein 3-like 2 	655	1	0	0	1	0	mmu-miR-5099	-0.01	-0.01	< 0.1
+Pole4	ENSMUST00000095786.5	polymerase (DNA-directed), epsilon 4 (p12 subunit) 	3377	1	0	0	1	0	mmu-miR-5099	-0.01	-0.19	< 0.1
+Csgalnact2	ENSMUST00000049344.9	chondroitin sulfate N-acetylgalactosaminyltransferase 2 	70	3	0	0	3	1	mmu-miR-5099	-0.01	-0.32	< 0.1
+March5	ENSMUST00000024078.8	membrane-associated ring finger (C3HC4) 5 	9447	1	0	1	0	1	mmu-miR-5099	-0.01	-0.29	< 0.1
+Nom1	ENSMUST00000001611.9	nucleolar protein with MIF4G domain 1 	352	1	0	0	1	2	mmu-miR-5099	-0.01	-0.22	< 0.1
+Clec16a	ENSMUST00000115823.1	C-type lectin domain family 16, member A 	490	1	0	0	1	0	mmu-miR-5099	-0.01	-0.01	< 0.1
+Cep41	ENSMUST00000031810.9	centrosomal protein 41 	30	1	0	0	1	0	mmu-miR-5099	-0.01	-0.09	< 0.1
+Cyp2j9	ENSMUST00000055693.8	cytochrome P450, family 2, subfamily j, polypeptide 9 	87	1	0	0	1	1	mmu-miR-5099	-0.01	-0.06	< 0.1
+Rmdn1	ENSMUST00000029888.3	regulator of microtubule dynamics 1 	868	1	0	1	0	1	mmu-miR-5099	-0.01	-0.29	< 0.1
+Arpp19	ENSMUST00000169492.2	cAMP-regulated phosphoprotein 19 	16301	1	0	0	1	1	mmu-miR-5099	-0.01	-0.24	< 0.1
+Hspb7	ENSMUST00000102486.4	heat shock protein family, member 7 (cardiovascular) 	3639	1	0	0	1	1	mmu-miR-5099	-0.01	-0.12	< 0.1
+Pkn2	ENSMUST00000043812.9	protein kinase N2 	374	1	0	0	1	0	mmu-miR-5099	-0.01	-0.10	< 0.1
+Ly6a	ENSMUST00000189068.1	lymphocyte antigen 6 complex, locus A 	418	1	0	0	1	0	mmu-miR-5099	-0.01	-0.19	< 0.1
+Trappc10	ENSMUST00000000384.6	trafficking protein particle complex 10 	1158	1	0	0	1	0	mmu-miR-5099	-0.01	-0.14	< 0.1
+Vil1	ENSMUST00000027366.7	villin 1 	234	1	0	1	0	1	mmu-miR-5099	-0.01	-0.23	< 0.1
+Ptpn21	ENSMUST00000170188.2	protein tyrosine phosphatase, non-receptor type 21 	81	1	0	1	0	0	mmu-miR-5099	-0.01	-0.02	< 0.1
+Zfp3	ENSMUST00000060444.5	zinc finger protein 3 	150	1	0	0	1	0	mmu-miR-5099	-0.01	-0.03	< 0.1
+Tmem168	ENSMUST00000031554.3	transmembrane protein 168 	2114	1	0	0	1	0	mmu-miR-5099	-0.01	-0.15	< 0.1
+Atad1	ENSMUST00000070210.4	ATPase family, AAA domain containing 1 	2179	2	1	0	1	1	mmu-miR-5099	-0.01	-0.44	< 0.1
+Epb4.1l5	ENSMUST00000191046.1	erythrocyte protein band 4.1-like 5 	913	1	0	0	1	0	mmu-miR-5099	-0.01	-0.14	< 0.1
+Mettl18	ENSMUST00000045694.8	methyltransferase like 18 	82	1	0	1	0	1	mmu-miR-5099	-0.01	-0.24	< 0.1
+Tango6	ENSMUST00000048359.4	transport and golgi organization 6 	173	1	0	0	1	0	mmu-miR-5099	-0.01	-0.02	< 0.1
+Elmo3	ENSMUST00000109375.2	engulfment and cell motility 3 	620	1	0	0	1	0	mmu-miR-5099	-0.01	-0.11	< 0.1
+FMN1	ENSMUST00000081349.7	formin 1 (Fmn1), transcript variant 4, mRNA 	178	1	0	0	1	1	mmu-miR-5099	-0.01	-0.01	< 0.1
+Bmp3	ENSMUST00000031278.4	bone morphogenetic protein 3 	134	1	0	0	1	0	mmu-miR-5099	-0.01	-0.09	< 0.1
+Sorl1	ENSMUST00000060989.8	sortilin-related receptor, LDLR class A repeats-containing 	1091	1	0	0	1	0	mmu-miR-5099	-0.01	-0.01	< 0.1
+Tbc1d24	ENSMUST00000168378.2	TBC1 domain family, member 24 	129	1	0	0	1	0	mmu-miR-5099	-0.01	-0.01	< 0.1
+Dbndd2	ENSMUST00000109349.3	dysbindin (dystrobrevin binding protein 1) domain containing 2 	494	1	0	0	1	0	mmu-miR-5099	-0.01	-0.12	< 0.1
+Itgb1bp1	ENSMUST00000076260.5	integrin beta 1 binding protein 1 	132	1	0	0	1	0	mmu-miR-5099	-0.01	-0.12	< 0.1
+Fzd3	ENSMUST00000131309.1	frizzled homolog 3 (Drosophila) 	174	1	0	0	1	0	mmu-miR-5099	-0.01	-0.01	< 0.1
+Rnmtl1	ENSMUST00000040577.4	RNA methyltransferase like 1 	239	1	0	0	1	0	mmu-miR-5099	-0.01	-0.17	< 0.1
+Serpina3k	ENSMUST00000043058.4	serine (or cysteine) peptidase inhibitor, clade A, member 3K 	4862	2	0	1	1	0	mmu-miR-5099	-0.01	-0.44	< 0.1
+Hnf4g	ENSMUST00000017832.9	hepatocyte nuclear factor 4, gamma 	34	1	0	0	1	0	mmu-miR-5099	-0.01	-0.17	< 0.1
+Lama4	ENSMUST00000019992.5	laminin, alpha 4 	780	1	0	1	0	0	mmu-miR-5099	-0.01	-0.14	< 0.1
+Fmn1	ENSMUST00000099576.3	formin 1 	183	1	0	0	1	1	mmu-miR-5099	-0.01	-0.01	< 0.1
+Reep3	ENSMUST00000020023.7	receptor accessory protein 3 	227	1	0	0	1	0	mmu-miR-5099	-0.01	-0.17	< 0.1
+Ppp1r3f	ENSMUST00000150787.2	protein phosphatase 1, regulatory (inhibitor) subunit 3F 	120	1	0	1	0	0	mmu-miR-5099	-0.01	-0.17	< 0.1
+Smim14	ENSMUST00000139122.2	small integral membrane protein 14 	3795	1	0	0	1	0	mmu-miR-5099	-0.01	-0.09	< 0.1
+Car5b	ENSMUST00000033739.4	carbonic anhydrase 5b, mitochondrial 	1940	1	0	0	1	0	mmu-miR-5099	-0.01	-0.22	< 0.1
+Brd1	ENSMUST00000109381.2	bromodomain containing 1 	491	1	0	0	1	0	mmu-miR-5099	-0.01	-0.14	< 0.1
+1700025G04Rik	ENSMUST00000044581.8	RIKEN cDNA 1700025G04 gene 	289	1	0	0	1	1	mmu-miR-5099	-0.01	-0.17	< 0.1
+Sf3b5	ENSMUST00000105139.4	splicing factor 3b, subunit 5 	368	1	0	0	1	0	mmu-miR-5099	-0.01	-0.16	< 0.1
+Mrpl51	ENSMUST00000032485.5	mitochondrial ribosomal protein L51 	3803	1	0	0	1	1	mmu-miR-5099	-0.01	-0.13	< 0.1
+Ext1	ENSMUST00000077273.3	exostoses (multiple) 1 	425	1	0	0	1	0	mmu-miR-5099	-0.01	-0.09	< 0.1
+Creb1	ENSMUST00000087366.5	cAMP responsive element binding protein 1 	1211	1	0	0	1	0	mmu-miR-5099	-0.01	-0.09	< 0.1
+Zdhhc5	ENSMUST00000035840.5	zinc finger, DHHC domain containing 5 	3066	1	0	0	1	0	mmu-miR-5099	-0.01	-0.16	< 0.1
+Arhgap8	ENSMUST00000172307.3	Rho GTPase activating protein 8 	488	1	0	0	1	1	mmu-miR-5099	-0.01	-0.09	< 0.1
+Agpat6	ENSMUST00000167004.1	1-acylglycerol-3-phosphate O-acyltransferase 6 (lysophosphatidic acid acyltransferase, zeta) 	1804	1	0	1	0	0	mmu-miR-5099	-0.01	-0.11	< 0.1
+Krit1	ENSMUST00000171023.2	KRIT1, ankyrin repeat containing 	1056	1	0	0	1	3	mmu-miR-5099	-0.01	-0.15	< 0.1
+Ndufb11	ENSMUST00000116621.1	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 11 	130	1	0	0	1	0	mmu-miR-5099	-0.01	-0.17	< 0.1
+Eif4g2	ENSMUST00000162415.2	eukaryotic translation initiation factor 4, gamma 2 	935	1	0	0	1	0	mmu-miR-5099	-0.01	-0.08	< 0.1
+Prox2	ENSMUST00000177289.3	prospero homeobox 2 	33	1	1	0	0	0	mmu-miR-5099	-0.01	-0.24	< 0.1
+Lpar2	ENSMUST00000034325.4	lysophosphatidic acid receptor 2 	151	1	0	0	1	0	mmu-miR-5099	-0.01	-0.05	< 0.1
+Hp1bp3	ENSMUST00000105827.2	heterochromatin protein 1, binding protein 3 	2450	1	0	0	1	0	mmu-miR-5099	-0.01	-0.20	< 0.1
+Ms4a4b	ENSMUST00000035258.8	membrane-spanning 4-domains, subfamily A, member 4B 	23	1	0	0	1	0	mmu-miR-5099	-0.01	-0.09	< 0.1
+Pxylp1	ENSMUST00000112951.3	2-phosphoxylose phosphatase 1 	22	1	0	0	1	0	mmu-miR-5099	-0.01	-0.14	< 0.1
+Tsc22d2	ENSMUST00000099090.2	TSC22 domain family, member 2 	922	1	0	0	1	1	mmu-miR-5099	-0.01	-0.13	< 0.1
+Fbxl17	ENSMUST00000024761.7	F-box and leucine-rich repeat protein 17 	1433	1	0	0	1	2	mmu-miR-5099	-0.01	-0.03	< 0.1
+Map1b	ENSMUST00000064762.4	microtubule-associated protein 1B 	306	1	0	0	1	1	mmu-miR-5099	-0.01	-0.02	< 0.1
+Polh	ENSMUST00000024749.7	polymerase (DNA directed), eta (RAD 30 related) 	691	1	0	0	1	0	mmu-miR-5099	-0.01	-0.11	< 0.1
+Ism2	ENSMUST00000125733.2	isthmin 2 homolog (zebrafish) 	7	1	0	0	1	0	mmu-miR-5099	-0.01	-0.07	< 0.1
+Mrpl1	ENSMUST00000117766.2	mitochondrial ribosomal protein L1 	3013	1	0	0	1	0	mmu-miR-5099	-0.01	-0.22	< 0.1
+Ahsa1	ENSMUST00000021425.6	AHA1, activator of heat shock protein ATPase 1 	485	1	0	0	1	0	mmu-miR-5099	-0.01	-0.10	< 0.1
+Extl1	ENSMUST00000030643.2	exostoses (multiple)-like 1 	160	1	0	0	1	0	mmu-miR-5099	-0.01	-0.05	< 0.1
+Trit1	ENSMUST00000102649.3	tRNA isopentenyltransferase 1 	199	1	0	0	1	0	mmu-miR-5099	-0.01	-0.12	< 0.1
+Bhlhe41	ENSMUST00000111703.1	basic helix-loop-helix family, member e41 	347	1	0	1	0	0	mmu-miR-5099	-0.01	-0.16	< 0.1
+Zdhhc6	ENSMUST00000076891.5	zinc finger, DHHC domain containing 6 	384	1	0	0	1	0	mmu-miR-5099	-0.01	-0.12	< 0.1
+Spice1	ENSMUST00000050897.6	spindle and centriole associated protein 1 	250	1	0	0	1	0	mmu-miR-5099	-0.01	-0.12	< 0.1
+Phf3	ENSMUST00000186733.1	PHD finger protein 3 	1905	1	0	0	1	0	mmu-miR-5099	-0.01	-0.12	< 0.1
+Pik3r6	ENSMUST00000102613.2	phosphoinositide-3-kinase, regulatory subunit 6 	78	1	0	0	1	0	mmu-miR-5099	-0.01	-0.11	< 0.1
+Ptrh2	ENSMUST00000108022.2	peptidyl-tRNA hydrolase 2 	1543	1	0	0	1	1	mmu-miR-5099	-0.01	-0.20	< 0.1
+Necab3	ENSMUST00000109716.3	N-terminal EF-hand calcium binding protein 3 	54	1	0	0	1	0	mmu-miR-5099	-0.01	-0.10	< 0.1
+St3gal6	ENSMUST00000137035.2	ST3 beta-galactoside alpha-2,3-sialyltransferase 6 	1417	1	0	1	0	0	mmu-miR-5099	-0.01	-0.28	< 0.1
+Gxylt2	ENSMUST00000032157.7	glucoside xylosyltransferase 2 	24	1	0	0	1	2	mmu-miR-5099	0	-0.08	< 0.1
+Pcnx	ENSMUST00000021567.5	pecanex homolog (Drosophila) 	657	1	0	0	1	1	mmu-miR-5099	0	-0.01	< 0.1
+C330018D20Rik	ENSMUST00000025488.9	RIKEN cDNA C330018D20 gene 	458	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Akr1e1	ENSMUST00000110691.4	aldo-keto reductase family 1, member E1 	719	1	0	0	1	2	mmu-miR-5099	0	-0.21	< 0.1
+Ikbkap	ENSMUST00000030140.2	inhibitor of kappa light polypeptide enhancer in B cells, kinase complex-associated protein 	4812	1	1	0	0	0	mmu-miR-5099	0	-0.21	< 0.1
+Tnik	ENSMUST00000159236.3	TRAF2 and NCK interacting kinase 	209	1	0	0	1	4	mmu-miR-5099	0	-0.05	< 0.1
+Cacna1a	ENSMUST00000121390.2	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit 	34	1	0	0	1	0	mmu-miR-5099	0	-0.01	< 0.1
+Rabgap1l	ENSMUST00000028049.7	RAB GTPase activating protein 1-like 	357	1	0	1	0	0	mmu-miR-5099	0	-0.08	< 0.1
+Thnsl1	ENSMUST00000054591.4	threonine synthase-like 1 (bacterial) 	271	2	0	0	2	1	mmu-miR-5099	0	-0.05	< 0.1
+Lad1	ENSMUST00000038760.9	ladinin 	220	1	0	0	1	0	mmu-miR-5099	0	-0.14	< 0.1
+Spata6	ENSMUST00000084354.3	spermatogenesis associated 6 	232	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Lpin3	ENSMUST00000109455.3	lipin 3 	151	1	1	0	0	0	mmu-miR-5099	0	-0.28	< 0.1
+Asxl2	ENSMUST00000111215.4	additional sex combs like 2 (Drosophila) 	535	1	0	0	1	0	mmu-miR-5099	0	-0.02	< 0.1
+Tacc2	ENSMUST00000059145.8	transforming, acidic coiled-coil containing protein 2 	890	2	0	0	2	1	mmu-miR-5099	0	-0.26	< 0.1
+Emc1	ENSMUST00000042096.8	ER membrane protein complex subunit 1 	2607	1	0	0	1	1	mmu-miR-5099	0	-0.01	< 0.1
+Dyrk1b	ENSMUST00000085901.7	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1b 	235	1	0	0	1	2	mmu-miR-5099	0	-0.02	< 0.1
+Myf6	ENSMUST00000044210.3	myogenic factor 6 	1499	1	0	0	1	0	mmu-miR-5099	0	-0.15	< 0.1
+Ooep	ENSMUST00000034900.7	oocyte expressed protein 	221	1	0	1	0	0	mmu-miR-5099	0	-0.20	< 0.1
+Adcy6	ENSMUST00000096224.4	adenylate cyclase 6 	43	1	0	0	1	1	mmu-miR-5099	0	-0.13	< 0.1
+Mmp16	ENSMUST00000029881.4	matrix metallopeptidase 16 	95	1	0	0	1	0	mmu-miR-5099	0	-0.06	< 0.1
+Ktn1	ENSMUST00000022391.8	kinectin 1 	3227	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Steap2	ENSMUST00000164219.2	six transmembrane epithelial antigen of prostate 2 	913	1	0	0	1	2	mmu-miR-5099	0	-0.06	< 0.1
+Rac2	ENSMUST00000043214.6	RAS-related C3 botulinum substrate 2 	256	1	0	0	1	0	mmu-miR-5099	0	-0.20	< 0.1
+Rpp30	ENSMUST00000025714.7	ribonuclease P/MRP 30 subunit 	633	1	0	0	1	0	mmu-miR-5099	0	-0.21	< 0.1
+Lyrm5	ENSMUST00000039729.3	LYR motif containing 5 	1007	1	0	0	1	0	mmu-miR-5099	0	-0.17	< 0.1
+Cyp4f14	ENSMUST00000179434.2	cytochrome P450, family 4, subfamily f, polypeptide 14 	1536	1	0	0	1	1	mmu-miR-5099	0	-0.06	< 0.1
+Znrf2	ENSMUST00000079869.7	zinc and ring finger 2 	2629	1	0	0	1	0	mmu-miR-5099	0	-0.15	< 0.1
+Ddx25	ENSMUST00000034612.5	DEAD (Asp-Glu-Ala-Asp) box polypeptide 25 	47	1	0	0	1	1	mmu-miR-5099	0	-0.05	< 0.1
+Nme2	ENSMUST00000021217.5	NME/NM23 nucleoside diphosphate kinase 2 	87	1	0	0	1	0	mmu-miR-5099	0	-0.15	< 0.1
+Fbxo46	ENSMUST00000053109.3	F-box protein 46 	127	1	0	0	1	1	mmu-miR-5099	0	-0.12	< 0.1
+Gm13225	ENSMUST00000105742.2	predicted gene 13225 	344	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Yipf7	ENSMUST00000031045.6	Yip1 domain family, member 7 	837	1	0	0	1	0	mmu-miR-5099	0	-0.21	< 0.1
+Ttc1	ENSMUST00000048578.2	tetratricopeptide repeat domain 1 	646	1	0	0	1	0	mmu-miR-5099	0	-0.18	< 0.1
+2810417H13Rik	ENSMUST00000045802.6	RIKEN cDNA 2810417H13 gene 	462	1	0	0	1	0	mmu-miR-5099	0	-0.17	< 0.1
+Zfp474	ENSMUST00000072666.3	zinc finger protein 474 	63	3	0	0	3	0	mmu-miR-5099	0	-0.42	< 0.1
+Gm20390	ENSMUST00000170303.1	predicted gene 20390 	87	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Slc22a22	ENSMUST00000022995.7	solute carrier family 22 (organic cation transporter), member 22 	86	1	0	0	1	0	mmu-miR-5099	0	-0.19	< 0.1
+Nphs2	ENSMUST00000027896.4	nephrosis 2, podocin 	154	1	0	1	0	1	mmu-miR-5099	0	-0.23	< 0.1
+Mcm4	ENSMUST00000023353.3	minichromosome maintenance deficient 4 homolog (S. cerevisiae) 	70	1	0	0	1	1	mmu-miR-5099	0	-0.14	< 0.1
+Ccdc104	ENSMUST00000020754.4	coiled-coil domain containing 104 	120	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Polr3g	ENSMUST00000048993.6	polymerase (RNA) III (DNA directed) polypeptide G 	63	1	0	0	1	1	mmu-miR-5099	0	-0.14	< 0.1
+Ptplb	ENSMUST00000061156.8	protein tyrosine phosphatase-like (proline instead of catalytic arginine), member b 	2425	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+1700011H14Rik	ENSMUST00000022398.8	RIKEN cDNA 1700011H14 gene 	173	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Slc30a7	ENSMUST00000067485.3	solute carrier family 30 (zinc transporter), member 7 	257	1	0	0	1	0	mmu-miR-5099	0	-0.07	< 0.1
+Cnpy2	ENSMUST00000026446.2	canopy 2 homolog (zebrafish) 	5322	2	0	1	1	0	mmu-miR-5099	0	-0.52	< 0.1
+Fermt1	ENSMUST00000038280.4	fermitin family homolog 1 (Drosophila) 	45	1	0	0	1	0	mmu-miR-5099	0	-0.14	< 0.1
+Tusc3	ENSMUST00000167992.2	tumor suppressor candidate 3 	4315	1	0	0	1	2	mmu-miR-5099	0	-0.25	< 0.1
+Tgm1	ENSMUST00000168729.2	transglutaminase 1, K polypeptide 	70	1	0	0	1	0	mmu-miR-5099	0	-0.06	< 0.1
+Ikzf5	ENSMUST00000046306.9	IKAROS family zinc finger 5 	362	1	0	0	1	0	mmu-miR-5099	0	-0.17	< 0.1
+Tln2	ENSMUST00000040025.8	talin 2 	1162	1	0	0	1	0	mmu-miR-5099	0	-0.03	< 0.1
+Zfp648	ENSMUST00000086195.6	zinc finger protein 648 	7	1	0	0	1	0	mmu-miR-5099	0	-0.01	< 0.1
+Hacl1	ENSMUST00000022437.9	2-hydroxyacyl-CoA lyase 1 	1588	1	0	0	1	0	mmu-miR-5099	0	-0.15	< 0.1
+Cpxm2	ENSMUST00000033149.4	carboxypeptidase X 2 (M14 family) 	292	1	0	0	1	1	mmu-miR-5099	0	-0.11	< 0.1
+Tbp	ENSMUST00000162505.2	TATA box binding protein 	1274	1	0	0	1	2	mmu-miR-5099	0	-0.09	< 0.1
+Extl2	ENSMUST00000029575.6	exostoses (multiple)-like 2 	537	1	0	1	0	1	mmu-miR-5099	0	-0.18	< 0.1
+Kin	ENSMUST00000042512.7	antigenic determinant of rec-A protein 	230	1	0	0	1	1	mmu-miR-5099	0	-0.11	< 0.1
+Serpine2	ENSMUST00000027467.5	serine (or cysteine) peptidase inhibitor, clade E, member 2 	1517	1	0	0	1	0	mmu-miR-5099	0	-0.16	< 0.1
+Chchd5	ENSMUST00000035481.4	coiled-coil-helix-coiled-coil-helix domain containing 5 	1173	1	0	0	1	0	mmu-miR-5099	0	-0.14	< 0.1
+Avpr1a	ENSMUST00000020323.5	arginine vasopressin receptor 1A 	286	1	0	0	1	0	mmu-miR-5099	0	-0.07	< 0.1
+Cdc37	ENSMUST00000019615.9	cell division cycle 37 	993	1	0	0	1	1	mmu-miR-5099	0	-0.08	< 0.1
+Ralbp1	ENSMUST00000166543.3	ralA binding protein 1 	108	1	0	0	1	0	mmu-miR-5099	0	-0.05	< 0.1
+Rab29	ENSMUST00000027693.7	RAB29, member RAS oncogene family 	165	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Sbk2	ENSMUST00000182214.2	SH3-binding domain kinase family, member 2 	161	1	0	0	1	1	mmu-miR-5099	0	-0.08	< 0.1
+Aasdhppt	ENSMUST00000051589.7	aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase 	1194	2	0	0	2	0	mmu-miR-5099	0	-0.12	< 0.1
+Adss	ENSMUST00000016105.8	adenylosuccinate synthetase, non muscle 	356	1	0	0	1	0	mmu-miR-5099	0	-0.15	< 0.1
+Sgca	ENSMUST00000103162.2	sarcoglycan, alpha (dystrophin-associated glycoprotein) 	213	1	0	0	1	0	mmu-miR-5099	0	-0.21	< 0.1
+Incenp	ENSMUST00000025562.7	inner centromere protein 	2682	1	0	0	1	0	mmu-miR-5099	0	-0.11	< 0.1
+Fem1c	ENSMUST00000036226.5	fem-1 homolog c (C.elegans) 	303	1	0	0	1	0	mmu-miR-5099	0	-0.11	< 0.1
+Slc52a2	ENSMUST00000023220.8	solute carrier protein 52, member 2 	476	1	0	0	1	0	mmu-miR-5099	0	-0.06	< 0.1
+Rock1	ENSMUST00000067947.5	Rho-associated coiled-coil containing protein kinase 1 	1601	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Utp3	ENSMUST00000090413.4	UTP3, small subunit (SSU) processome component, homolog (S. cerevisiae) 	1211	1	0	0	1	0	mmu-miR-5099	0	-0.17	< 0.1
+Atg4b	ENSMUST00000027502.10	autophagy related 4B, cysteine peptidase 	1069	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Rcl1	ENSMUST00000064393.5	RNA terminal phosphate cyclase-like 1 	667	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+Ckap4	ENSMUST00000053871.3	cytoskeleton-associated protein 4 	538	1	0	0	1	1	mmu-miR-5099	0	-0.11	< 0.1
+Il10rb	ENSMUST00000023691.6	interleukin 10 receptor, beta 	1124	1	0	0	1	0	mmu-miR-5099	0	-0.20	< 0.1
+Pdgfc	ENSMUST00000029652.3	platelet-derived growth factor, C polypeptide 	820	1	0	0	1	0	mmu-miR-5099	0	-0.16	< 0.1
+Rab7	ENSMUST00000113600.4	RAB7, member RAS oncogene family 	6208	1	0	0	1	1	mmu-miR-5099	0	-0.21	< 0.1
+Lect2	ENSMUST00000062806.4	leukocyte cell-derived chemotaxin 2 	2037	1	0	0	1	0	mmu-miR-5099	0	-0.18	< 0.1
+Inip	ENSMUST00000095063.5	INTS3 and NABP interacting protein 	881	1	0	0	1	1	mmu-miR-5099	0	-0.10	< 0.1
+Il15ra	ENSMUST00000148748.2	interleukin 15 receptor, alpha chain 	323	1	0	1	0	0	mmu-miR-5099	0	-0.19	< 0.1
+Vmp1	ENSMUST00000018315.4	vacuole membrane protein 1 	10953	1	0	0	1	0	mmu-miR-5099	0	-0.08	< 0.1
+Tcf3	ENSMUST00000105344.2	transcription factor 3 	1025	1	0	0	1	1	mmu-miR-5099	0	-0.26	< 0.1
+Itga11	ENSMUST00000034774.8	integrin alpha 11 	170	1	0	0	1	0	mmu-miR-5099	0	-0.04	< 0.1
+Cyp2c67	ENSMUST00000067328.6	cytochrome P450, family 2, subfamily c, polypeptide 67 	7908	1	0	0	1	0	mmu-miR-5099	0	-0.20	< 0.1
+Lgi3	ENSMUST00000047331.6	leucine-rich repeat LGI family, member 3 	124	1	0	0	1	1	mmu-miR-5099	0	-0.10	< 0.1
+Plin3	ENSMUST00000019726.6	perilipin 3 	1267	1	0	0	1	0	mmu-miR-5099	0	-0.16	< 0.1
+Fbxo25	ENSMUST00000043520.3	F-box protein 25 	332	1	0	1	0	0	mmu-miR-5099	0	-0.02	< 0.1
+Ugt2a3	ENSMUST00000031195.2	UDP glucuronosyltransferase 2 family, polypeptide A3 	1817	1	0	1	0	2	mmu-miR-5099	0	-0.17	< 0.1
+Prg4	ENSMUST00000006171.10	proteoglycan 4 (megakaryocyte stimulating factor, articular superficial zone protein) 	579	1	0	0	1	0	mmu-miR-5099	0	-0.17	< 0.1
+Ift88	ENSMUST00000122063.2	intraflagellar transport 88 	601	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Klk13	ENSMUST00000066834.6	kallikrein related-peptidase 13 	46	1	0	1	0	0	mmu-miR-5099	0	-0.06	< 0.1
+Fbxl14	ENSMUST00000032094.6	F-box and leucine-rich repeat protein 14 	113	1	0	1	0	1	mmu-miR-5099	0	-0.19	< 0.1
+Zfp35	ENSMUST00000074941.7	zinc finger protein 35 	964	1	0	0	1	0	mmu-miR-5099	0	-0.29	< 0.1
+Papolg	ENSMUST00000020513.4	poly(A) polymerase gamma 	577	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Gc	ENSMUST00000049209.8	group specific component 	1826	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+Efcab2	ENSMUST00000027775.7	EF-hand calcium binding domain 2 	685	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Arhgef10l	ENSMUST00000069623.6	Rho guanine nucleotide exchange factor (GEF) 10-like 	313	2	0	1	1	0	mmu-miR-5099	0	-0.24	< 0.1
+Aldh1a1	ENSMUST00000087638.3	aldehyde dehydrogenase family 1, subfamily A1 	11754	1	0	1	0	1	mmu-miR-5099	0	-0.27	< 0.1
+Tssk6	ENSMUST00000050373.5	testis-specific serine kinase 6 	41	1	0	1	0	0	mmu-miR-5099	0	-0.10	< 0.1
+Dnaaf2	ENSMUST00000021356.5	dynein, axonemal assembly factor 2 	160	1	0	0	1	2	mmu-miR-5099	0	-0.12	< 0.1
+Pip4k2c	ENSMUST00000013970.7	phosphatidylinositol-5-phosphate 4-kinase, type II, gamma 	927	1	0	0	1	0	mmu-miR-5099	0	-0.21	< 0.1
+Adam15	ENSMUST00000107448.3	a disintegrin and metallopeptidase domain 15 (metargidin) 	1744	2	0	0	2	0	mmu-miR-5099	0	-0.29	< 0.1
+Traf3ip1	ENSMUST00000047242.8	TRAF3 interacting protein 1 	419	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Nme6	ENSMUST00000119376.2	NME/NM23 nucleoside diphosphate kinase 6 	729	1	0	0	1	1	mmu-miR-5099	0	-0.12	< 0.1
+Pfkp	ENSMUST00000138703.2	phosphofructokinase, platelet 	1066	1	0	1	0	0	mmu-miR-5099	0	-0.24	< 0.1
+Hsf2	ENSMUST00000079833.4	heat shock factor 2 	285	1	0	0	1	1	mmu-miR-5099	0	-0.12	< 0.1
+Aass	ENSMUST00000031707.8	aminoadipate-semialdehyde synthase 	3788	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Aadac	ENSMUST00000029325.3	arylacetamide deacetylase (esterase) 	1361	1	0	0	1	1	mmu-miR-5099	0	-0.13	< 0.1
+Hmgn5	ENSMUST00000033597.8	high-mobility group nucleosome binding domain 5 	707	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Lurap1l	ENSMUST00000055922.3	leucine rich adaptor protein 1-like 	532	1	0	0	1	1	mmu-miR-5099	0	-0.12	< 0.1
+Synpo	ENSMUST00000097566.4	synaptopodin 	1349	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+C1d	ENSMUST00000000594.3	C1D nuclear receptor co-repressor 	5861	1	0	0	1	0	mmu-miR-5099	0	-0.21	< 0.1
+Eif5	ENSMUST00000166123.2	eukaryotic translation initiation factor 5 	1831	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Krt23	ENSMUST00000006969.7	keratin 23 	68	1	0	1	0	1	mmu-miR-5099	0	-0.13	< 0.1
+P2ry2	ENSMUST00000037540.3	purinergic receptor P2Y, G-protein coupled 2 	184	1	0	0	1	1	mmu-miR-5099	0	-0.11	< 0.1
+Rhod	ENSMUST00000117462.1	ras homolog gene family, member D 	1484	1	0	1	0	0	mmu-miR-5099	0	-0.13	< 0.1
+Ttc30b	ENSMUST00000099996.4	tetratricopeptide repeat domain 30B 	49	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Trmt5	ENSMUST00000116420.2	TRM5 tRNA methyltransferase 5 	3665	1	0	0	1	2	mmu-miR-5099	0	-0.20	< 0.1
+Coq10b	ENSMUST00000027125.6	coenzyme Q10 homolog B (S. cerevisiae) 	1438	1	0	0	1	1	mmu-miR-5099	0	-0.16	< 0.1
+Zfp963	ENSMUST00000130458.2	zinc finger protein 963 	330	1	0	0	1	0	mmu-miR-5099	0	-0.08	< 0.1
+E130308A19Rik	ENSMUST00000070150.5	RIKEN cDNA E130308A19 gene 	224	1	0	1	0	0	mmu-miR-5099	0	-0.04	< 0.1
+Tpp2	ENSMUST00000188313.1	tripeptidyl peptidase II 	2942	1	0	0	1	2	mmu-miR-5099	0	-0.11	< 0.1
+Upk1a	ENSMUST00000006476.4	uroplakin 1A 	176	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+Iars2	ENSMUST00000027921.5	isoleucine-tRNA synthetase 2, mitochondrial 	3667	1	0	0	1	0	mmu-miR-5099	0	-0.11	< 0.1
+Cyp3a59	ENSMUST00000035571.8	cytochrome P450, family 3, subfamily a, polypeptide 59 	55	1	0	0	1	1	mmu-miR-5099	0	-0.17	< 0.1
+Rpusd2	ENSMUST00000028796.1	RNA pseudouridylate synthase domain containing 2 	80	1	0	0	1	1	mmu-miR-5099	0	-0.13	< 0.1
+Dock9	ENSMUST00000100299.4	dedicator of cytokinesis 9 	549	1	0	0	1	0	mmu-miR-5099	0	-0.01	< 0.1
+Cmpk2	ENSMUST00000020969.3	cytidine monophosphate (UMP-CMP) kinase 2, mitochondrial 	584	1	0	0	1	1	mmu-miR-5099	0	-0.13	< 0.1
+Ndufs4	ENSMUST00000022286.6	NADH dehydrogenase (ubiquinone) Fe-S protein 4 	1504	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Cep44	ENSMUST00000040330.9	centrosomal protein 44 	351	1	0	0	1	1	mmu-miR-5099	0	-0.21	< 0.1
+Stau2	ENSMUST00000162751.2	staufen (RNA binding protein) homolog 2 (Drosophila) 	484	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+Rdh14	ENSMUST00000020947.5	retinol dehydrogenase 14 (all-trans and 9-cis) 	1825	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Gzf1	ENSMUST00000028928.7	GDNF-inducible zinc finger protein 1 	1865	1	0	0	1	0	mmu-miR-5099	0	-0.07	< 0.1
+Ocln	ENSMUST00000069756.5	occludin 	847	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Rrp9	ENSMUST00000047721.9	RRP9, small subunit (SSU) processome component, homolog (yeast) 	525	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Ush1c	ENSMUST00000078680.7	Usher syndrome 1C 	499	1	0	1	0	0	mmu-miR-5099	0	-0.06	< 0.1
+Acaa1a	ENSMUST00000175743.2	acetyl-Coenzyme A acyltransferase 1A 	5146	1	0	0	1	3	mmu-miR-5099	0	-0.18	< 0.1
+Rpf2	ENSMUST00000045114.7	ribosome production factor 2 homolog (S. cerevisiae) 	1107	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Nudcd3	ENSMUST00000109805.3	NudC domain containing 3 	1855	1	0	0	1	1	mmu-miR-5099	0	-0.04	< 0.1
+Azin1	ENSMUST00000110328.2	antizyme inhibitor 1 	8613	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+March3	ENSMUST00000035278.6	membrane-associated ring finger (C3HC4) 3 	123	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Clec3b	ENSMUST00000026890.4	C-type lectin domain family 3, member b 	4614	1	0	1	0	0	mmu-miR-5099	0	-0.11	< 0.1
+Col6a1	ENSMUST00000001147.4	collagen, type VI, alpha 1 	285	1	0	0	1	0	mmu-miR-5099	0	-0.11	< 0.1
+Tfdp2	ENSMUST00000034982.10	transcription factor Dp 2 	850	1	0	0	1	0	mmu-miR-5099	0	-0.01	< 0.1
+Serpinb6b	ENSMUST00000110293.3	serine (or cysteine) peptidase inhibitor, clade B, member 6b 	612	1	0	0	1	1	mmu-miR-5099	0	-0.13	< 0.1
+Psmd1	ENSMUST00000027432.8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1 	1348	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+2610001J05Rik	ENSMUST00000139231.1	RIKEN cDNA 2610001J05 gene 	3337	1	0	0	1	0	mmu-miR-5099	0	-0.20	< 0.1
+Sucnr1	ENSMUST00000029326.5	succinate receptor 1 	848	1	0	0	1	0	mmu-miR-5099	0	-0.05	< 0.1
+Cbx4	ENSMUST00000026665.7	chromobox 4 	867	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Impa1	ENSMUST00000065938.9	inositol (myo)-1(or 4)-monophosphatase 1 	2716	1	0	0	1	2	mmu-miR-5099	0	-0.15	< 0.1
+Akr1c21	ENSMUST00000021628.3	aldo-keto reductase family 1, member C21 	1918	1	0	0	1	0	mmu-miR-5099	0	-0.21	< 0.1
+Hist1h4m	ENSMUST00000104941.3	histone cluster 1, H4m 	5	2	0	0	2	0	mmu-miR-5099	0	-0.32	< 0.1
+Sec11a	ENSMUST00000026818.6	SEC11 homolog A (S. cerevisiae) 	1282	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Atf1	ENSMUST00000023769.5	activating transcription factor 1 	446	1	0	0	1	0	mmu-miR-5099	0	-0.15	< 0.1
+Nr1h4	ENSMUST00000058126.9	nuclear receptor subfamily 1, group H, member 4 	1622	1	0	0	1	1	mmu-miR-5099	0	-0.12	< 0.1
+Dhx35	ENSMUST00000029186.8	DEAH (Asp-Glu-Ala-His) box polypeptide 35 	558	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Irx2	ENSMUST00000074372.5	Iroquois related homeobox 2 (Drosophila) 	378	1	0	0	1	0	mmu-miR-5099	0	-0.14	< 0.1
+Naa30	ENSMUST00000037362.5	N(alpha)-acetyltransferase 30, NatC catalytic subunit 	980	1	0	0	1	1	mmu-miR-5099	0	-0.06	< 0.1
+Zfp292	ENSMUST00000098163.3	zinc finger protein 292 	571	1	0	0	1	2	mmu-miR-5099	0	-0.01	< 0.1
+Yaf2	ENSMUST00000080299.6	YY1 associated factor 2 	1098	2	0	0	2	2	mmu-miR-5099	0	-0.31	< 0.1
+Slc36a4	ENSMUST00000115588.2	solute carrier family 36 (proton/amino acid symporter), member 4 	610	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Swt1	ENSMUST00000064771.6	SWT1 RNA endoribonuclease homolog (S. cerevisiae) 	233	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+Unc45b	ENSMUST00000108160.2	unc-45 homolog B (C. elegans) 	3837	1	0	0	1	1	mmu-miR-5099	0	-0.14	< 0.1
+C1qb	ENSMUST00000046384.8	complement component 1, q subcomponent, beta polypeptide 	4259	1	0	0	1	0	mmu-miR-5099	0	-0.14	< 0.1
+Tnxb	ENSMUST00000087399.4	tenascin XB 	204	1	0	0	1	0	mmu-miR-5099	0	-0.06	< 0.1
+Pm20d1	ENSMUST00000112393.3	peptidase M20 domain containing 1 	1502	1	0	0	1	1	mmu-miR-5099	0	-0.06	< 0.1
+Ccdc80	ENSMUST00000061050.5	coiled-coil domain containing 80 	8312	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Tpk1	ENSMUST00000067888.8	thiamine pyrophosphokinase 	834	1	0	0	1	0	mmu-miR-5099	0	-0.19	< 0.1
+Fam188b	ENSMUST00000053094.7	family with sequence similarity 188, member B 	305	1	0	1	0	0	mmu-miR-5099	0	-0.04	< 0.1
+Gng3	ENSMUST00000096259.4	guanine nucleotide binding protein (G protein), gamma 3 	4548	1	0	0	1	0	mmu-miR-5099	0	-0.19	< 0.1
+AW822073	ENSMUST00000174056.2	expressed sequence AW822073 	5	1	0	0	1	1	mmu-miR-5099	0	-0.20	< 0.1
+Med28	ENSMUST00000118833.1	mediator complex subunit 28 	7190	1	0	0	1	1	mmu-miR-5099	0	-0.19	< 0.1
+Scn3b	ENSMUST00000171835.3	sodium channel, voltage-gated, type III, beta 	478	1	0	0	1	1	mmu-miR-5099	0	-0.14	< 0.1
+Fgfr2	ENSMUST00000124096.2	fibroblast growth factor receptor 2 	493	1	0	0	1	1	mmu-miR-5099	0	-0.12	< 0.1
+Rps8	ENSMUST00000102696.4	ribosomal protein S8 	5781	1	0	0	1	0	mmu-miR-5099	0	-0.14	< 0.1
+Tmem167	ENSMUST00000161568.2	transmembrane protein 167 	3072	1	0	0	1	2	mmu-miR-5099	0	-0.14	< 0.1
+Ttll4	ENSMUST00000042125.9	tubulin tyrosine ligase-like family, member 4 	651	1	0	0	1	0	mmu-miR-5099	0	-0.02	< 0.1
+Dhx40	ENSMUST00000018569.8	DEAH (Asp-Glu-Ala-His) box polypeptide 40 	736	1	0	0	1	1	mmu-miR-5099	0	-0.14	< 0.1
+Tubb3	ENSMUST00000071134.3	tubulin, beta 3 class III 	758	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+Lsm4	ENSMUST00000034311.9	LSM4 homolog, U6 small nuclear RNA associated (S. cerevisiae) 	2444	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Xpo7	ENSMUST00000167242.2	exportin 7 	3235	1	0	0	1	4	mmu-miR-5099	0	-0.10	< 0.1
+Phtf1	ENSMUST00000055425.9	putative homeodomain transcription factor 1 	755	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Cyp3a13	ENSMUST00000031741.7	cytochrome P450, family 3, subfamily a, polypeptide 13 	578	1	0	0	1	1	mmu-miR-5099	0	-0.11	< 0.1
+Fam65b	ENSMUST00000110383.2	family with sequence similarity 65, member B 	149	1	0	0	1	0	mmu-miR-5099	0	-0.03	< 0.1
+D1Ertd622e	ENSMUST00000053033.8	DNA segment, Chr 1, ERATO Doi 622, expressed 	911	3	0	0	3	6	mmu-miR-5099	0	-0.06	< 0.1
+Mfsd8	ENSMUST00000026859.6	major facilitator superfamily domain containing 8 	851	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Ifnar2	ENSMUST00000117836.2	interferon (alpha and beta) receptor 2 	1008	1	0	0	1	1	mmu-miR-5099	0	-0.12	< 0.1
+Fkrp	ENSMUST00000061390.7	fukutin related protein 	605	1	0	0	1	1	mmu-miR-5099	0	-0.06	< 0.1
+Il13ra1	ENSMUST00000033418.7	interleukin 13 receptor, alpha 1 	816	1	0	0	1	0	mmu-miR-5099	0	-0.18	< 0.1
+Ddx1	ENSMUST00000071103.8	DEAD (Asp-Glu-Ala-Asp) box polypeptide 1 	2220	1	0	0	1	0	mmu-miR-5099	0	-0.19	< 0.1
+Slc5a12	ENSMUST00000111026.2	solute carrier family 5 (sodium/glucose cotransporter), member 12 	1356	1	0	0	1	0	mmu-miR-5099	0	-0.02	< 0.1
+Rint1	ENSMUST00000030852.7	RAD50 interactor 1 	356	1	0	0	1	0	mmu-miR-5099	0	-0.08	< 0.1
+Slc39a8	ENSMUST00000180196.2	solute carrier family 39 (metal ion transporter), member 8 	2740	1	0	0	1	1	mmu-miR-5099	0	-0.07	< 0.1
+Cdca4	ENSMUST00000062092.5	cell division cycle associated 4 	182	1	0	0	1	0	mmu-miR-5099	0	-0.07	< 0.1
+Ppwd1	ENSMUST00000022226.4	peptidylprolyl isomerase domain and WD repeat containing 1 	284	1	0	0	1	1	mmu-miR-5099	0	-0.11	< 0.1
+Gm10220	ENSMUST00000088236.3	predicted gene 10220 	5	1	0	0	1	0	mmu-miR-5099	0	-0.17	< 0.1
+Tgfb1	ENSMUST00000002678.9	transforming growth factor, beta 1 	511	1	0	0	1	1	mmu-miR-5099	0	-0.10	< 0.1
+Crp	ENSMUST00000038495.3	C-reactive protein, pentraxin-related 	5241	1	0	0	1	2	mmu-miR-5099	0	-0.10	< 0.1
+Kcnv1	ENSMUST00000022967.5	potassium channel, subfamily V, member 1 	5	2	0	0	2	6	mmu-miR-5099	0	-0.11	< 0.1
+Ccdc114	ENSMUST00000038720.4	coiled-coil domain containing 114 	140	1	0	0	1	0	mmu-miR-5099	0	-0.01	< 0.1
+4933434E20Rik	ENSMUST00000160640.2	RIKEN cDNA 4933434E20 gene 	3275	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+H3f3b	ENSMUST00000106454.2	H3 histone, family 3B 	1229	1	0	0	1	0	mmu-miR-5099	0	-0.08	< 0.1
+Htr2a	ENSMUST00000036653.3	5-hydroxytryptamine (serotonin) receptor 2A 	5	1	0	0	1	0	mmu-miR-5099	0	-0.11	< 0.1
+Polr1a	ENSMUST00000055296.8	polymerase (RNA) I polypeptide A 	4789	1	0	0	1	0	mmu-miR-5099	0	-0.02	< 0.1
+Cyp4a12a	ENSMUST00000084343.3	cytochrome P450, family 4, subfamily a, polypeptide 12a 	2400	3	0	0	3	1	mmu-miR-5099	0	-0.30	< 0.1
+Tbc1d10b	ENSMUST00000120705.1	TBC1 domain family, member 10b 	1010	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Dcun1d5	ENSMUST00000034499.8	DCN1, defective in cullin neddylation 1, domain containing 5 (S. cerevisiae) 	7108	1	0	1	0	0	mmu-miR-5099	0	-0.05	< 0.1
+Ube2f	ENSMUST00000171165.2	ubiquitin-conjugating enzyme E2F (putative) 	1870	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Tatdn2	ENSMUST00000089018.5	TatD DNase domain containing 2 	1819	1	0	0	1	0	mmu-miR-5099	0	-0.17	< 0.1
+Lsm3	ENSMUST00000040607.4	LSM3 homolog, U6 small nuclear RNA associated (S. cerevisiae) 	417	1	0	0	1	0	mmu-miR-5099	0	-0.08	< 0.1
+Abcb11	ENSMUST00000102710.4	ATP-binding cassette, sub-family B (MDR/TAP), member 11 	1186	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Dhdh	ENSMUST00000011526.4	dihydrodiol dehydrogenase (dimeric) 	4114	1	1	0	0	0	mmu-miR-5099	0	-0.35	< 0.1
+Cobll1	ENSMUST00000112429.3	Cobl-like 1 	1040	1	0	0	1	0	mmu-miR-5099	0	-0.07	< 0.1
+Cyp2c40	ENSMUST00000160476.2	cytochrome P450, family 2, subfamily c, polypeptide 40 	5	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Mmp14	ENSMUST00000089688.4	matrix metallopeptidase 14 (membrane-inserted) 	529	1	0	0	1	0	mmu-miR-5099	0	-0.11	< 0.1
+Slc25a4	ENSMUST00000034049.4	solute carrier family 25 (mitochondrial carrier, adenine nucleotide translocator), member 4 	102955	1	0	0	1	0	mmu-miR-5099	0	-0.21	< 0.1
+Prkcdbp	ENSMUST00000047040.2	protein kinase C, delta binding protein 	4501	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+Usp18	ENSMUST00000032198.9	ubiquitin specific peptidase 18 	16	1	1	0	0	0	mmu-miR-5099	0	-0.32	< 0.1
+Sh3tc2	ENSMUST00000051720.5	SH3 domain and tetratricopeptide repeats 2 	513	1	0	1	0	0	mmu-miR-5099	0	-0.07	< 0.1
+H2-Q10	ENSMUST00000174525.2	histocompatibility 2, Q region locus 10 	6249	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+Gm28048	ENSMUST00000160826.1	predicted gene, 28048 	690	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+Tktl2	ENSMUST00000183187.1	transketolase-like 2 	5	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Steap4	ENSMUST00000115421.1	STEAP family member 4 	5301	1	0	0	1	0	mmu-miR-5099	0	-0.25	< 0.1
+Gclm	ENSMUST00000029769.8	glutamate-cysteine ligase, modifier subunit 	9079	1	0	0	1	1	mmu-miR-5099	0	-0.12	< 0.1
+Ippk	ENSMUST00000021817.8	inositol 1,3,4,5,6-pentakisphosphate 2-kinase 	793	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+Ghitm	ENSMUST00000042564.10	growth hormone inducible transmembrane protein 	6265	1	0	1	0	0	mmu-miR-5099	0	-0.10	< 0.1
+Actn1	ENSMUST00000021554.9	actinin, alpha 1 	3072	1	0	0	1	0	mmu-miR-5099	0	-0.12	< 0.1
+Avpi1	ENSMUST00000018965.3	arginine vasopressin-induced 1 	2309	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+B3gnt2	ENSMUST00000062844.10	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2 	690	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Trpm7	ENSMUST00000103224.4	transient receptor potential cation channel, subfamily M, member 7 	773	1	0	0	1	0	mmu-miR-5099	0	-0.01	< 0.1
+Ascc1	ENSMUST00000050516.7	activating signal cointegrator 1 complex subunit 1 	1351	1	0	0	1	0	mmu-miR-5099	0	-0.07	< 0.1
+Cyp2b13	ENSMUST00000005669.7	cytochrome P450, family 2, subfamily b, polypeptide 13 	7	1	0	0	1	7	mmu-miR-5099	0	-0.06	< 0.1
+Agt	ENSMUST00000063278.6	angiotensinogen (serpin peptidase inhibitor, clade A, member 8) 	2632	1	0	0	1	1	mmu-miR-5099	0	-0.13	< 0.1
+Elfn2	ENSMUST00000088592.4	leucine rich repeat and fibronectin type III, extracellular 2 	5	1	0	0	1	0	mmu-miR-5099	0	-0.07	< 0.1
+Ncor2	ENSMUST00000111398.2	nuclear receptor co-repressor 2 	479	1	0	0	1	0	mmu-miR-5099	0	-0.01	< 0.1
+Tmem37	ENSMUST00000056089.7	transmembrane protein 37 	3101	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Cse1l	ENSMUST00000002790.8	chromosome segregation 1-like (S. cerevisiae) 	3849	1	0	0	1	1	mmu-miR-5099	0	-0.25	< 0.1
+Lsm12	ENSMUST00000107156.3	LSM12 homolog (S. cerevisiae) 	3995	1	0	1	0	0	mmu-miR-5099	0	-0.21	< 0.1
+Kcnj4	ENSMUST00000057801.6	potassium inwardly-rectifying channel, subfamily J, member 4 	19	2	0	0	2	0	mmu-miR-5099	0	-0.17	< 0.1
+Mill1	ENSMUST00000066780.4	MHC I like leukocyte 1 	5	1	0	0	1	0	mmu-miR-5099	0	-0.04	< 0.1
+F830016B08Rik	ENSMUST00000171297.1	RIKEN cDNA F830016B08 gene 	18	2	1	0	1	0	mmu-miR-5099	0	-0.31	< 0.1
+Trim23	ENSMUST00000069187.6	tripartite motif-containing 23 	992	1	0	1	0	0	mmu-miR-5099	0	-0.07	< 0.1
+Ints1	ENSMUST00000072607.4	integrator complex subunit 1 	1495	1	0	0	1	1	mmu-miR-5099	0	-0.06	< 0.1
+Emc2	ENSMUST00000022962.6	ER membrane protein complex subunit 2 	4059	1	0	0	1	1	mmu-miR-5099	0	-0.15	< 0.1
+Lrrc10b	ENSMUST00000171400.2	leucine rich repeat containing 10B 	12	1	0	0	1	1	mmu-miR-5099	0	-0.12	< 0.1
+Gdap2	ENSMUST00000029459.4	ganglioside-induced differentiation-associated-protein 2 	789	1	0	0	1	0	mmu-miR-5099	0	-0.13	< 0.1
+Trpc5	ENSMUST00000040184.3	transient receptor potential cation channel, subfamily C, member 5 	5	2	0	0	2	1	mmu-miR-5099	0	-0.07	< 0.1
+Mrpl14	ENSMUST00000024734.7	mitochondrial ribosomal protein L14 	9481	1	0	0	1	0	mmu-miR-5099	0	-0.11	< 0.1
+Gja1	ENSMUST00000068581.7	gap junction protein, alpha 1 	1887	1	0	0	1	0	mmu-miR-5099	0	-0.05	< 0.1
+Wdr1	ENSMUST00000005234.9	WD repeat domain 1 	1833	1	0	0	1	0	mmu-miR-5099	0	-0.08	< 0.1
+Sdhb	ENSMUST00000010007.8	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) 	14414	1	1	0	0	0	mmu-miR-5099	0	-0.47	< 0.1
+Rif1	ENSMUST00000069794.5	Rap1 interacting factor 1 homolog (yeast) 	4217	1	0	0	1	0	mmu-miR-5099	0	-0.04	< 0.1
+Agtrap	ENSMUST00000030865.8	angiotensin II, type I receptor-associated protein 	1600	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Trim35	ENSMUST00000022623.7	tripartite motif-containing 35 	2152	1	0	0	1	0	mmu-miR-5099	0	-0.11	< 0.1
+Cyp2b9	ENSMUST00000082214.4	cytochrome P450, family 2, subfamily b, polypeptide 9 	6	1	0	0	1	3	mmu-miR-5099	0	-0.07	< 0.1
+Cck	ENSMUST00000035120.4	cholecystokinin 	10	1	0	0	1	0	mmu-miR-5099	0	-0.15	< 0.1
+Pdgfrb	ENSMUST00000025522.5	platelet derived growth factor receptor, beta polypeptide 	1178	1	0	0	1	0	mmu-miR-5099	0	-0.08	< 0.1
+Prss16	ENSMUST00000006341.2	protease, serine 16 (thymus) 	22	2	0	0	2	1	mmu-miR-5099	0	-0.13	< 0.1
+Sod1	ENSMUST00000023707.9	superoxide dismutase 1, soluble 	66260	1	0	0	1	0	mmu-miR-5099	0	-0.17	< 0.1
+A530054K11Rik	ENSMUST00000012314.8	RIKEN cDNA A530054K11 gene 	22	1	0	1	0	3	mmu-miR-5099	0	-0.15	< 0.1
+Gcat	ENSMUST00000006544.7	glycine C-acetyltransferase (2-amino-3-ketobutyrate-coenzyme A ligase) 	4961	1	0	0	1	0	mmu-miR-5099	0	-0.03	< 0.1
+Copa	ENSMUST00000027833.6	coatomer protein complex subunit alpha 	3908	1	0	0	1	1	mmu-miR-5099	0	-0.08	< 0.1
+Oaf	ENSMUST00000034512.5	OAF homolog (Drosophila) 	4152	1	0	0	1	0	mmu-miR-5099	0	-0.07	< 0.1
+Tmem8b	ENSMUST00000107865.3	transmembrane protein 8B 	132	1*	0	0	0	0	mmu-miR-5099	0	0	< 0.1
+Aarsd1	ENSMUST00000070395.8	alanyl-tRNA synthetase domain containing 1 	161	1	0	0	1	0	mmu-miR-5099	0	-0.10	< 0.1
+Cox5b	ENSMUST00000081180.4	cytochrome c oxidase subunit Vb 	40278	1	0	0	1	2	mmu-miR-5099	0	-0.31	< 0.1
+Prr13	ENSMUST00000023810.6	proline rich 13 	3553	1	0	0	1	0	mmu-miR-5099	0	-0.14	< 0.1
+Cplx2	ENSMUST00000026985.8	complexin 2 	77	1	0	1	0	1	mmu-miR-5099	0	-0.17	< 0.1
+Dpp6	ENSMUST00000120555.2	dipeptidylpeptidase 6 	16	1	0	0	1	0	mmu-miR-5099	0	-0.01	< 0.1
+Glrx2	ENSMUST00000129653.2	glutaredoxin 2 (thioltransferase) 	7000	1	0	0	1	0	mmu-miR-5099	0	-0.14	< 0.1
+Agpat3	ENSMUST00000001240.6	1-acylglycerol-3-phosphate O-acyltransferase 3 	2432	1	0	1	0	0	mmu-miR-5099	0	-0.10	< 0.1
+1810013L24Rik	ENSMUST00000023150.5	RIKEN cDNA 1810013L24 gene 	1935	1	0	0	1	1	mmu-miR-5099	0	-0.07	< 0.1
+1200014J11Rik	ENSMUST00000021135.3	RIKEN cDNA 1200014J11 gene 	434	1	0	0	1	3	mmu-miR-5099	0	-0.05	< 0.1
+Lsr	ENSMUST00000001279.9	lipolysis stimulated lipoprotein receptor 	1781	1	0	0	1	0	mmu-miR-5099	0	-0.33	< 0.1
+Il21	ENSMUST00000161015.1	interleukin 21 	0	1	0	0	1	1	mmu-miR-5099	0	-0.24	< 0.1
+Sec62	ENSMUST00000029256.7	SEC62 homolog (S. cerevisiae) 	1364	1	0	0	1	0	mmu-miR-5099	0	-0.06	< 0.1
+Colq	ENSMUST00000112027.3	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase 	114	1	0	0	1	2	mmu-miR-5099	0	-0.09	< 0.1
+Stxbp5l	ENSMUST00000114787.2	syntaxin binding protein 5-like 	46	1	0	0	1	1	mmu-miR-5099	0	-0.04	< 0.1
+Ctsl	ENSMUST00000021933.7	cathepsin L 	19683	1	0	0	1	0	mmu-miR-5099	0	-0.08	< 0.1
+Eif2s3y	ENSMUST00000091197.3	eukaryotic translation initiation factor 2, subunit 3, structural gene Y-linked 	5525	1	0	0	1	0	mmu-miR-5099	0	-0.06	< 0.1
+Smarca4	ENSMUST00000098948.4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4 	4130	1	0	0	1	0	mmu-miR-5099	0	-0.01	< 0.1
+Itm2b	ENSMUST00000022704.7	integral membrane protein 2B 	16847	1	0	0	1	0	mmu-miR-5099	0	-0.11	< 0.1
+Rgma	ENSMUST00000094312.6	repulsive guidance molecule family member A 	540	1	0	0	1	1	mmu-miR-5099	0	-0.06	< 0.1
+Hist1h2bm	ENSMUST00000110476.3	histone cluster 1, H2bm 	1	1*	0	0	0	0	mmu-miR-5099	0	0	< 0.1
+Gm10083	ENSMUST00000074466.5	predicted gene 10083 	11	1*	0	0	0	0	mmu-miR-5099	0	0	< 0.1
+Gm27029	ENSMUST00000107257.2	predicted gene, 27029 	161	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Rnase6	ENSMUST00000095923.3	ribonuclease, RNase A family, 6 	41	1	0	0	1	0	mmu-miR-5099	0	-0.21	< 0.1
+Kbtbd3	ENSMUST00000049648.7	kelch repeat and BTB (POZ) domain containing 3 	37	2	0	0	2	0	mmu-miR-5099	0	-0.07	< 0.1
+Hist1h1c	ENSMUST00000040914.2	histone cluster 1, H1c 	5196	1	0	0	1	0	mmu-miR-5099	0	-0.09	< 0.1
+Ddx11	ENSMUST00000163605.2	DEAD/H (Asp-Glu-Ala-Asp/His) box helicase 11 	5825	1	0	0	1	0	mmu-miR-5099	0	-0.04	< 0.1
+Fgb	ENSMUST00000048246.3	fibrinogen beta chain 	47327	1	0	0	1	2	mmu-miR-5099	0	-0.17	< 0.1
+Mss51	ENSMUST00000022353.3	MSS51 mitochondrial translational activator 	12892	1	0	0	1	0	mmu-miR-5099	0	-0.11	< 0.1
+Cnot6	ENSMUST00000145353.2	CCR4-NOT transcription complex, subunit 6 	874	1	0	0	1	1	mmu-miR-5099	0	-0.17	< 0.1
+Rnpepl1	ENSMUST00000027487.9	arginyl aminopeptidase (aminopeptidase B)-like 1 	4508	1	0	0	1	0	mmu-miR-5099	0	-0.06	< 0.1
+Fnta	ENSMUST00000016138.9	farnesyltransferase, CAAX box, alpha 	2768	1	0	0	1	0	mmu-miR-5099	0	-0.08	< 0.1
+Nop10	ENSMUST00000028553.3	NOP10 ribonucleoprotein 	22599	1	0	0	1	0	mmu-miR-5099	0	-0.25	< 0.1
+Dnase1l3	ENSMUST00000026315.7	deoxyribonuclease 1-like 3 	458	1	0	1	0	1	mmu-miR-5099	0	-0.15	< 0.1
+Acadl	ENSMUST00000027153.5	acyl-Coenzyme A dehydrogenase, long-chain 	1619	1	0	0	1	0	mmu-miR-5099	0	-0.06	< 0.1
+Aldh1b1	ENSMUST00000044384.4	aldehyde dehydrogenase 1 family, member B1 	1119	1*	0	0	0	0	mmu-miR-5099	0	0	< 0.1
+Phyh	ENSMUST00000027975.7	phytanoyl-CoA hydroxylase 	10750	2	0	0	2	0	mmu-miR-5099	0	-0.19	< 0.1
+Slc5a6	ENSMUST00000114665.2	solute carrier family 5 (sodium-dependent vitamin transporter), member 6 	102	1*	0	0	0	0	mmu-miR-5099	0	0	< 0.1
+Msn	ENSMUST00000117399.1	moesin 	7837	1	0	0	1	0	mmu-miR-5099	0	-0.05	< 0.1
+Agtpbp1	ENSMUST00000022040.7	ATP/GTP binding protein 1 	264	1	0	1	0	0	mmu-miR-5099	0	-0.02	< 0.1
+Klhl31	ENSMUST00000057781.7	kelch-like 31 	1452	1	0	0	1	1	mmu-miR-5099	0	-0.10	< 0.1
+Ing2	ENSMUST00000080353.2	inhibitor of growth family, member 2 	1262	1	0	0	1	2	mmu-miR-5099	0	-0.04	< 0.1
+Aste1	ENSMUST00000035181.4	asteroid homolog 1 (Drosophila) 	106	1	0	0	1	0	mmu-miR-5099	0	-0.08	< 0.1
+Snrnp70	ENSMUST00000074575.7	small nuclear ribonucleoprotein 70 (U1) 	5577	1	0	0	1	1	mmu-miR-5099	0	-0.01	< 0.1
