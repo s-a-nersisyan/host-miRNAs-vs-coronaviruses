@@ -3,6 +3,7 @@ import numpy as np
 
 import seaborn as sns
 import matplotlib.pyplot as plt
+import matplotlib as mpl
 
 import random
 from scipy.stats import hypergeom
@@ -52,7 +53,7 @@ groups = {
     "GSE90624": lambda s: "Infected" if s in ["SRR5059365", "SRR5059366", "SRR5059367"] else "Healthy"
 }
 
-for gse in ["GSE36971", "GSE90624"]:
+for gse, label in zip(["GSE36971", "GSE90624"], ["A", "B"]):
     #df = pd.read_csv("input_data/{}/expression_raw_counts.tsv".format(gse), sep="\t", index_col=0)
     #print(np.sum(df.loc["mmu-mir-21a.mmu-miR-21a-5p"].to_numpy()) / np.sum(df.to_numpy()))
     ##print(np.sum(df.loc["mmu-mir-21a.mmu-miR-21a-5p"]) / np.sum(df))
@@ -71,6 +72,8 @@ for gse in ["GSE36971", "GSE90624"]:
     df = pd.melt(df, id_vars="miRNA", var_name="Sample", value_name="Expression, log(normalized counts)")
     df["Group"] = [groups[gse](s) for s in df["Sample"]]
 
+    mpl.rcParams['axes.titlepad'] = 20
+    plt.figure(figsize=(6, 6))
     sns.barplot(
         x="miRNA", y="Expression, log(normalized counts)", hue="Group", data=df,
         hue_order=["Healthy", "Infected"],
@@ -79,6 +82,7 @@ for gse in ["GSE36971", "GSE90624"]:
 
     plt.xticks(rotation="45")
     plt.xlabel("")
+    plt.title(label, loc="left", fontdict={"fontsize": "xx-large", "fontweight": "bold"})
     plt.tight_layout()
     plt.savefig("figures/miRNA_{}.pdf".format(gse))
     plt.close()

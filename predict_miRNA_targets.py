@@ -5,6 +5,7 @@ import numpy as np
 
 import seaborn as sns
 import matplotlib.pyplot as plt
+import matplotlib as mpl
 
 
 #################
@@ -86,14 +87,16 @@ high_conf_miRNAs = [
 df = df.loc[high_conf_miRNAs]
 df = df.loc[df.mean(axis=1).sort_values(ascending=False).index]  # Sort by mean target score
 
+mpl.rcParams['axes.titlepad'] = 20
 p = sns.clustermap(
-        df, row_cluster=False,
+        df, row_cluster=False, figsize=(6, 6),
         cmap=sns.color_palette("Blues"), linecolor="lightgrey", linewidth=0.1,
         cbar_kws={"label": "Target score"}, dendrogram_ratio=(.05, .2)
 )
 plt.setp(p.ax_heatmap.get_xticklabels(), rotation=45)
 p.ax_heatmap.set_xlabel("")
 p.ax_heatmap.set_ylabel("")
+plt.title("A", loc="left", fontdict={"fontsize": "xx-large", "fontweight": "bold"})
 plt.tight_layout()
 plt.savefig("figures/target_scores.pdf")
 plt.close()
@@ -107,6 +110,7 @@ df = df.loc[high_conf_miRNAs].reset_index().rename(columns={"index": "miRNA"})
 df = df.loc[df.mean(axis=1).sort_values(ascending=False).index]  # Sort by mean expression
 df = pd.melt(df, id_vars="miRNA", var_name="Sample", value_name="Expression, log(RPM)")
 
+plt.figure(figsize=(6, 6))
 cmap = sns.color_palette("Blues")
 sns.boxplot(
         x="miRNA", y="Expression, log(RPM)", data=df, 
@@ -114,6 +118,7 @@ sns.boxplot(
 )
 plt.xticks(rotation="45")
 plt.xlabel("")
+plt.title("B", loc="left", fontdict={"fontsize": "xx-large", "fontweight": "bold"})
 plt.tight_layout()
 plt.savefig("figures/miRNA_TCGA-LUAD.pdf")
 plt.close()
