@@ -1,6 +1,5 @@
-529
-
- coronavirus MERS-CoV 
+coronavirus MERS-CoV
+genome number - 529 
 
 binding postion 1110-1115:   8
 binding postion 13025-13030:   8
@@ -19,9 +18,10 @@ binding postion 24399-24404:   4
 binding postion 4230-4235:   5
 binding postion 6579-6584:   10
 binding postion 9213-9218:   11
-39
 
- coronavirus HCoV-HKU1 
+
+coronavirus HCoV-HKU1
+genome number - 39 
 
 binding postion 10973-10978:   0
 binding postion 11102-11107:   0
@@ -64,9 +64,10 @@ binding postion 8717-8722:   0
 binding postion 8864-8869:   0
 binding postion 9233-9238:   0
 binding postion 9917-9922:   0
-66
 
- coronavirus HCoV-NL63 
+
+coronavirus HCoV-NL63
+genome number - 66 
 
 binding postion 10697-10702:   6
 binding postion 11435-11440:   6
@@ -132,9 +133,10 @@ binding postion 9470-9475:   6
 binding postion 9479-9484:   6
 binding postion 9869-9874:   6
 binding postion 9998-10003:   6
-170
 
- coronavirus HCoV-OC43 
+
+coronavirus HCoV-OC43
+genome number - 170 
 
 binding postion 11565-11570:   2
 binding postion 11685-11690:   2
@@ -168,9 +170,10 @@ binding postion 8292-8297:   0
 binding postion 8604-8609:   0
 binding postion 9344-9349:   0
 binding postion 945-950:   1
-65
 
- coronavirus HCoV-229E 
+
+coronavirus HCoV-229E
+genome number - 65 
 
 binding postion 10079-10084:   5
 binding postion 10357-10362:   35
@@ -215,3 +218,5 @@ binding postion 8645-8650:   0
 binding postion 9410-9415:   0
 binding postion 9554-9559:   0
 binding postion 9719-9724:   0
+
+

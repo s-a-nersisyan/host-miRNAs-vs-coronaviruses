@@ -30,7 +30,8 @@ for n in virus_names:
         virus_id = header.split(' |')[0]
         sequence = ''.join(lines[1:])
         MAS[virus_id] = sequence
-    print(len(MAS))
+    print('coronavirus', n)
+    print('genome number -', len(MAS), '\n')
 
     MAS_coordinates = {}  # local coordinates -> MAS coordinates
 
@@ -47,7 +48,6 @@ for n in virus_names:
 # Load binding site predictions for hsa-miR-21-3p and
 # count mutations in genomes
 #################
-    print('\n', 'coronavirus', n, '\n')
     miRNA = "hsa-miR-21-3p"
     df = pd.read_csv("TargetScan_miRDB_intersection/{}.tsv".format(n),
                      sep="\t", index_col=0)
@@ -72,3 +72,4 @@ for n in virus_names:
                 continue
             count_mut += 1
         print('binding postion {}-{}:  '.format(start, end), count_mut)
+    print('\n')
