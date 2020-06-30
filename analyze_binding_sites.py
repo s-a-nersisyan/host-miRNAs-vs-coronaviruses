@@ -11,9 +11,29 @@ from scipy.cluster import hierarchy
 from itertools import combinations
 
 
-def print_alignment(left, right, padding):
-    print(" "*17 + " "*padding + "|"*(right - left))
-    for virus in MAS:
+def print_alignment(left, right, viruses, padding):
+    #print(" "*17 + " "*padding + "|"*(right - left))
+    #for virus in sorted(MAS)[::-1]:
+    #    if left in local_coordinates[virus]:
+    #        local_start = local_coordinates[virus][left] + 1
+    #    else:
+    #        local_start = None
+    #    if right in local_coordinates[virus]:
+    #        local_end = local_coordinates[virus][right]
+    #    else:
+    #        local_end = None
+    #    
+    #    region = annotations[virus].get(local_start)
+
+    #    print("{:17s}".format(virus), end="")
+    #    print(MAS[virus][left - padding:right + padding], end=" ")
+    #    print(local_start, local_end, region)
+    #print(" "*17 + " "*padding + "|"*(right - left))
+    
+    #print(" "*17 + " "*padding + "|"*(right - left))
+    to_print = ["Virus", "Seed start", "Seed end", "Alignment"]
+    print("\t".join(to_print))
+    for virus in viruses:
         if left in local_coordinates[virus]:
             local_start = local_coordinates[virus][left] + 1
         else:
@@ -24,11 +44,16 @@ def print_alignment(left, right, padding):
             local_end = None
         
         region = annotations[virus].get(local_start)
-
-        print("{:17s}".format(virus), end="")
-        print(MAS[virus][left - padding:right + padding], end=" ")
-        print(local_start, local_end, region)
-    print(" "*17 + " "*padding + "|"*(right - left))
+        
+        to_print = [
+            virus, str(local_start), str(local_end), 
+            MAS[virus][left - padding:left] + "|" + MAS[virus][left:right] + "|" + MAS[virus][right:right + padding]
+        ]
+        print("\t".join(to_print))
+        #print("{:17s}".format(virus), end="")
+        #print(MAS[virus][left - padding:right + padding], end=" ")
+        #print(local_start, local_end, region)
+    #print(" "*17 + " "*padding + "|"*(right - left))
 
 
 def calc_matches(left, right, padding, viruses):
@@ -57,24 +82,26 @@ def calc_matching_proba(padding, matches, viruses):
 # and establish mapping between local and global coordinates
 #################
 
-f = open("input_data/MAS_coronaviruses.clustal")
-f.readline()
-f.readline()
-
 MAS = {}
-num_viruses = 7
-while 1:
-    line = f.readline()  # Empty line or EOF
-    if len(line) == 0:  # EOF
-        break
-   
-    for i in range(num_viruses):
-        line = f.readline().strip()
-        virus, seq = line.split(" "*6)
-        MAS[virus] = MAS.get(virus, "") + seq
-    
-    f.readline()  # Line with meta information
- 
+virus_ids = {
+    "NC_002645.1": "HCoV-229E",
+    "NC_006577.2": "HCoV-HKU1",
+    "NC_005831.2": "HCoV-NL63",
+    "NC_006213.1": "HCoV-OC43",
+    "NC_019843.3": "MERS-CoV",
+    "NC_045512.2": "SARS-CoV-2",
+    "NC_004718.3": "SARS-CoV",
+}
+f = open("input_data/MAS_coronaviruses.fasta")
+genomes = f.read().split(">")[1:]
+for g in genomes:
+    lines = g.split("\n")
+    header = lines[0]
+    sequence = "".join(lines[1:])
+    virus_id = header.split(" |")[0]
+    virus = virus_ids[virus_id]
+    MAS[virus] = sequence
+
 MAS_coordinates = {}  # local coordinates -> MAS coordinates
 for virus in MAS:
     MAS_coordinates[virus] = {}
@@ -117,6 +144,24 @@ for virus in MAS:
 
         for i in range(int(start), int(end) + 1):
             annotations[virus][i] = annotations[virus].get(i, []) + [name]
+
+#################
+# Create summary table on hsa-miR-21-3p binding positions
+#################
+
+miRNA = "hsa-miR-21-3p"
+table = []
+for virus in sorted(MAS)[::-1]:
+    df = pd.read_csv("TargetScan_miRDB_intersection/{}.tsv".format(virus), sep="\t", index_col=0)
+    site_types = np.unique(df["Site type"]).tolist()
+    nums = [len(df.loc[df["Site type"] == st].loc[miRNA]) for st in site_types]
+    table.append([virus] + [str(n) for n in nums] + [str(sum(nums))])
+
+# Print latex table
+print("& " + " & ".join(site_types + ["Total"]) + " \\\\\\hline")
+for row in table:
+    print(" & ".join(row) + " \\\\\\hline")
+
 
 #################
 # Load binding site predictions for hsa-miR-21-3p and map them onto alignment
@@ -202,11 +247,10 @@ plt.savefig("figures/binding_site_dendrogram.pdf")
 # Print results
 #################
 
-padding = 50
+padding = 20
 for (a, b), viruses in sorted(binding_positions.items(), key=lambda x: len(x[1]), reverse=True):
     if len(viruses) == 1:
         continue
 
-    print("Consensus between " + ", ".join(viruses) + ":\n")
-    print_alignment(a, b, padding)
-    print("\n" + "*"*17 + "\n")
+    print_alignment(a, b, viruses, padding)
+    print()

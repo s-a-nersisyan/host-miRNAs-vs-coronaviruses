@@ -34,15 +34,10 @@ df = df.rename(columns={
 df.index.name = "pre-miRNA.miRNA"
 df.to_csv("tables/mouse_lung_DE_miRNAs.tsv", sep="\t")
 
-# Compute p-value using Monte-Carlo simulation
-box = list(range(2302))  # There are 2303 miRNAs in total
-N, counter = 10**2, 0  # N should be 10**7 (would take several minutes to run)
-for i in range(N):
-    set1 = set(random.sample(box, len(df1)))
-    set2 = set(random.sample(box, len(df2)))
-    if len(set.intersection(set1, set2)) >= len(df):
-        counter += 1
-print("p-value on two sets intersection: {}".format(counter / N))
+# There are 2303 miRNAs in total
+rv = hypergeom(2302, len(df1), len(df2))
+pval = sum([rv.pmf(k) for k in range(len(df), len(df2) + 1)])
+print("p-value on two sets intersection: {}".format(pval))
 
 #################
 # Make miRNA expression plots
