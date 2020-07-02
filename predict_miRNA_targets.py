@@ -73,7 +73,6 @@ df_num.to_csv("tables/TargetScan_miRDB_number_of_predictions.tsv", sep="\t", ind
 # Plot heatmap based on miRNA-virus target scores
 #################
 
-df = pd.read_csv("tables/miRNAs_vs_viruses_best_predictions.tsv", sep="\t", index_col=0)
 # List of high confidence miRNAs (according to miRBase) was manually intersected with the df
 high_conf_miRNAs = [
     "hsa-miR-16-5p",

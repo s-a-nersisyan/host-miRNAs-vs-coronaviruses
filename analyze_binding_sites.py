@@ -12,25 +12,6 @@ from itertools import combinations
 
 
 def print_alignment(left, right, viruses, padding):
-    #print(" "*17 + " "*padding + "|"*(right - left))
-    #for virus in sorted(MAS)[::-1]:
-    #    if left in local_coordinates[virus]:
-    #        local_start = local_coordinates[virus][left] + 1
-    #    else:
-    #        local_start = None
-    #    if right in local_coordinates[virus]:
-    #        local_end = local_coordinates[virus][right]
-    #    else:
-    #        local_end = None
-    #    
-    #    region = annotations[virus].get(local_start)
-
-    #    print("{:17s}".format(virus), end="")
-    #    print(MAS[virus][left - padding:right + padding], end=" ")
-    #    print(local_start, local_end, region)
-    #print(" "*17 + " "*padding + "|"*(right - left))
-    
-    #print(" "*17 + " "*padding + "|"*(right - left))
     to_print = ["Virus", "Seed start", "Seed end", "Alignment"]
     print("\t".join(to_print))
     for virus in viruses:
@@ -47,42 +28,16 @@ def print_alignment(left, right, viruses, padding):
         
         to_print = [
             virus, str(local_start), str(local_end), 
-            MAS[virus][left - padding:left] + "|" + MAS[virus][left:right] + "|" + MAS[virus][right:right + padding]
+            MSA[virus][left - padding:left] + "|" + MSA[virus][left:right] + "|" + MSA[virus][right:right + padding]
         ]
         print("\t".join(to_print))
-        #print("{:17s}".format(virus), end="")
-        #print(MAS[virus][left - padding:right + padding], end=" ")
-        #print(local_start, local_end, region)
-    #print(" "*17 + " "*padding + "|"*(right - left))
-
-
-def calc_matches(left, right, padding, viruses):
-    matches = 0
-    for i in range(left - padding, right + padding):
-        nucl = {MAS[virus][i] for virus in viruses}
-        if len(nucl) == 1:
-            matches += 1
-
-    return matches
-
-
-def calc_matching_proba(padding, matches, viruses):
-    N = 10000
-    hits = 0
-    for i in range(N):
-        a = np.random.randint(padding, len(MAS["SARS-CoV"]) - padding - 6)
-        b = a + 6
-        if calc_matches(a, b, padding, viruses) >= matches:
-            hits += 1
-    
-    return hits / N
 
 #################
 # Parse Multiple Sequence Alignment (MSA) of coronavirus genomes
 # and establish mapping between local and global coordinates
 #################
 
-MAS = {}
+MSA = {}
 virus_ids = {
     "NC_002645.1": "HCoV-229E",
     "NC_006577.2": "HCoV-HKU1",
@@ -92,7 +47,7 @@ virus_ids = {
     "NC_045512.2": "SARS-CoV-2",
     "NC_004718.3": "SARS-CoV",
 }
-f = open("input_data/MAS_coronaviruses.fasta")
+f = open("input_data/MSA/human_coronaviruses.fasta")
 genomes = f.read().split(">")[1:]
 for g in genomes:
     lines = g.split("\n")
@@ -100,27 +55,27 @@ for g in genomes:
     sequence = "".join(lines[1:])
     virus_id = header.split(" |")[0]
     virus = virus_ids[virus_id]
-    MAS[virus] = sequence
+    MSA[virus] = sequence
 
-MAS_coordinates = {}  # local coordinates -> MAS coordinates
-for virus in MAS:
-    MAS_coordinates[virus] = {}
+MSA_coordinates = {}  # local coordinates -> MSA coordinates
+for virus in MSA:
+    MSA_coordinates[virus] = {}
     i = 0
-    for j, s in enumerate(MAS[virus]):
+    for j, s in enumerate(MSA[virus]):
         if s == "-":
             continue
-        MAS_coordinates[virus][i] = j
+        MSA_coordinates[virus][i] = j
         i += 1
 
-# Reverse MAS_coordinates to get MAS coordinates -> local coordinates
-local_coordinates = {virus: {v: k for k, v in MAS_coordinates[virus].items()} for virus in MAS_coordinates}
+# Reverse MSA_coordinates to get MSA coordinates -> local coordinates
+local_coordinates = {virus: {v: k for k, v in MSA_coordinates[virus].items()} for virus in MSA_coordinates}
 
 #################
 # Parse fasta files with genome annotations
 #################
 
 annotations = {}
-for virus in MAS:
+for virus in MSA:
     annotations[virus] = {}
     f = open("input_data/genomes/{}/cds.fasta".format(virus))
     for line in f:
@@ -151,13 +106,13 @@ for virus in MAS:
 
 miRNA = "hsa-miR-21-3p"
 table = []
-for virus in sorted(MAS)[::-1]:
+for virus in sorted(MSA)[::-1]:
     df = pd.read_csv("TargetScan_miRDB_intersection/{}.tsv".format(virus), sep="\t", index_col=0)
     site_types = np.unique(df["Site type"]).tolist()
-    nums = [len(df.loc[df["Site type"] == st].loc[miRNA]) for st in site_types]
+    nums = [len(df.loc[df["Site type"] == st].loc[[miRNA]]) for st in site_types]
     table.append([virus] + [str(n) for n in nums] + [str(sum(nums))])
 
-# Print latex table
+# Print latex table (Table 1)
 print("& " + " & ".join(site_types + ["Total"]) + " \\\\\\hline")
 for row in table:
     print(" & ".join(row) + " \\\\\\hline")
@@ -169,7 +124,7 @@ for row in table:
 
 miRNA = "hsa-miR-21-3p"
 binding_positions = {}  # Interval (start, end) -> list of viruses
-for virus in MAS:
+for virus in MSA:
     df = pd.read_csv("TargetScan_miRDB_intersection/{}.tsv".format(virus), sep="\t", index_col=0)
     for i, row in df.loc[[miRNA]].iterrows():
         start, end = row["Start"], row["End"]
@@ -183,10 +138,8 @@ for virus in MAS:
             end -= 1
         
         # Transform to alignment coordinates
-        start_aln, end_aln = MAS_coordinates[virus][start - 1], MAS_coordinates[virus][end]
+        start_aln, end_aln = MSA_coordinates[virus][start - 1], MSA_coordinates[virus][end]
         
-        #dict_ = binding_positions.get((start_aln, end_aln), {})
-        #dict_[virus] = (start, end, annotation[virus].get(start, []))
         binding_positions[(start_aln, end_aln)] = binding_positions.get((start_aln, end_aln), []) + [virus]
 
 
@@ -195,9 +148,9 @@ for virus in MAS:
 #################
 
 # Number of common binding positions for two viruses
-df_common = pd.DataFrame(np.zeros((len(MAS), len(MAS))))
-df_common.index = sorted(list(MAS.keys()))[::-1]
-df_common.columns = sorted(list(MAS.keys()))[::-1]
+df_common = pd.DataFrame(np.zeros((len(MSA), len(MSA))))
+df_common.index = sorted(list(MSA.keys()))[::-1]
+df_common.columns = sorted(list(MSA.keys()))[::-1]
 
 total_positions = 0
 for (a, b), viruses in binding_positions.items():

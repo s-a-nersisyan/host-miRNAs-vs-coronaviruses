@@ -49,10 +49,6 @@ groups = {
 }
 
 for gse, label in zip(["GSE36971", "GSE90624"], ["A", "B"]):
-    #df = pd.read_csv("input_data/{}/expression_raw_counts.tsv".format(gse), sep="\t", index_col=0)
-    #print(np.sum(df.loc["mmu-mir-21a.mmu-miR-21a-5p"].to_numpy()) / np.sum(df.to_numpy()))
-    ##print(np.sum(df.loc["mmu-mir-21a.mmu-miR-21a-5p"]) / np.sum(df))
-    
     df = pd.read_csv("input_data/{}/expression_normalized_counts.csv".format(gse), index_col=0)
     df = np.log2(df + 1)
     
