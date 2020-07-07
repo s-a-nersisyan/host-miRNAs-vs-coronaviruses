@@ -1,8 +1,6 @@
 # host-miRNAs-vs-coronaviruses
 
-Source code which allows to fully reproduce results presented in the manuscript submitted to RNA journal.
-
-Preprint: https://doi.org/10.1101/2020.07.03.184846
+Source code which allows to fully reproduce results presented in the preprint https://doi.org/10.1101/2020.07.03.184846.
 
 - predict_miRNA_targets.py: intersect the results of miRDB and TargetScan predictions;
 - analyze_diff_expr.py: summary of differential expression analysis done for mouse lung miRNA-seq data;
